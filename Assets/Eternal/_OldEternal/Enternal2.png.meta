@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: e6c5d6cc9d7d34b538a665d4d76584c6
+timeCreated: 1432654319
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enternal2_0
+    21300002: Enternal2_1
+    21300004: Enternal2_2
+    21300006: Enternal2_3
+    21300008: Enternal2_4
+    21300010: Enternal2_5
+    21300012: Enternal2_6
+    21300014: Enternal2_7
+    21300016: Enternal2_8
+    21300018: Enternal2_9
+    21300020: Enternal2_10
+    21300022: Enternal2_11
+    21300024: Enternal2_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enternal2_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 562
+        width: 146
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341
+        width: 88
+        height: 73
+      alignment: 9
+      pivot: {x: .66931206, y: .735502481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 149
+        width: 151
+        height: 271
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 287
+        width: 82
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 105
+        height: 106
+      alignment: 9
+      pivot: {x: .259862125, y: .813558877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_5
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 254
+        width: 132
+        height: 63
+      alignment: 9
+      pivot: {x: .168367326, y: .388922811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 67
+        width: 75
+        height: 107
+      alignment: 9
+      pivot: {x: .652814925, y: .810628593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 101
+        width: 67
+        height: 109
+      alignment: 9
+      pivot: {x: .448681265, y: .815443575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_8
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 156
+        width: 68
+        height: 85
+      alignment: 9
+      pivot: {x: .371117979, y: .735670924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 28
+        width: 64
+        height: 106
+      alignment: 9
+      pivot: {x: .428368092, y: .802746832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 12
+        width: 115
+        height: 62
+      alignment: 9
+      pivot: {x: .353287131, y: .681419134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 67
+        width: 115
+        height: 63
+      alignment: 9
+      pivot: {x: .392410398, y: .732101202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enternal2_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 70
+        height: 114
+      alignment: 9
+      pivot: {x: .605562925, y: .771447659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

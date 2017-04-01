@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 52b845d8082974b0eaa3329d0e7ecbdb
+timeCreated: 1429038247
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ProjectEternalHero_0
+    21300002: ProjectEternalHero_1
+    21300004: ProjectEternalHero_2
+    21300006: ProjectEternalHero_3
+    21300008: ProjectEternalHero_4
+    21300010: ProjectEternalHero_5
+    21300012: ProjectEternalHero_6
+    21300014: ProjectEternalHero_7
+    21300016: ProjectEternalHero_8
+    21300018: ProjectEternalHero_9
+    21300020: ProjectEternalHero_10
+    21300022: ProjectEternalHero_11
+    21300024: ProjectEternalHero_12
+    21300026: ProjectEternalHero_13
+    21300028: ProjectEternalHero_14
+    21300030: ProjectEternalHero_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ProjectEternalHero_0
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 316
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 213
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 270
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 234
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: .500001013, y: .751588523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 223
+        width: 15
+        height: 27
+      alignment: 9
+      pivot: {x: .500002027, y: .811534762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 171
+        width: 14
+        height: 20
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 5}
+    - name: ProjectEternalHero_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 191
+        width: 13
+        height: 20
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 181
+        width: 65
+        height: 19
+      alignment: 9
+      pivot: {x: .206010088, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 157
+        width: 17
+        height: 33
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 155
+        width: 17
+        height: 33
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 159
+        width: 15
+        height: 11
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 126
+        width: 15
+        height: 12
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 107
+        width: 15
+        height: 25
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 116
+        width: 15
+        height: 25
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 81
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ProjectEternalHero_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 78
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

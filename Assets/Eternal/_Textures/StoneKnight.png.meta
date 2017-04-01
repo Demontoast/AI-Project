@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 4c60e173fce3942f69d898a95d8deee9
+timeCreated: 1440605572
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StoneKnight_0
+    21300002: StoneKnight_1
+    21300004: StoneKnight_2
+    21300006: StoneKnight_3
+    21300008: StoneKnight_4
+    21300010: StoneKnight_5
+    21300012: StoneKnight_6
+    21300014: StoneKnight_7
+    21300016: StoneKnight_8
+    21300018: StoneKnight_9
+    21300020: StoneKnight_10
+    21300022: StoneKnight_11
+    21300024: StoneKnight_12
+    21300026: StoneKnight_13
+    21300028: StoneKnight_14
+    21300030: StoneKnight_15
+    21300032: StoneKnight_16
+    21300034: StoneKnight_17
+    21300036: StoneKnight_18
+    21300038: StoneKnight_19
+    21300040: StoneKnight_20
+    21300042: StoneKnight_21
+    21300044: StoneKnight_22
+    21300046: StoneKnight_23
+    21300048: StoneKnight_24
+    21300050: StoneKnight_25
+    21300052: StoneKnight_26
+    21300054: StoneKnight_27
+    21300056: StoneKnight_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StoneKnight_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 233
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .800000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 233
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .800000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 233
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .800000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 233
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .800000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 233
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .800000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 233
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .800000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .800000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .800000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 191
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .800000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 191
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .800000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 53
+        height: 33
+      alignment: 9
+      pivot: {x: .812710047, y: .485000014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 132
+        width: 25
+        height: 50
+      alignment: 9
+      pivot: {x: .600717187, y: .323836982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 142
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: .224408239, y: .409999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 142
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: .23162283, y: .514999986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 143
+        width: 41
+        height: 32
+      alignment: 9
+      pivot: {x: .243068784, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 92
+        width: 35
+        height: 34
+      alignment: 9
+      pivot: {x: .266802967, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 93
+        width: 22
+        height: 51
+      alignment: 9
+      pivot: {x: .550896585, y: .314947993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 91
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: .294999987, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 91
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: .294999987, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 91
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: .294999987, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 91
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: .294999987, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_21
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 91
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: .294999987, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: .294999987, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 54
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: .294999987, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 54
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: .294999987, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 20
+        height: 48
+      alignment: 9
+      pivot: {x: .499999821, y: .33200112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 20
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .307912499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1
+        width: 20
+        height: 53
+      alignment: 9
+      pivot: {x: .5, y: .301812083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StoneKnight_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

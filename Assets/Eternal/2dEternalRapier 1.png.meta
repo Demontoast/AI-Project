@@ -1,0 +1,1554 @@
+fileFormatVersion: 2
+guid: a0a84796038d14076b5cdd7592f4e23e
+timeCreated: 1473543327
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalRapier 1_0
+    21300002: 2dEternalRapier 1_1
+    21300004: 2dEternalRapier 1_2
+    21300006: 2dEternalRapier 1_3
+    21300008: 2dEternalRapier 1_4
+    21300010: 2dEternalRapier 1_5
+    21300012: 2dEternalRapier 1_6
+    21300014: 2dEternalRapier 1_7
+    21300016: 2dEternalRapier 1_8
+    21300018: 2dEternalRapier 1_9
+    21300020: 2dEternalRapier 1_10
+    21300022: 2dEternalRapier 1_11
+    21300024: 2dEternalRapier 1_12
+    21300026: 2dEternalRapier 1_13
+    21300028: 2dEternalRapier 1_14
+    21300030: 2dEternalRapier 1_15
+    21300032: 2dEternalRapier 1_16
+    21300034: 2dEternalRapier 1_17
+    21300036: 2dEternalRapier 1_18
+    21300038: 2dEternalRapier 1_19
+    21300040: 2dEternalRapier 1_20
+    21300042: 2dEternalRapier 1_21
+    21300044: 2dEternalRapier 1_22
+    21300046: 2dEternalRapier 1_23
+    21300048: 2dEternalRapier 1_24
+    21300050: 2dEternalRapier 1_25
+    21300052: 2dEternalRapier 1_26
+    21300054: 2dEternalRapier 1_27
+    21300056: 2dEternalRapier 1_28
+    21300058: 2dEternalRapier 1_29
+    21300060: 2dEternalRapier 1_30
+    21300062: 2dEternalRapier 1_31
+    21300064: 2dEternalRapier 1_32
+    21300066: 2dEternalRapier 1_33
+    21300068: 2dEternalRapier 1_34
+    21300070: 2dEternalRapier 1_35
+    21300072: 2dEternalRapier 1_36
+    21300074: 2dEternalRapier 1_37
+    21300076: 2dEternalRapier 1_38
+    21300078: 2dEternalRapier 1_39
+    21300080: 2dEternalRapier 1_40
+    21300082: 2dEternalRapier 1_41
+    21300084: 2dEternalRapier 1_42
+    21300086: 2dEternalRapier 1_43
+    21300088: 2dEternalRapier 1_44
+    21300090: 2dEternalRapier 1_45
+    21300092: 2dEternalRapier 1_46
+    21300094: 2dEternalRapier 1_47
+    21300096: 2dEternalRapier 1_48
+    21300098: 2dEternalRapier 1_49
+    21300100: 2dEternalRapier 1_50
+    21300102: 2dEternalRapier 1_51
+    21300104: 2dEternalRapier 1_52
+    21300106: 2dEternalRapier 1_53
+    21300108: 2dEternalRapier 1_54
+    21300110: 2dEternalRapier 1_55
+    21300112: 2dEternalRapier 1_56
+    21300114: 2dEternalRapier 1_57
+    21300116: 2dEternalRapier 1_58
+    21300118: 2dEternalRapier 1_59
+    21300120: 2dEternalRapier 1_60
+    21300122: 2dEternalRapier 1_61
+    21300124: 2dEternalRapier 1_62
+    21300126: 2dEternalRapier 1_63
+    21300128: 2dEternalRapier 1_64
+    21300130: 2dEternalRapier 1_65
+    21300132: 2dEternalRapier 1_66
+    21300134: 2dEternalRapier 1_67
+    21300136: 2dEternalRapier 1_68
+    21300138: 2dEternalRapier 1_69
+    21300140: 2dEternalRapier 1_70
+    21300142: 2dEternalRapier 1_71
+    21300144: 2dEternalRapier 1_72
+    21300146: 2dEternalRapier 1_73
+    21300148: 2dEternalRapier 1_74
+    21300150: 2dEternalRapier 1_75
+    21300152: 2dEternalRapier 1_76
+    21300154: 2dEternalRapier 1_77
+    21300156: 2dEternalRapier 1_78
+    21300158: 2dEternalRapier 1_79
+    21300160: 2dEternalRapier 1_80
+    21300162: 2dEternalRapier 1_81
+    21300164: 2dEternalRapier 1_82
+    21300166: 2dEternalRapier 1_83
+    21300168: 2dEternalRapier 1_84
+    21300170: 2dEternalRapier 1_85
+    21300172: 2dEternalRapier 1_86
+    21300174: 2dEternalRapier 1_87
+    21300176: 2dEternalRapier 1_88
+    21300178: 2dEternalRapier 1_89
+    21300180: 2dEternalRapier 1_90
+    21300182: 2dEternalRapier 1_91
+    21300184: 2dEternalRapier 1_92
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalRapier 1_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 475
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6000003, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 475
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 476
+        width: 20
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.44967216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 476
+        width: 20
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4496722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 435
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 435
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 435
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 435
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 435
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 435
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 435
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 435
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 437
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46130982, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 437
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4613098, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 392
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 392
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 392
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 392
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.345, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.489998, y: 18}
+        - {x: -11.489998, y: 16}
+        - {x: -14.489998, y: -3}
+        - {x: -14.489998, y: -18}
+        - {x: 11.510002, y: -18}
+        - {x: 27.510002, y: -13}
+        - {x: 27.510002, y: 15}
+        - {x: 17.510002, y: 18}
+    - name: 2dEternalRapier 1_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 392
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.8650055, y: 18}
+        - {x: -13.1349945, y: 18}
+        - {x: -14.1349945, y: 13}
+        - {x: -14.1349945, y: -18}
+        - {x: 35.865005, y: -18}
+        - {x: 40.865005, y: -9}
+        - {x: 40.865005, y: 7}
+      - - {x: 33.865005, y: 14}
+        - {x: 31.865005, y: 5}
+        - {x: 32.865005, y: 3}
+        - {x: 35.865005, y: 3}
+        - {x: 40.865005, y: 8}
+        - {x: 40.865005, y: 15}
+        - {x: 38.865005, y: 16}
+    - name: 2dEternalRapier 1_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 391
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 391
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4, y: 0.50000083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 391
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 351
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 351
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 351
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 353
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 354
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.800003, y: -13.5}
+        - {x: 26.800003, y: 15.5}
+        - {x: 23.800003, y: 16.5}
+        - {x: -12.199997, y: 16.5}
+        - {x: -13.199997, y: 15.5}
+        - {x: -13.199997, y: -16.5}
+        - {x: 12.800003, y: -16.5}
+        - {x: 13.800003, y: -14.5}
+        - {x: 13.800003, y: -12.5}
+        - {x: 17.800003, y: -15.5}
+    - name: 2dEternalRapier 1_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 354
+        width: 55
+        height: 33
+      alignment: 9
+      pivot: {x: 0.257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.865005, y: 5.5}
+        - {x: 12.8650055, y: 16.5}
+        - {x: -11.1349945, y: 16.5}
+        - {x: -14.1349945, y: 8.5}
+        - {x: -14.1349945, y: -16.5}
+        - {x: 11.8650055, y: -16.5}
+        - {x: 13.8650055, y: -11.5}
+        - {x: 35.865005, y: -13.5}
+        - {x: 40.865005, y: -5.5}
+      - - {x: 29.865005, y: 3.5}
+        - {x: 30.865005, y: 1.5}
+        - {x: 33.865005, y: 1.5}
+        - {x: 39.865005, y: 7.5}
+        - {x: 39.865005, y: 12.5}
+        - {x: 36.865005, y: 14.5}
+        - {x: 31.865005, y: 12.5}
+    - name: 2dEternalRapier 1_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 350
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 350
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 312
+        width: 24
+        height: 36
+      alignment: 9
+      pivot: {x: 0.58760685, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 312
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 312
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.57221746, y: 0.50541955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 312
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 312
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 312
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.800003, y: 8}
+        - {x: 4.800003, y: 18}
+        - {x: -9.199997, y: 18}
+        - {x: -13.199997, y: 8}
+        - {x: -13.199997, y: -18}
+        - {x: 13.800003, y: -18}
+        - {x: 26.800003, y: -12}
+        - {x: 26.800003, y: 9}
+        - {x: 24.800003, y: 10}
+    - name: 2dEternalRapier 1_37
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 312
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.865005, y: -6}
+        - {x: 40.865005, y: 6}
+        - {x: 13.8650055, y: 18}
+        - {x: -7.1349945, y: 18}
+        - {x: -14.1349945, y: 16}
+        - {x: -14.1349945, y: -18}
+        - {x: 7.8650055, y: -18}
+        - {x: 7.8650055, y: -12}
+        - {x: 35.865005, y: -14}
+      - - {x: 29.865005, y: 3}
+        - {x: 30.865005, y: 1}
+        - {x: 33.865005, y: 1}
+        - {x: 39.865005, y: 7}
+        - {x: 39.865005, y: 12}
+        - {x: 36.865005, y: 14}
+        - {x: 31.865005, y: 12}
+    - name: 2dEternalRapier 1_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 271
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -13, y: 17}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: -15, y: -18}
+        - {x: 12, y: -18}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+        - {x: 13, y: 18}
+    - name: 2dEternalRapier 1_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 271
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5999886, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 271
+        width: 41
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53414637, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.900002, y: 18}
+        - {x: -16.900002, y: -15}
+        - {x: -15.900002, y: -18}
+        - {x: 10.099998, y: -18}
+        - {x: 19.099998, y: -13}
+        - {x: 19.099998, y: 15}
+        - {x: 9.099998, y: 18}
+      - - {x: -17.900002, y: 13}
+        - {x: -19.900002, y: 13}
+        - {x: -21.900002, y: 12}
+        - {x: -21.900002, y: -2}
+        - {x: -18.900002, y: -2}
+        - {x: -14.900002, y: 2}
+        - {x: -14.900002, y: 12}
+    - name: 2dEternalRapier 1_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 271
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -13, y: 17}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: -15, y: -18}
+        - {x: 12, y: -18}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+        - {x: 13, y: 18}
+    - name: 2dEternalRapier 1_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 271
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5999886, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 271
+        width: 41
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5341464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.90001, y: 18}
+        - {x: -16.90001, y: -15}
+        - {x: -15.900009, y: -18}
+        - {x: 10.099991, y: -18}
+        - {x: 19.09999, y: -13}
+        - {x: 19.09999, y: 15}
+        - {x: 9.099991, y: 18}
+      - - {x: -17.90001, y: 13}
+        - {x: -19.90001, y: 13}
+        - {x: -21.90001, y: 12}
+        - {x: -21.90001, y: -2}
+        - {x: -18.90001, y: -2}
+        - {x: -14.900009, y: 2}
+        - {x: -14.900009, y: 12}
+    - name: 2dEternalRapier 1_44
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 271
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -13, y: 17}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: -15, y: -18}
+        - {x: 12, y: -18}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+        - {x: 13, y: 18}
+    - name: 2dEternalRapier 1_45
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 271
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5999886, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 271
+        width: 41
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5341464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.899994, y: 18}
+        - {x: -16.899994, y: -15}
+        - {x: -15.899994, y: -18}
+        - {x: 10.100006, y: -18}
+        - {x: 19.100006, y: -13}
+        - {x: 19.100006, y: 15}
+        - {x: 9.100006, y: 18}
+      - - {x: -17.899994, y: 13}
+        - {x: -19.899994, y: 13}
+        - {x: -21.899994, y: 12}
+        - {x: -21.899994, y: -2}
+        - {x: -18.899994, y: -2}
+        - {x: -14.899994, y: 2}
+        - {x: -14.899994, y: 12}
+    - name: 2dEternalRapier 1_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 233
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 233
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 233
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.345, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.489998, y: 18}
+        - {x: -11.489998, y: 16}
+        - {x: -14.489998, y: 1}
+        - {x: -14.489998, y: -18}
+        - {x: 22.510002, y: -18}
+        - {x: 27.510002, y: -12}
+        - {x: 27.510002, y: 18}
+    - name: 2dEternalRapier 1_50
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 233
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.8650055, y: 18}
+        - {x: -13.1349945, y: 18}
+        - {x: -14.1349945, y: 13}
+        - {x: -14.1349945, y: -18}
+        - {x: 35.865005, y: -18}
+        - {x: 40.865005, y: -9}
+        - {x: 40.865005, y: 7}
+      - - {x: 33.865005, y: 14}
+        - {x: 31.865005, y: 5}
+        - {x: 32.865005, y: 3}
+        - {x: 35.865005, y: 3}
+        - {x: 40.865005, y: 8}
+        - {x: 40.865005, y: 15}
+        - {x: 38.865005, y: 16}
+    - name: 2dEternalRapier 1_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 231
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_52
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 231
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 231
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.345, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.48999, y: 18}
+        - {x: -11.48999, y: 16}
+        - {x: -14.48999, y: -3}
+        - {x: -14.48999, y: -18}
+        - {x: 11.51001, y: -18}
+        - {x: 27.51001, y: -13}
+        - {x: 27.51001, y: 18}
+    - name: 2dEternalRapier 1_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 231
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.86499, y: 18}
+        - {x: -13.13501, y: 18}
+        - {x: -14.13501, y: 13}
+        - {x: -14.13501, y: -18}
+        - {x: 35.86499, y: -18}
+        - {x: 40.86499, y: -9}
+        - {x: 40.86499, y: 7}
+      - - {x: 33.86499, y: 14}
+        - {x: 31.86499, y: 5}
+        - {x: 32.86499, y: 3}
+        - {x: 35.86499, y: 3}
+        - {x: 40.86499, y: 8}
+        - {x: 40.86499, y: 15}
+        - {x: 38.86499, y: 16}
+    - name: 2dEternalRapier 1_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 197
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 197
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.38423347, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.862194, y: -10}
+        - {x: 25.862194, y: 18}
+        - {x: -12.137806, y: 18}
+        - {x: -13.137806, y: 16}
+        - {x: -16.137806, y: -1}
+        - {x: -16.137806, y: -18}
+        - {x: 8.862194, y: -18}
+        - {x: 13.862194, y: -15}
+        - {x: 12.862194, y: -12}
+        - {x: 16.862194, y: -14}
+    - name: 2dEternalRapier 1_57
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 197
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.864998, y: 6}
+        - {x: 8.864998, y: 18}
+        - {x: -7.135002, y: 18}
+        - {x: -11.135002, y: 16}
+        - {x: -14.135002, y: -1}
+        - {x: -14.135002, y: -18}
+        - {x: 16.864998, y: -18}
+        - {x: 19.864998, y: -17}
+        - {x: 40.864998, y: -8}
+        - {x: 40.864998, y: 6}
+      - - {x: 33.864998, y: 14}
+        - {x: 31.864998, y: 5}
+        - {x: 32.864998, y: 3}
+        - {x: 35.864998, y: 3}
+        - {x: 40.864998, y: 8}
+        - {x: 40.864998, y: 15}
+        - {x: 38.864998, y: 16}
+    - name: 2dEternalRapier 1_58
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 193
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_59
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 193
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3842335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.862198, y: -12}
+        - {x: 25.862198, y: 16}
+        - {x: 17.862198, y: 18}
+        - {x: -9.137802, y: 18}
+        - {x: -13.137802, y: 16}
+        - {x: -16.137802, y: -1}
+        - {x: -16.137802, y: -18}
+        - {x: 8.862198, y: -18}
+        - {x: 13.862198, y: -15}
+        - {x: 12.862198, y: -12}
+        - {x: 16.862198, y: -14}
+    - name: 2dEternalRapier 1_60
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 193
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.86499, y: 6}
+        - {x: 8.86499, y: 18}
+        - {x: -7.13501, y: 18}
+        - {x: -11.13501, y: 16}
+        - {x: -14.13501, y: -1}
+        - {x: -14.13501, y: -18}
+        - {x: 16.86499, y: -18}
+        - {x: 19.86499, y: -17}
+        - {x: 40.86499, y: -8}
+        - {x: 40.86499, y: 6}
+      - - {x: 33.86499, y: 14}
+        - {x: 31.86499, y: 5}
+        - {x: 32.86499, y: 3}
+        - {x: 35.86499, y: 3}
+        - {x: 40.86499, y: 8}
+        - {x: 40.86499, y: 15}
+        - {x: 38.86499, y: 16}
+    - name: 2dEternalRapier 1_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_62
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 160
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3300001, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.860004, y: 16.800003}
+        - {x: -13.860004, y: -18.199997}
+        - {x: 24.139996, y: -18.199997}
+        - {x: 28.139996, y: -14.199997}
+        - {x: 28.139996, y: 16.800003}
+    - name: 2dEternalRapier 1_63
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 55
+        height: 35
+      alignment: 9
+      pivot: {x: 0.257, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.135002, y: 16.800003}
+        - {x: -12.135002, y: 15.800003}
+        - {x: -14.135002, y: 4.800003}
+        - {x: -14.135002, y: -18.199997}
+        - {x: 38.864998, y: -18.199997}
+        - {x: 40.864998, y: -13.199997}
+        - {x: 40.864998, y: 5.800003}
+        - {x: 14.864998, y: 16.800003}
+      - - {x: 33.864998, y: 12.800003}
+        - {x: 31.864998, y: 3.800003}
+        - {x: 32.864998, y: 1.800003}
+        - {x: 35.864998, y: 1.800003}
+        - {x: 40.864998, y: 6.800003}
+        - {x: 40.864998, y: 13.800003}
+        - {x: 38.864998, y: 14.800003}
+    - name: 2dEternalRapier 1_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 158
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_65
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 158
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.33, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.860001, y: 16.800003}
+        - {x: -11.860001, y: 15.800003}
+        - {x: -13.860001, y: 0.80000305}
+        - {x: -13.860001, y: -18.199997}
+        - {x: 14.139999, y: -18.199997}
+        - {x: 28.14, y: -11.199997}
+        - {x: 28.14, y: 13.800003}
+        - {x: 23.14, y: 16.800003}
+    - name: 2dEternalRapier 1_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 158
+        width: 55
+        height: 35
+      alignment: 9
+      pivot: {x: 0.257, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.13501, y: 16.800003}
+        - {x: -12.13501, y: 15.800003}
+        - {x: -14.13501, y: 4.800003}
+        - {x: -14.13501, y: -18.199997}
+        - {x: 38.86499, y: -18.199997}
+        - {x: 40.86499, y: -13.199997}
+        - {x: 40.86499, y: 5.800003}
+        - {x: 14.86499, y: 16.800003}
+      - - {x: 33.86499, y: 12.800003}
+        - {x: 31.86499, y: 3.800003}
+        - {x: 32.86499, y: 1.800003}
+        - {x: 35.86499, y: 1.800003}
+        - {x: 40.86499, y: 6.800003}
+        - {x: 40.86499, y: 13.800003}
+        - {x: 38.86499, y: 14.800003}
+    - name: 2dEternalRapier 1_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 121
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 121
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 121
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.33790395, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.47013, y: 18}
+        - {x: -11.529869, y: 18}
+        - {x: -14.529869, y: 7}
+        - {x: -14.529869, y: -18}
+        - {x: 28.47013, y: -18}
+    - name: 2dEternalRapier 1_70
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 121
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.1349945, y: 18}
+        - {x: -14.1349945, y: 5}
+        - {x: -14.1349945, y: -18}
+        - {x: 37.865005, y: -18}
+        - {x: 40.865005, y: -17}
+        - {x: 40.865005, y: 7}
+        - {x: 8.8650055, y: 18}
+      - - {x: 33.865005, y: 14}
+        - {x: 31.865005, y: 5}
+        - {x: 32.865005, y: 3}
+        - {x: 35.865005, y: 3}
+        - {x: 40.865005, y: 8}
+        - {x: 40.865005, y: 15}
+        - {x: 38.865005, y: 16}
+    - name: 2dEternalRapier 1_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 84
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.53, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_72
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 84
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3842335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.477959, y: -16}
+        - {x: 26.477959, y: -13}
+        - {x: 26.477959, y: 17}
+        - {x: 25.477959, y: 18}
+        - {x: -10.522041, y: 18}
+        - {x: -13.522041, y: 16}
+        - {x: -16.522041, y: -1}
+        - {x: -16.522041, y: -18}
+        - {x: 8.477959, y: -18}
+        - {x: 13.477959, y: -15}
+        - {x: 12.477959, y: -12}
+        - {x: 10.477959, y: -10}
+    - name: 2dEternalRapier 1_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 84
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.257, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.135002, y: 18}
+        - {x: -11.135002, y: 16}
+        - {x: -14.135002, y: -1}
+        - {x: -14.135002, y: -18}
+        - {x: 22.864998, y: -18}
+        - {x: 40.864998, y: -6}
+        - {x: 40.864998, y: 7}
+        - {x: 8.864998, y: 18}
+      - - {x: 33.864998, y: 14}
+        - {x: 31.864998, y: 5}
+        - {x: 32.864998, y: 3}
+        - {x: 35.864998, y: 3}
+        - {x: 40.864998, y: 8}
+        - {x: 40.864998, y: 15}
+        - {x: 38.864998, y: 16}
+    - name: 2dEternalRapier 1_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 49
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 49
+        width: 43
+        height: 35
+      alignment: 9
+      pivot: {x: 0.33, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.190002, y: 16.800003}
+        - {x: -14.190002, y: -18.199997}
+        - {x: 14.809998, y: -18.199997}
+        - {x: 24.809998, y: -16.199997}
+        - {x: 28.809998, y: -13.199997}
+        - {x: 28.809998, y: 16.800003}
+    - name: 2dEternalRapier 1_76
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 49
+        width: 55
+        height: 35
+      alignment: 9
+      pivot: {x: 0.257, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.135002, y: 16.800003}
+        - {x: -14.135002, y: 3.800003}
+        - {x: -14.135002, y: -18.199997}
+        - {x: 40.864998, y: -18.199997}
+        - {x: 40.864998, y: 5.800003}
+        - {x: 13.864998, y: 16.800003}
+      - - {x: 33.864998, y: 12.800003}
+        - {x: 31.864998, y: 3.800003}
+        - {x: 32.864998, y: 1.800003}
+        - {x: 35.864998, y: 1.800003}
+        - {x: 40.864998, y: 6.800003}
+        - {x: 40.864998, y: 13.800003}
+        - {x: 38.864998, y: 14.800003}
+    - name: 2dEternalRapier 1_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 107
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 0.590675, y: 0.3959908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 107
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 0.590675, y: 0.3959908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_79
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 107
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_80
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 107
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.33718362, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.838287, y: 18}
+        - {x: -14.161713, y: 18}
+        - {x: -14.161713, y: -18}
+        - {x: 10.838287, y: -18}
+        - {x: 27.838287, y: -11}
+        - {x: 27.838287, y: 11}
+        - {x: 25.838287, y: 12}
+    - name: 2dEternalRapier 1_81
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 107
+        width: 56
+        height: 36
+      alignment: 9
+      pivot: {x: 0.25302452, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.830627, y: 18}
+        - {x: -11.169373, y: 18}
+        - {x: -14.169373, y: 8}
+        - {x: -14.169373, y: -18}
+        - {x: 23.830627, y: -18}
+        - {x: 37.830627, y: -12}
+        - {x: 41.830627, y: -6}
+        - {x: 41.830627, y: 11}
+    - name: 2dEternalRapier 1_82
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 66
+        width: 55
+        height: 36
+      alignment: 9
+      pivot: {x: 0.2559143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.075287, y: 18}
+        - {x: -14.075287, y: 5}
+        - {x: -14.075287, y: -18}
+        - {x: 32.924713, y: -18}
+        - {x: 40.924713, y: -15}
+        - {x: 40.924713, y: 2}
+        - {x: 19.924713, y: 18}
+      - - {x: 30.924713, y: -5}
+        - {x: 31.924713, y: -8}
+        - {x: 35.924713, y: -8}
+        - {x: 37.924713, y: -6}
+        - {x: 36.924713, y: -3}
+        - {x: 32.924713, y: -3}
+      - - {x: 31.924713, y: 5}
+        - {x: 33.924713, y: 3}
+        - {x: 36.924713, y: 4}
+        - {x: 36.924713, y: 7}
+        - {x: 34.924713, y: 9}
+        - {x: 31.924713, y: 8}
+    - name: 2dEternalRapier 1_83
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 444
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6000003, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_84
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 444
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6000003, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_85
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 444
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6000003, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_86
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 405
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6000003, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_87
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 405
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6000003, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_88
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 405
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5540862, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_89
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 405
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5532769, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_90
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 405
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6000003, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_91
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 362
+        width: 13
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalRapier 1_92
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 362
+        width: 13
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

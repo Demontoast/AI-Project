@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: ae05fb8ab0fad4b5788e15068a92dcb0
+timeCreated: 1468682837
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TabooSwordsman_0
+    21300002: TabooSwordsman_1
+    21300004: TabooSwordsman_2
+    21300006: TabooSwordsman_3
+    21300008: TabooSwordsman_4
+    21300010: TabooSwordsman_5
+    21300012: TabooSwordsman_6
+    21300014: TabooSwordsman_7
+    21300016: TabooSwordsman_8
+    21300018: TabooSwordsman_9
+    21300020: TabooSwordsman_10
+    21300022: TabooSwordsman_11
+    21300024: TabooSwordsman_12
+    21300026: TabooSwordsman_13
+    21300028: TabooSwordsman_14
+    21300030: TabooSwordsman_15
+    21300032: TabooSwordsman_16
+    21300034: TabooSwordsman_17
+    21300036: TabooSwordsman_18
+    21300038: TabooSwordsman_19
+    21300040: TabooSwordsman_20
+    21300042: TabooSwordsman_21
+    21300044: TabooSwordsman_22
+    21300046: TabooSwordsman_23
+    21300048: TabooSwordsman_24
+    21300050: TabooSwordsman_25
+    21300052: TabooSwordsman_26
+    21300054: TabooSwordsman_27
+    21300056: TabooSwordsman_28
+    21300058: TabooSwordsman_29
+    21300060: TabooSwordsman_30
+    21300062: TabooSwordsman_31
+    21300064: TabooSwordsman_32
+    21300066: TabooSwordsman_33
+    21300068: TabooSwordsman_34
+    21300070: TabooSwordsman_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TabooSwordsman_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 18.5}
+        - {x: -18.5, y: 17.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -15.5, y: -14.5}
+        - {x: -10.5, y: -18.5}
+        - {x: 6.5, y: -18.5}
+        - {x: 18.5, y: -10.5}
+        - {x: 18.5, y: 15.5}
+        - {x: 17.5, y: 18.5}
+    - name: TabooSwordsman_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 352
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 11.5, y: -18.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 14.5, y: 18.5}
+    - name: TabooSwordsman_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 351
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 18.5, y: -12.5}
+        - {x: 18.5, y: 5.5}
+        - {x: 10.5, y: 18.5}
+    - name: TabooSwordsman_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 351
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -18.5}
+        - {x: 18.5, y: -7.5}
+        - {x: 18.5, y: 8.5}
+        - {x: 13.5, y: 18.5}
+        - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -18.5}
+    - name: TabooSwordsman_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 351
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 16.5, y: -18.5}
+        - {x: 18.5, y: -15.5}
+        - {x: 18.5, y: 15.5}
+        - {x: 17.5, y: 18.5}
+    - name: TabooSwordsman_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 351
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -18.5}
+        - {x: 18.5, y: -7.5}
+        - {x: 18.5, y: 8.5}
+        - {x: 13.5, y: 18.5}
+        - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -18.5}
+    - name: TabooSwordsman_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 351
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 13.5, y: -18.5}
+        - {x: 18.5, y: -8.5}
+        - {x: 18.5, y: 12.5}
+        - {x: 9.5, y: 18.5}
+    - name: TabooSwordsman_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 351
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 9.5, y: -18.5}
+        - {x: 18.5, y: -13.5}
+        - {x: 18.5, y: 12.5}
+        - {x: 9.5, y: 18.5}
+    - name: TabooSwordsman_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 351
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 13.5, y: -18.5}
+        - {x: 18.5, y: -8.5}
+        - {x: 18.5, y: 12.5}
+        - {x: 9.5, y: 18.5}
+    - name: TabooSwordsman_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 351
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 9.5, y: -18.5}
+        - {x: 18.5, y: -13.5}
+        - {x: 18.5, y: 12.5}
+        - {x: 9.5, y: 18.5}
+    - name: TabooSwordsman_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 312
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 18.5}
+        - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -17.5}
+        - {x: -14.5, y: -18.5}
+        - {x: 9.5, y: -18.5}
+        - {x: 11.5, y: -16.5}
+        - {x: 18.5, y: -2.5}
+        - {x: 18.5, y: 11.5}
+    - name: TabooSwordsman_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 312
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18.5}
+        - {x: -19, y: -16.5}
+        - {x: -18, y: -18.5}
+        - {x: 10, y: -18.5}
+        - {x: 19, y: -5.5}
+        - {x: 19, y: 17.5}
+        - {x: 17, y: 18.5}
+    - name: TabooSwordsman_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 311
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18.5}
+        - {x: -19, y: 10.5}
+        - {x: -19, y: -13.5}
+        - {x: -17, y: -18.5}
+        - {x: 17, y: -18.5}
+        - {x: 19, y: -7.5}
+        - {x: 19, y: 2.5}
+        - {x: 7, y: 18.5}
+    - name: TabooSwordsman_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 311
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17.5}
+        - {x: -20, y: 14.5}
+        - {x: -20, y: -16.5}
+        - {x: -18, y: -18.5}
+        - {x: 15, y: -18.5}
+        - {x: 20, y: -11.5}
+        - {x: 20, y: 1.5}
+        - {x: 11, y: 17.5}
+    - name: TabooSwordsman_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 311
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 17.5}
+        - {x: -18.5, y: 15.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 16.5, y: -18.5}
+        - {x: 18.5, y: -8.5}
+        - {x: 18.5, y: 10.5}
+        - {x: 14.5, y: 17.5}
+    - name: TabooSwordsman_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 311
+        width: 91
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54130703, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.74106, y: 8.5}
+        - {x: 15.741058, y: 9.5}
+        - {x: 12.741058, y: 5.5}
+        - {x: 13.741058, y: 1.5}
+        - {x: 11.741058, y: -2.5}
+        - {x: 12.741058, y: 17.5}
+        - {x: 7.7410583, y: 18.5}
+        - {x: -8.258942, y: 18.5}
+        - {x: -14.258942, y: 14.5}
+        - {x: -49.25894, y: 3.5}
+        - {x: -49.25894, y: -1.5}
+        - {x: -21.258942, y: -18.5}
+        - {x: 21.741058, y: -18.5}
+        - {x: 33.74106, y: -11.5}
+        - {x: 41.74106, y: -6.5}
+    - name: TabooSwordsman_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 311
+        width: 59
+        height: 37
+      alignment: 9
+      pivot: {x: 0.8335452, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.179169, y: 18.5}
+        - {x: -49.17917, y: 3.5}
+        - {x: -49.17917, y: -1.5}
+        - {x: -25.179169, y: -18.5}
+        - {x: 9.820831, y: -18.5}
+        - {x: 9.820831, y: 18.5}
+    - name: TabooSwordsman_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 268
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5348283, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.71899, y: 18.5}
+        - {x: -18.71899, y: 16.5}
+        - {x: -18.71899, y: -16.5}
+        - {x: -17.71899, y: -18.5}
+        - {x: 10.28101, y: -18.5}
+        - {x: 16.28101, y: -1.5}
+        - {x: 16.28101, y: 9.5}
+        - {x: 8.28101, y: 18.5}
+    - name: TabooSwordsman_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 269
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.77811927, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.45913, y: 18.5}
+        - {x: -33.45913, y: 15.5}
+        - {x: -33.45913, y: 7.5}
+        - {x: -24.45913, y: -11.5}
+        - {x: -12.459129, y: -18.5}
+        - {x: 9.540871, y: -18.5}
+        - {x: 9.540871, y: 17.5}
+        - {x: 8.540871, y: 18.5}
+    - name: TabooSwordsman_19
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 252
+        width: 54
+        height: 53
+      alignment: 9
+      pivot: {x: 0.34050724, y: 0.34955296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.38739, y: 34.473694}
+        - {x: -12.38739, y: 29.473694}
+        - {x: -18.38739, y: 21.473694}
+        - {x: -18.38739, y: 17.473694}
+        - {x: -13.38739, y: 17.473694}
+        - {x: -3.3873901, y: 22.473694}
+        - {x: -14.38739, y: 17.473694}
+        - {x: -18.38739, y: 13.473694}
+        - {x: -18.38739, y: -13.526306}
+        - {x: -16.38739, y: -18.526306}
+        - {x: 19.61261, y: -18.526306}
+        - {x: 35.61261, y: 11.473694}
+        - {x: 35.61261, y: 34.473694}
+    - name: TabooSwordsman_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 252
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.33180782, y: 0.34925812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.418762, y: 26.489319}
+        - {x: 29.418762, y: 31.489319}
+        - {x: 25.418762, y: 34.48932}
+        - {x: -7.581238, y: 34.48932}
+        - {x: -18.581238, y: 25.489319}
+        - {x: -18.581238, y: 17.489319}
+        - {x: -13.581238, y: 17.489319}
+        - {x: -3.5812378, y: 22.489319}
+        - {x: 9.418762, y: 24.489319}
+        - {x: -5.581238, y: 21.489319}
+        - {x: -14.581238, y: 17.489319}
+        - {x: -18.581238, y: 14.489319}
+        - {x: -18.581238, y: -18.510681}
+        - {x: 37.418762, y: -18.510681}
+        - {x: 37.418762, y: 21.489319}
+        - {x: 36.418762, y: 23.489319}
+    - name: TabooSwordsman_21
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 253
+        width: 50
+        height: 37
+      alignment: 9
+      pivot: {x: 0.36620668, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.310333, y: 18.5}
+        - {x: -18.310333, y: 15.5}
+        - {x: -18.310333, y: -12.5}
+        - {x: -11.310333, y: -18.5}
+        - {x: 30.689667, y: -18.5}
+        - {x: 31.689667, y: -16.5}
+        - {x: 31.689667, y: 3.5}
+        - {x: 9.689667, y: 18.5}
+    - name: TabooSwordsman_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 224
+        width: 47
+        height: 37
+      alignment: 9
+      pivot: {x: 0.39053482, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.355137, y: 18.5}
+        - {x: -14.355137, y: 16.5}
+        - {x: -17.355137, y: 14.5}
+        - {x: -18.355137, y: 9.5}
+        - {x: -18.355137, y: -18.5}
+        - {x: 14.644863, y: -18.5}
+        - {x: 28.644863, y: -13.5}
+        - {x: 28.644863, y: 2.5}
+        - {x: 9.644863, y: 18.5}
+    - name: TabooSwordsman_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 211
+        width: 56
+        height: 37
+      alignment: 9
+      pivot: {x: 0.31837028, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.828735, y: 18.5}
+        - {x: -17.828735, y: -16.5}
+        - {x: -12.828735, y: -18.5}
+        - {x: 25.171265, y: -18.5}
+        - {x: 38.171265, y: -14.5}
+        - {x: 38.171265, y: 5.5}
+        - {x: 14.171265, y: 18.5}
+    - name: TabooSwordsman_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 211
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.40401542, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.180695, y: 18.5}
+        - {x: -18.180695, y: 9.5}
+        - {x: -18.180695, y: -11.5}
+        - {x: -11.180695, y: -18.5}
+        - {x: 14.819305, y: -18.5}
+        - {x: 26.819305, y: -10.5}
+        - {x: 26.819305, y: 6.5}
+        - {x: 9.819305, y: 18.5}
+    - name: TabooSwordsman_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 211
+        width: 60
+        height: 37
+      alignment: 9
+      pivot: {x: 0.30741984, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.44519, y: 18.5}
+        - {x: -18.44519, y: 16.5}
+        - {x: -18.44519, y: -11.5}
+        - {x: -11.44519, y: -18.5}
+        - {x: 18.55481, y: -18.5}
+        - {x: 41.55481, y: -6.5}
+        - {x: 41.55481, y: 14.5}
+        - {x: 23.55481, y: 18.5}
+    - name: TabooSwordsman_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 211
+        width: 59
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3148421, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.575684, y: 18.5}
+        - {x: -18.575684, y: -18.5}
+        - {x: 22.424316, y: -18.5}
+        - {x: 40.424316, y: -10.5}
+        - {x: 40.424316, y: 11.5}
+        - {x: 10.424316, y: 18.5}
+    - name: TabooSwordsman_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 136
+        width: 45
+        height: 36
+      alignment: 9
+      pivot: {x: 0.40828273, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.627277, y: 0.19999695}
+        - {x: 10.627277, y: 16.199997}
+        - {x: -15.372723, y: 16.199997}
+        - {x: -18.372723, y: 8.199997}
+        - {x: -18.372723, y: -19.800003}
+        - {x: 12.627277, y: -19.800003}
+        - {x: 21.627277, y: -4.800003}
+        - {x: 21.627277, y: -2.800003}
+      - - {x: 23.627277, y: 6.199997}
+        - {x: 22.627277, y: 3.199997}
+        - {x: 25.627277, y: 0.19999695}
+        - {x: 26.627277, y: 0.19999695}
+        - {x: 26.627277, y: 5.199997}
+        - {x: 25.627277, y: 6.199997}
+    - name: TabooSwordsman_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 136
+        width: 45
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4082827, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.627281, y: 14.199997}
+        - {x: 4.627281, y: 15.199997}
+        - {x: -10.372719, y: 15.199997}
+        - {x: -18.372719, y: 9.199997}
+        - {x: -18.372719, y: -19.800003}
+        - {x: 14.627281, y: -19.800003}
+        - {x: 21.627281, y: -11.800003}
+        - {x: 21.627281, y: -3.800003}
+        - {x: 20.627281, y: -2.800003}
+    - name: TabooSwordsman_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 167
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.513543, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.512451, y: 18.5}
+        - {x: -15.487549, y: 18.5}
+        - {x: -18.487549, y: 15.5}
+        - {x: -18.487549, y: -13.5}
+        - {x: -12.487549, y: -18.5}
+        - {x: 10.512451, y: -18.5}
+        - {x: 17.512451, y: -5.5}
+        - {x: 17.512451, y: 14.5}
+    - name: TabooSwordsman_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 167
+        width: 91
+        height: 37
+      alignment: 9
+      pivot: {x: 0.56506467, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.579117, y: 18.5}
+        - {x: -29.420883, y: 18.5}
+        - {x: -51.420883, y: 4.5}
+        - {x: -51.420883, y: -0.5}
+        - {x: -26.420883, y: -18.5}
+        - {x: 30.579117, y: -18.5}
+        - {x: 39.579117, y: -12.5}
+        - {x: 39.579117, y: 9.5}
+    - name: TabooSwordsman_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 167
+        width: 61
+        height: 37
+      alignment: 9
+      pivot: {x: 0.8441407, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.492584, y: 18.5}
+        - {x: -51.492584, y: 4.5}
+        - {x: -51.492584, y: -0.5}
+        - {x: -22.492584, y: -18.5}
+        - {x: 9.507416, y: -18.5}
+        - {x: 9.507416, y: 18.5}
+    - name: TabooSwordsman_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 91
+        width: 45
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4082827, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.627281, y: 0.19999695}
+        - {x: 9.627281, y: 16.199997}
+        - {x: -18.372719, y: 16.199997}
+        - {x: -18.372719, y: -16.800003}
+        - {x: -14.372719, y: -19.800003}
+        - {x: 12.627281, y: -19.800003}
+        - {x: 21.627281, y: -10.800003}
+    - name: TabooSwordsman_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 114
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5233202, y: 0.45944864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.316208, y: 21.622055}
+        - {x: -17.316208, y: 20.622055}
+        - {x: -18.316208, y: 15.622055}
+        - {x: -18.316208, y: -14.377945}
+        - {x: -12.316208, y: -18.377945}
+        - {x: 16.683792, y: -18.377945}
+        - {x: 16.683792, y: 1.622055}
+        - {x: 9.683792, y: 21.622055}
+    - name: TabooSwordsman_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 115
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 17.5}
+        - {x: -19, y: -17.5}
+        - {x: 19, y: -17.5}
+        - {x: 19, y: 8.5}
+        - {x: 14, y: 17.5}
+    - name: TabooSwordsman_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 115
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 17.5}
+        - {x: -18, y: 17.5}
+        - {x: -19, y: 14.5}
+        - {x: -19, y: -16.5}
+        - {x: -17, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 1.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

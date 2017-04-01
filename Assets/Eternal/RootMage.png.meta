@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: e0e41b6ee77c74e2e97175c5327b6776
+timeCreated: 1470021384
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RootMage_0
+    21300002: RootMage_1
+    21300004: RootMage_2
+    21300006: RootMage_3
+    21300008: RootMage_4
+    21300010: RootMage_5
+    21300012: RootMage_6
+    21300014: RootMage_7
+    21300016: RootMage_8
+    21300018: RootMage_9
+    21300020: RootMage_10
+    21300022: RootMage_11
+    21300024: RootMage_12
+    21300026: RootMage_13
+    21300028: RootMage_14
+    21300030: RootMage_15
+    21300032: RootMage_16
+    21300034: RootMage_17
+    21300036: RootMage_18
+    21300038: RootMage_19
+    21300040: RootMage_20
+    21300042: RootMage_21
+    21300044: RootMage_22
+    21300046: RootMage_23
+    21300048: RootMage_24
+    21300050: RootMage_25
+    21300052: RootMage_26
+    21300054: RootMage_27
+    21300056: RootMage_28
+    21300058: RootMage_29
+    21300060: RootMage_30
+    21300062: RootMage_31
+    21300064: RootMage_32
+    21300066: RootMage_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RootMage_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 357
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 357
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 357
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 357
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 357
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 357
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 320
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3796086, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 320
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.37960833, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 320
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.32663605, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.33626738, y: 0.47248188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 320
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4675871, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 320
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5573295, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 320
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5680476, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 320
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58898526, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 320
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6300232, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 320
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6107605, y: 0.48583716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 284
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.481189, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.398048, y: 16.5}
+        - {x: -15.398048, y: -6.5}
+        - {x: -7.3980484, y: -16.5}
+        - {x: 13.601952, y: -16.5}
+        - {x: 16.601952, y: -7.5}
+        - {x: 16.601952, y: 16.5}
+    - name: RootMage_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 284
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 284
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_19
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 284
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 284
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.62427545, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 284
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5770508, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 284
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5192248, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 284
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6685866, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 212
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4880783, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 212
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4880783, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 247
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.63979566, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 247
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5895358, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 246
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6370691, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.571556, y: 16.5}
+        - {x: -23.571556, y: 9.5}
+        - {x: -23.571556, y: 0.5}
+        - {x: -13.571556, y: -16.5}
+        - {x: 12.428444, y: -16.5}
+        - {x: 13.428444, y: -10.5}
+        - {x: 13.428444, y: 12.5}
+        - {x: 4.428444, y: 16.5}
+    - name: RootMage_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 247
+        width: 56
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7568441, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.38327, y: 16.5}
+        - {x: -40.38327, y: 10.5}
+        - {x: -42.38327, y: 8.5}
+        - {x: -42.38327, y: 0.5}
+        - {x: -18.38327, y: -16.5}
+        - {x: 13.61673, y: -16.5}
+        - {x: 13.61673, y: 15.5}
+        - {x: 11.61673, y: 16.5}
+    - name: RootMage_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 248
+        width: 87
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7303081, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.536804, y: 16.5}
+        - {x: -63.536804, y: 10.5}
+        - {x: -63.536804, y: -6.5}
+        - {x: -28.536804, y: -16.5}
+        - {x: 20.463196, y: -16.5}
+        - {x: 23.463196, y: -2.5}
+        - {x: 23.463196, y: 12.5}
+        - {x: 16.463196, y: 16.5}
+    - name: RootMage_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 209
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.48484027, y: 0.47227913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.514889, y: 18.47023}
+        - {x: -15.514889, y: -5.52977}
+        - {x: -7.514889, y: -16.52977}
+        - {x: 7.485111, y: -16.52977}
+        - {x: 16.485111, y: 0.4702301}
+        - {x: 16.485111, y: 18.47023}
+    - name: RootMage_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 378
+        width: 40
+        height: 11
+      alignment: 9
+      pivot: {x: 0.14072685, y: 0.48406982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootMage_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 364
+        width: 18
+        height: 7
+      alignment: 9
+      pivot: {x: 0.2565901, y: 0.50000435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

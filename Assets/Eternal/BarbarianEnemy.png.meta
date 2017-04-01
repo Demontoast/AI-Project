@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: e6c4bca9a692d48f7a687fe5593a3c85
+timeCreated: 1473287917
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalNoMask_0
+    21300002: 2dEternalNoMask_1
+    21300004: 2dEternalNoMask_2
+    21300006: 2dEternalNoMask_3
+    21300008: 2dEternalNoMask_4
+    21300010: 2dEternalNoMask_5
+    21300012: 2dEternalNoMask_6
+    21300014: 2dEternalNoMask_7
+    21300016: 2dEternalNoMask_8
+    21300018: 2dEternalNoMask_9
+    21300020: 2dEternalNoMask_10
+    21300022: 2dEternalNoMask_11
+    21300024: 2dEternalNoMask_12
+    21300026: 2dEternalNoMask_13
+    21300028: 2dEternalNoMask_14
+    21300030: 2dEternalNoMask_15
+    21300032: 2dEternalNoMask_16
+    21300034: 2dEternalNoMask_17
+    21300036: 2dEternalNoMask_18
+    21300038: 2dEternalNoMask_19
+    21300040: 2dEternalNoMask_20
+    21300042: 2dEternalNoMask_21
+    21300044: 2dEternalNoMask_22
+    21300046: 2dEternalNoMask_23
+    21300048: 2dEternalNoMask_24
+    21300050: 2dEternalNoMask_25
+    21300052: 2dEternalNoMask_26
+    21300054: 2dEternalNoMask_27
+    21300056: 2dEternalNoMask_28
+    21300058: 2dEternalNoMask_29
+    21300060: 2dEternalNoMask_30
+    21300062: 2dEternalNoMask_31
+    21300064: 2dEternalNoMask_32
+    21300066: 2dEternalNoMask_33
+    21300068: 2dEternalNoMask_34
+    21300070: 2dEternalNoMask_35
+    21300072: 2dEternalNoMask_36
+    21300074: 2dEternalNoMask_37
+    21300076: 2dEternalNoMask_38
+    21300078: 2dEternalNoMask_39
+    21300080: 2dEternalNoMask_40
+    21300082: 2dEternalNoMask_41
+    21300084: 2dEternalNoMask_42
+    21300086: 2dEternalNoMask_43
+    21300088: 2dEternalNoMask_44
+    21300090: 2dEternalNoMask_45
+    21300092: 2dEternalNoMask_46
+    21300094: 2dEternalBarbarian_0
+    21300096: 2dEternalBarbarian_1
+    21300098: 2dEternalBarbarian_2
+    21300100: 2dEternalBarbarian_3
+    21300102: 2dEternalBarbarian_4
+    21300104: 2dEternalBarbarian_5
+    21300106: 2dEternalBarbarian_6
+    21300108: 2dEternalBarbarian_7
+    21300110: 2dEternalBarbarian_8
+    21300112: 2dEternalBarbarian_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalNoMask_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 234
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 234
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 232
+        width: 21
+        height: 35
+      alignment: 9
+      pivot: {x: 0.543933, y: 0.5329494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 232
+        width: 21
+        height: 35
+      alignment: 9
+      pivot: {x: 0.543933, y: 0.5329494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 237
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5979372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 237
+        width: 35
+        height: 18
+      alignment: 9
+      pivot: {x: 0.39763707, y: 1.000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 194
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 194
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 194
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 194
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 194
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 194
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 194
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 198
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 198
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 155
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5740998, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.519392, y: 16.5}
+        - {x: -19.519392, y: 11.5}
+        - {x: -19.519392, y: -8.5}
+        - {x: -17.519392, y: -16.5}
+        - {x: 12.480608, y: -16.5}
+        - {x: 14.480608, y: -14.5}
+        - {x: 14.480608, y: 16.5}
+    - name: 2dEternalNoMask_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 155
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6140697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.65023, y: 16.5}
+        - {x: -19.65023, y: 8.5}
+        - {x: -19.65023, y: -10.5}
+        - {x: -13.65023, y: -16.5}
+        - {x: 12.34977, y: -16.5}
+        - {x: 12.34977, y: 16.5}
+    - name: 2dEternalNoMask_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 155
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.69108796, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.879166, y: 16.5}
+        - {x: -24.879166, y: 9.5}
+        - {x: -24.879166, y: -9.5}
+        - {x: -9.879166, y: -16.5}
+        - {x: 9.120834, y: -16.5}
+        - {x: 11.120834, y: -14.5}
+        - {x: 11.120834, y: 16.5}
+    - name: 2dEternalNoMask_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 154
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.52420837, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.01857, y: 19.633133}
+        - {x: -7.01857, y: -1.3668671}
+        - {x: -7.01857, y: -5.366867}
+        - {x: -1.01857, y: -14.366867}
+        - {x: 1.98143, y: -15.366867}
+        - {x: 10.98143, y: -15.366867}
+        - {x: 18.98143, y: -12.366867}
+        - {x: 21.98143, y: -7.366867}
+        - {x: 21.98143, y: 19.633133}
+      - - {x: 22.98143, y: 5.633133}
+        - {x: 21.98143, y: 0.63313293}
+        - {x: 27.98143, y: -3.366867}
+        - {x: 28.98143, y: -3.366867}
+        - {x: 28.98143, y: 11.633133}
+        - {x: 26.98143, y: 11.633133}
+    - name: 2dEternalNoMask_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 150
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 150
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 150
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 112
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 112
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 112
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 155
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58034843, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.198166, y: 19.483002}
+        - {x: -3.801834, y: 13.483002}
+        - {x: -3.801834, y: -4.5169983}
+        - {x: -1.8018341, y: -11.516998}
+        - {x: 26.198166, y: -11.516998}
+        - {x: 31.198166, y: -4.5169983}
+        - {x: 31.198166, y: 19.483002}
+    - name: 2dEternalNoMask_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 118
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.550372, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 109
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 109
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 71
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 71
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 71
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 71
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58005166, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.721756, y: 16.5}
+        - {x: -19.721756, y: 12.5}
+        - {x: -19.721756, y: -9.5}
+        - {x: -8.721756, y: -16.5}
+        - {x: 14.278244, y: -16.5}
+        - {x: 14.278244, y: 16.5}
+    - name: 2dEternalNoMask_35
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 24
+        height: 46
+      alignment: 9
+      pivot: {x: 0.37878737, y: 0.35863048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7911224, y: 16.5}
+        - {x: -3.2088776, y: 14.5}
+        - {x: -4.2088776, y: 11.5}
+        - {x: -4.2088776, y: -11.5}
+        - {x: -2.2088776, y: -16.5}
+        - {x: 17.791122, y: -16.5}
+        - {x: 20.791122, y: -5.5}
+        - {x: 22.791122, y: 10.5}
+        - {x: 22.791122, y: 16.5}
+    - name: 2dEternalNoMask_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 71
+        width: 43
+        height: 33
+      alignment: 9
+      pivot: {x: 0.1981989, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.4774475, y: 16.5}
+        - {x: -4.5225525, y: 16.5}
+        - {x: -8.5225525, y: 15.5}
+        - {x: -8.5225525, y: -16.5}
+        - {x: 34.477448, y: -16.5}
+        - {x: 34.477448, y: 2.5}
+        - {x: 33.477448, y: 5.5}
+    - name: 2dEternalNoMask_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 27
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_38
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 27
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.54471296, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.520241, y: 16.5}
+        - {x: -15.520241, y: 15.5}
+        - {x: -18.52024, y: 12.5}
+        - {x: -18.52024, y: -5.5}
+        - {x: -8.520241, y: -16.5}
+        - {x: 10.479759, y: -16.5}
+        - {x: 15.479759, y: -11.5}
+        - {x: 15.479759, y: 16.5}
+    - name: 2dEternalNoMask_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 47
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24926758, y: 0.44310987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.284424, y: -10.395065}
+        - {x: 22.284424, y: -14.395065}
+        - {x: 30.284424, y: -15.395065}
+        - {x: 35.284424, y: -12.395065}
+        - {x: 35.284424, y: 12.604935}
+        - {x: 31.284424, y: 20.604935}
+        - {x: -6.715576, y: 20.604935}
+        - {x: -11.715576, y: 16.604935}
+        - {x: -11.715576, y: -3.3950653}
+        - {x: -8.715576, y: -16.395065}
+        - {x: 9.284424, y: -16.395065}
+        - {x: 8.284424, y: -14.395065}
+        - {x: 8.284424, y: -6.3950653}
+        - {x: 8.284424, y: -7.3950653}
+    - name: 2dEternalNoMask_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 27
+        width: 47
+        height: 37
+      alignment: 9
+      pivot: {x: 0.2492676, y: 0.4431099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.715576, y: 20.604935}
+        - {x: -11.715576, y: 18.604935}
+        - {x: -11.715576, y: -16.395065}
+        - {x: 32.284424, y: -16.395065}
+        - {x: 35.284424, y: -14.395065}
+        - {x: 35.284424, y: 18.604935}
+        - {x: 34.284424, y: 20.604935}
+    - name: 2dEternalNoMask_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 234
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 198
+        width: 59
+        height: 51
+      alignment: 9
+      pivot: {x: 0.418771, y: 0.3252815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.707489, y: 34.410645}
+        - {x: -24.707489, y: -0.58935547}
+        - {x: -20.707489, y: -3.5893555}
+        - {x: -17.707489, y: -1.5893555}
+        - {x: -11.707489, y: -16.589355}
+        - {x: 33.29251, y: -16.589355}
+        - {x: 34.29251, y: -15.589355}
+        - {x: 34.29251, y: 21.410645}
+        - {x: 26.292511, y: 34.410645}
+    - name: 2dEternalNoMask_43
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 198
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.20000017, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.600006, y: 16.5}
+        - {x: -8.399994, y: 16.5}
+        - {x: -8.399994, y: -12.5}
+        - {x: -7.399994, y: -16.5}
+        - {x: 33.600006, y: -16.5}
+        - {x: 33.600006, y: -4.5}
+        - {x: 31.600006, y: -2.5}
+    - name: 2dEternalNoMask_44
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 198
+        width: 59
+        height: 51
+      alignment: 9
+      pivot: {x: 0.418771, y: 0.32528147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.707489, y: 34.410645}
+        - {x: -23.707489, y: 29.410645}
+        - {x: -24.707489, y: 26.410645}
+        - {x: -24.707489, y: -0.58935547}
+        - {x: -20.707489, y: -3.5893555}
+        - {x: -17.707489, y: -1.5893555}
+        - {x: -10.707489, y: -16.589355}
+        - {x: 20.292511, y: -16.589355}
+        - {x: 34.29251, y: 0.41064453}
+        - {x: 34.29251, y: 34.410645}
+    - name: 2dEternalNoMask_45
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 140
+        width: 58
+        height: 48
+      alignment: 9
+      pivot: {x: 0.401725, y: 0.28555712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.300049, y: 34.29326}
+        - {x: -23.300049, y: -13.706741}
+        - {x: 15.699951, y: -13.706741}
+        - {x: 34.69995, y: -3.7067413}
+        - {x: 34.69995, y: 24.293259}
+        - {x: 32.69995, y: 34.29326}
+    - name: 2dEternalNoMask_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 138
+        width: 59
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4059195, y: 0.28510225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.94925, y: 35.74489}
+        - {x: -23.94925, y: 0.7448883}
+        - {x: -19.94925, y: -3.2551117}
+        - {x: -13.949249, y: 3.7448883}
+        - {x: -11.949249, y: -14.255112}
+        - {x: 35.05075, y: -14.255112}
+        - {x: 35.05075, y: 27.744888}
+        - {x: 29.05075, y: 35.74489}
+    - name: 2dEternalBarbarian_0
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 27
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.25000218, y: 0.5032309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.249924, y: -4.606621}
+        - {x: 14.249924, y: 16.39338}
+        - {x: -8.750076, y: 16.39338}
+        - {x: -8.750076, y: -13.606621}
+        - {x: -7.7500763, y: -16.60662}
+        - {x: -0.7500763, y: -16.60662}
+        - {x: -0.7500763, y: -12.606621}
+        - {x: 1.2499237, y: -16.60662}
+        - {x: 26.249924, y: -16.60662}
+    - name: 2dEternalBarbarian_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 26
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58405304, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.689697, y: 16.5}
+        - {x: -18.689697, y: 11.5}
+        - {x: -18.689697, y: -10.5}
+        - {x: -14.689697, y: -16.5}
+        - {x: 9.310303, y: -16.5}
+        - {x: 13.310303, y: -5.5}
+        - {x: 13.310303, y: 16.5}
+    - name: 2dEternalBarbarian_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 27
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6819085, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.548706, y: 16.5}
+        - {x: -24.548706, y: -13.5}
+        - {x: -19.548706, y: -16.5}
+        - {x: 11.451294, y: -16.5}
+        - {x: 11.451294, y: 16.5}
+    - name: 2dEternalBarbarian_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 71
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.27146435, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.31314, y: 8.5}
+        - {x: 15.313141, y: 16.5}
+        - {x: -6.686859, y: 16.5}
+        - {x: -8.686859, y: 15.5}
+        - {x: -8.686859, y: -14.5}
+        - {x: -6.686859, y: -16.5}
+        - {x: 23.31314, y: -16.5}
+    - name: 2dEternalBarbarian_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 69
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.35957187, y: 0.4572972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalBarbarian_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 70
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33655238, y: 0.5136261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalBarbarian_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 70
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3365524, y: 0.5136261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalBarbarian_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 138
+        width: 43
+        height: 32
+      alignment: 9
+      pivot: {x: 0.22762209, y: 0.47928286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.21225, y: 16.662949}
+        - {x: -9.78775, y: 16.662949}
+        - {x: -9.78775, y: -15.337051}
+        - {x: 33.21225, y: -15.337051}
+        - {x: 33.21225, y: -4.3370514}
+        - {x: 31.21225, y: -2.3370514}
+    - name: 2dEternalBarbarian_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 246
+        width: 33
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4060216, y: 0.59793746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalBarbarian_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 118
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5543376, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

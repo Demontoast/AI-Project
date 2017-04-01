@@ -1,0 +1,1054 @@
+fileFormatVersion: 2
+guid: 1f0dc64f6709d4bb4a8bddcffd2884d9
+timeCreated: 1474747884
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MasterKo_0
+    21300002: MasterKo_1
+    21300004: MasterKo_2
+    21300006: MasterKo_3
+    21300008: MasterKo_4
+    21300010: MasterKo_5
+    21300012: MasterKo_6
+    21300014: MasterKo_7
+    21300016: MasterKo_8
+    21300018: MasterKo_9
+    21300020: MasterKo_10
+    21300022: MasterKo_11
+    21300024: MasterKo_12
+    21300026: MasterKo_13
+    21300028: MasterKo_14
+    21300030: MasterKo_15
+    21300032: MasterKo_16
+    21300034: MasterKo_17
+    21300036: MasterKo_18
+    21300038: MasterKo_19
+    21300040: MasterKo_20
+    21300042: MasterKo_21
+    21300044: MasterKo_22
+    21300046: MasterKo_23
+    21300048: MasterKo_24
+    21300050: MasterKo_25
+    21300052: MasterKo_26
+    21300054: MasterKo_27
+    21300056: MasterKo_28
+    21300058: MasterKo_29
+    21300060: MasterKo_30
+    21300062: MasterKo_31
+    21300064: MasterKo_32
+    21300066: MasterKo_33
+    21300068: MasterKo_34
+    21300070: MasterKo_35
+    21300072: MasterKo_36
+    21300074: MasterKo_37
+    21300076: MasterKo_38
+    21300078: MasterKo_39
+    21300080: MasterKo_40
+    21300082: MasterKo_41
+    21300084: MasterKo_42
+    21300086: MasterKo_43
+    21300088: MasterKo_44
+    21300090: MasterKo_45
+    21300092: MasterKo_46
+    21300094: MasterKo_47
+    21300096: MasterKo_48
+    21300098: MasterKo_49
+    21300100: MasterKo_50
+    21300102: MasterKo_51
+    21300104: MasterKo_52
+    21300106: MasterKo_53
+    21300108: MasterKo_54
+    21300110: MasterKo_55
+    21300112: MasterKo_56
+    21300114: MasterKo_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MasterKo_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 259
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 241
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_2
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 66
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 66
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 234
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7593744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 234
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7593744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 194
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7301922, y: 0.5000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 194
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7593744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 194
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7593744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7593744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 194
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7301922, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 194
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7593744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 194
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7593744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 194
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7593744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 151
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7593744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 151
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.70790607, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 151
+        width: 54
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3520081, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.008438, y: 16}
+        - {x: -17.008438, y: 15}
+        - {x: -19.008438, y: 6}
+        - {x: -19.008438, y: -16}
+        - {x: 8.991562, y: -16}
+        - {x: 27.991562, y: -8}
+        - {x: 34.99156, y: 0}
+        - {x: 34.99156, y: 8}
+        - {x: 15.991562, y: 16}
+    - name: MasterKo_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 151
+        width: 55
+        height: 32
+      alignment: 9
+      pivot: {x: 0.34705144, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.08783, y: 16}
+        - {x: -15.08783, y: 13}
+        - {x: -19.08783, y: 0}
+        - {x: -19.08783, y: -16}
+        - {x: 9.91217, y: -16}
+        - {x: 35.91217, y: -5}
+        - {x: 35.91217, y: 16}
+    - name: MasterKo_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 195
+        width: 49
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3880665, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.984741, y: -2}
+        - {x: 26.984741, y: 0}
+        - {x: 29.984741, y: 9}
+        - {x: 29.984741, y: 16}
+        - {x: -10.015259, y: 16}
+        - {x: -17.015259, y: 14}
+        - {x: -19.015259, y: 6}
+        - {x: -19.015259, y: -16}
+        - {x: 7.984741, y: -16}
+        - {x: 21.984741, y: -8}
+        - {x: 13.984741, y: -1}
+        - {x: 11.984741, y: 0}
+        - {x: 15.984741, y: 1}
+    - name: MasterKo_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 238
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.38625044, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.914978, y: 7}
+        - {x: 16.914978, y: 6}
+        - {x: 16.914978, y: 16}
+        - {x: -13.085022, y: 16}
+        - {x: -18.085022, y: 14}
+        - {x: -20.085022, y: 7}
+        - {x: -20.085022, y: -16}
+        - {x: 14.914978, y: -16}
+        - {x: 31.914978, y: -10}
+        - {x: 31.914978, y: 5}
+        - {x: 23.914978, y: 8}
+    - name: MasterKo_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6678974, y: 0.46482188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 113
+        width: 33
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6688867, y: 0.4470804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 112
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.65394664, y: 0.46458206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.72820026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 71
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7443019, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 71
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7443019, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7443019, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 71
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.63334423, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.90036, y: 16}
+        - {x: -20.90036, y: 5}
+        - {x: -20.90036, y: -16}
+        - {x: 10.09964, y: -16}
+        - {x: 12.09964, y: -15}
+        - {x: 12.09964, y: 15}
+        - {x: 6.09964, y: 16}
+    - name: MasterKo_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 71
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4175757, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.878784, y: 16}
+        - {x: -16.878784, y: 15}
+        - {x: -20.878784, y: 5}
+        - {x: -20.878784, y: -16}
+        - {x: 29.121216, y: -16}
+        - {x: 29.121216, y: 16}
+      - - {x: 25.121216, y: 2}
+        - {x: 27.121216, y: -1}
+        - {x: 29.121216, y: 0}
+        - {x: 29.121216, y: 3}
+        - {x: 27.121216, y: 4}
+    - name: MasterKo_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 71
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.32564807, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.158524, y: 13}
+        - {x: 15.158524, y: 16}
+        - {x: -2.8414764, y: 16}
+        - {x: -11.841476, y: 9}
+        - {x: -20.841476, y: -5}
+        - {x: -20.841476, y: -15}
+        - {x: -18.841476, y: -16}
+        - {x: 16.158524, y: -16}
+        - {x: 43.158524, y: -5}
+        - {x: 43.158524, y: 2}
+        - {x: 38.158524, y: 6}
+      - - {x: 20.158524, y: 14}
+        - {x: 20.158524, y: 10}
+        - {x: 22.158524, y: 9}
+        - {x: 25.158524, y: 9}
+        - {x: 28.158524, y: 13}
+        - {x: 28.158524, y: 15}
+        - {x: 25.158524, y: 16}
+    - name: MasterKo_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 71
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3256481, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.8414917, y: 16}
+        - {x: -11.841492, y: 9}
+        - {x: -20.841492, y: -5}
+        - {x: -20.841492, y: -16}
+        - {x: 39.15851, y: -16}
+        - {x: 39.15851, y: 16}
+      - - {x: 20.158508, y: 14}
+        - {x: 20.158508, y: 11}
+        - {x: 21.158508, y: 9}
+        - {x: 23.158508, y: 9}
+        - {x: 26.158508, y: 12}
+        - {x: 25.158508, y: 15}
+        - {x: 22.158508, y: 15}
+    - name: MasterKo_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 17
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.79179615, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 17
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: 0.44140345, y: 0.43585792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.95298, y: 20.873257}
+        - {x: -22.95298, y: 12.873257}
+        - {x: -22.95298, y: -8.126743}
+        - {x: -14.95298, y: -6.1267433}
+        - {x: -14.95298, y: -2.1267433}
+        - {x: -10.95298, y: -6.1267433}
+        - {x: -21.95298, y: -10.126743}
+        - {x: -18.95298, y: -16.126743}
+        - {x: 7.04702, y: -16.126743}
+        - {x: 29.04702, y: 7.8732567}
+        - {x: 29.04702, y: 20.873257}
+    - name: MasterKo_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: 0.44250032, y: 0.43394718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.010017, y: 20.943954}
+        - {x: -23.010017, y: 15.943954}
+        - {x: -23.010017, y: 1.9439545}
+        - {x: -21.010017, y: 1.9439545}
+        - {x: -23.010017, y: -7.0560455}
+        - {x: -23.010017, y: -16.056046}
+        - {x: 28.989983, y: -16.056046}
+        - {x: 28.989983, y: 16.943954}
+        - {x: 27.989983, y: 20.943954}
+      - - {x: -20.010017, y: -5.0560455}
+        - {x: -18.010017, y: -7.0560455}
+        - {x: -15.010017, y: -6.0560455}
+        - {x: -15.010017, y: -3.0560455}
+        - {x: -17.010017, y: -1.0560455}
+        - {x: -20.010017, y: -2.0560455}
+    - name: MasterKo_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 17
+        width: 42
+        height: 32
+      alignment: 9
+      pivot: {x: 0.45279512, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.982605, y: -16.000008}
+        - {x: 22.982605, y: -16.000008}
+        - {x: 22.982605, y: -8.000008}
+        - {x: 19.982605, y: 10.999992}
+        - {x: 8.982605, y: 15.999992}
+        - {x: -14.017395, y: 15.999992}
+        - {x: -16.017395, y: 11.999992}
+        - {x: -19.017395, y: -0.0000076293945}
+        - {x: -19.017395, y: -16.000008}
+        - {x: 6.982605, y: -16.000008}
+        - {x: 5.982605, y: -9.000008}
+        - {x: 3.982605, y: -5.0000076}
+        - {x: 4.982605, y: -7.0000076}
+      - - {x: -19.017395, y: -6.0000076}
+        - {x: -18.017395, y: -7.0000076}
+        - {x: -15.017395, y: -6.0000076}
+        - {x: -15.017395, y: -3.0000076}
+        - {x: -17.017395, y: -1.0000076}
+        - {x: -19.017395, y: -2.0000076}
+      - - {x: 11.982605, y: 7.9999924}
+        - {x: 14.982605, y: 8.999992}
+        - {x: 14.982605, y: 11.999992}
+        - {x: 11.982605, y: 12.999992}
+        - {x: 9.982605, y: 10.999992}
+    - name: MasterKo_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.65691084, y: 0.46739185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_36
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 19
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6569108, y: 0.4673918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 19
+        width: 54
+        height: 30
+      alignment: 9
+      pivot: {x: 0.35110417, y: 0.4673918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 19
+        width: 55
+        height: 30
+      alignment: 9
+      pivot: {x: 0.34551558, y: 0.46739185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_39
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 114
+        width: 49
+        height: 30
+      alignment: 9
+      pivot: {x: 0.38666332, y: 0.4673918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 114
+        width: 52
+        height: 30
+      alignment: 9
+      pivot: {x: 0.3822799, y: 0.4673918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 195
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6541411, y: 0.5000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_42
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 195
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6541411, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_43
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 20
+        width: 43
+        height: 32
+      alignment: 9
+      pivot: {x: 0.44252405, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.971466, y: -16}
+        - {x: 23.971466, y: -15}
+        - {x: 23.971466, y: 12}
+        - {x: 21.971466, y: 16}
+        - {x: -19.028534, y: 16}
+        - {x: -19.028534, y: -16}
+      - - {x: -19.028534, y: -6}
+        - {x: -18.028534, y: -7}
+        - {x: -15.028534, y: -6}
+        - {x: -15.028534, y: -3}
+        - {x: -17.028534, y: -1}
+        - {x: -19.028534, y: -2}
+    - name: MasterKo_44
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 20
+        width: 43
+        height: 32
+      alignment: 9
+      pivot: {x: 0.442524, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.028534, y: 16}
+        - {x: -19.028534, y: 14}
+        - {x: -19.028534, y: -16}
+        - {x: 19.971466, y: -16}
+        - {x: 23.971466, y: -14}
+        - {x: 23.971466, y: 14}
+        - {x: 18.971466, y: 16}
+      - - {x: -19.028534, y: -6}
+        - {x: -18.028534, y: -7}
+        - {x: -15.028534, y: -6}
+        - {x: -15.028534, y: -3}
+        - {x: -17.028534, y: -1}
+        - {x: -19.028534, y: -2}
+    - name: MasterKo_45
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 59
+        width: 39
+        height: 32
+      alignment: 9
+      pivot: {x: 0.8437109, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.904724, y: 16}
+        - {x: -32.904724, y: 14}
+        - {x: -32.904724, y: -3}
+        - {x: -31.904724, y: -4}
+        - {x: -28.904724, y: -3}
+        - {x: -17.904724, y: -7}
+        - {x: -16.904724, y: -7}
+        - {x: -21.904724, y: -10}
+        - {x: -19.904724, y: -16}
+        - {x: 6.095276, y: -16}
+        - {x: 6.095276, y: 16}
+    - name: MasterKo_46
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 58
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.8295672, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.034851, y: 15.999992}
+        - {x: -14.034851, y: 11.999992}
+        - {x: -14.034851, y: 9.999992}
+        - {x: -27.034851, y: 7.9999924}
+        - {x: -29.034851, y: 7.9999924}
+        - {x: -29.034851, y: -11.000008}
+        - {x: -19.034851, y: -16.000008}
+        - {x: 5.965149, y: -16.000008}
+        - {x: 5.965149, y: 15.999992}
+    - name: MasterKo_47
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 153
+        width: 61
+        height: 32
+      alignment: 9
+      pivot: {x: 0.47593564, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.032074, y: 16}
+        - {x: -29.032074, y: -16}
+        - {x: 19.967926, y: -16}
+        - {x: 27.967926, y: -13}
+        - {x: 31.967926, y: -3}
+        - {x: 31.967926, y: 6}
+        - {x: 12.967926, y: 16}
+    - name: MasterKo_48
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 153
+        width: 62
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4759356, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.507996, y: 16}
+        - {x: -29.507996, y: -16}
+        - {x: 12.492004, y: -16}
+        - {x: 32.492004, y: -7}
+        - {x: 32.492004, y: 16}
+    - name: MasterKo_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 108
+        width: 49
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4071537, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.049469, y: 0}
+        - {x: 15.049469, y: 1}
+        - {x: 16.049469, y: -2}
+        - {x: 26.049469, y: 0}
+        - {x: 29.049469, y: 9}
+        - {x: 29.049469, y: 16}
+        - {x: -16.950531, y: 16}
+        - {x: -19.950531, y: 13}
+        - {x: -19.950531, y: -16}
+        - {x: 6.049469, y: -16}
+        - {x: 15.049469, y: -6}
+        - {x: 15.049469, y: -3}
+        - {x: 13.049469, y: -1}
+    - name: MasterKo_50
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 238
+        width: 39
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48706838, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.9956665, y: 16}
+        - {x: -16.995667, y: 14}
+        - {x: -18.995667, y: 7}
+        - {x: -18.995667, y: -16}
+        - {x: 12.0043335, y: -16}
+        - {x: 20.004333, y: -4}
+        - {x: 20.004333, y: 13}
+        - {x: 16.004333, y: 16}
+      - - {x: -18.995667, y: -6}
+        - {x: -17.995667, y: -7}
+        - {x: -14.9956665, y: -6}
+        - {x: -14.9956665, y: -3}
+        - {x: -16.995667, y: -1}
+        - {x: -18.995667, y: -2}
+    - name: MasterKo_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 238
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -17, y: 13}
+        - {x: -19, y: 0}
+        - {x: -19, y: -16}
+        - {x: 8, y: -16}
+        - {x: 19, y: -6}
+        - {x: 19, y: 12}
+        - {x: 17, y: 16}
+      - - {x: -19, y: -6}
+        - {x: -18, y: -7}
+        - {x: -15, y: -6}
+        - {x: -15, y: -3}
+        - {x: -17, y: -1}
+        - {x: -19, y: -2}
+    - name: MasterKo_52
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 202
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5120214, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.944794, y: 16}
+        - {x: -18.944794, y: 14}
+        - {x: -18.944794, y: -16}
+        - {x: 12.055206, y: -16}
+        - {x: 18.055206, y: -6}
+        - {x: 18.055206, y: 12}
+        - {x: 14.055206, y: 16}
+      - - {x: -18.944794, y: -6}
+        - {x: -17.944794, y: -7}
+        - {x: -14.944794, y: -6}
+        - {x: -14.944794, y: -3}
+        - {x: -16.944794, y: -1}
+        - {x: -18.944794, y: -2}
+      - - {x: 12.055206, y: 8}
+        - {x: 15.055206, y: 9}
+        - {x: 15.055206, y: 12}
+        - {x: 12.055206, y: 13}
+        - {x: 10.055206, y: 11}
+    - name: MasterKo_53
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 202
+        width: 51
+        height: 32
+      alignment: 9
+      pivot: {x: 0.37188002, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.965881, y: 16}
+        - {x: -18.965881, y: 13}
+        - {x: -18.965881, y: -16}
+        - {x: 9.034119, y: -16}
+        - {x: 28.034119, y: -11}
+        - {x: 32.03412, y: -3}
+        - {x: 32.03412, y: 14}
+        - {x: 26.034119, y: 16}
+      - - {x: -18.965881, y: -6}
+        - {x: -17.965881, y: -7}
+        - {x: -14.965881, y: -6}
+        - {x: -14.965881, y: -3}
+        - {x: -16.965881, y: -1}
+        - {x: -18.965881, y: -2}
+    - name: MasterKo_54
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 165
+        width: 59
+        height: 32
+      alignment: 9
+      pivot: {x: 0.32148147, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.967407, y: 16}
+        - {x: -18.967407, y: 15}
+        - {x: -18.967407, y: -16}
+        - {x: 11.032593, y: -16}
+        - {x: 40.032593, y: -3}
+        - {x: 40.032593, y: 6}
+        - {x: 13.032593, y: 16}
+      - - {x: -18.967407, y: -6}
+        - {x: -17.967407, y: -7}
+        - {x: -14.967407, y: -6}
+        - {x: -14.967407, y: -3}
+        - {x: -16.967407, y: -1}
+        - {x: -18.967407, y: -2}
+    - name: MasterKo_55
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 131
+        width: 51
+        height: 32
+      alignment: 9
+      pivot: {x: 0.37188002, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.965881, y: 16}
+        - {x: -17.965881, y: 14}
+        - {x: -18.965881, y: 13}
+        - {x: -18.965881, y: -16}
+        - {x: 14.034119, y: -16}
+        - {x: 32.03412, y: -7}
+        - {x: 32.03412, y: 9}
+        - {x: 17.034119, y: 16}
+      - - {x: -18.965881, y: -6}
+        - {x: -17.965881, y: -7}
+        - {x: -14.965881, y: -6}
+        - {x: -14.965881, y: -3}
+        - {x: -16.965881, y: -1}
+        - {x: -18.965881, y: -2}
+      - - {x: 12.034119, y: 8}
+        - {x: 15.034119, y: 9}
+        - {x: 15.034119, y: 12}
+        - {x: 12.034119, y: 13}
+        - {x: 10.034119, y: 11}
+    - name: MasterKo_56
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 117
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MasterKo_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 250
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

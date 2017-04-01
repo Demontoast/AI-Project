@@ -1,0 +1,1487 @@
+fileFormatVersion: 2
+guid: 7bef8e40f28bb4824ba727f860d5f9eb
+timeCreated: 1484189073
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalV6_0
+    21300002: 2dEternalV6_1
+    21300004: 2dEternalV6_2
+    21300006: 2dEternalV6_3
+    21300008: 2dEternalV6_4
+    21300010: 2dEternalV6_5
+    21300012: 2dEternalV6_6
+    21300014: 2dEternalV6_7
+    21300016: 2dEternalV6_8
+    21300018: 2dEternalV6_9
+    21300020: 2dEternalV6_10
+    21300022: 2dEternalV6_11
+    21300024: 2dEternalV6_12
+    21300026: 2dEternalV6_13
+    21300028: 2dEternalV6_14
+    21300030: 2dEternalV6_15
+    21300032: 2dEternalV6_16
+    21300034: 2dEternalV6_17
+    21300036: 2dEternalV6_18
+    21300038: 2dEternalV6_19
+    21300040: 2dEternalV6_20
+    21300042: 2dEternalV6_21
+    21300044: 2dEternalV6_22
+    21300046: 2dEternalV6_23
+    21300048: 2dEternalV6_24
+    21300050: 2dEternalV6_25
+    21300052: 2dEternalV6_26
+    21300054: 2dEternalV6_27
+    21300056: 2dEternalV6_28
+    21300058: 2dEternalV6_29
+    21300060: 2dEternalV6_30
+    21300062: 2dEternalV6_31
+    21300064: 2dEternalV6_32
+    21300066: 2dEternalV6_33
+    21300068: 2dEternalV6_34
+    21300070: 2dEternalV6_35
+    21300072: 2dEternalV6_36
+    21300074: 2dEternalV6_37
+    21300076: 2dEternalV6_38
+    21300078: 2dEternalV6_39
+    21300080: 2dEternalV6_40
+    21300082: 2dEternalV6_41
+    21300084: 2dEternalV6_42
+    21300086: 2dEternalV6_43
+    21300088: 2dEternalV6_44
+    21300090: 2dEternalV6_45
+    21300092: 2dEternalV6_46
+    21300094: 2dEternalV6_47
+    21300096: 2dEternalV6_48
+    21300098: 2dEternalV6_49
+    21300100: 2dEternalV6_50
+    21300102: 2dEternalV6_51
+    21300104: 2dEternalV6_52
+    21300106: 2dEternalV6_53
+    21300108: 2dEternalV6_54
+    21300110: 2dEternalV6_55
+    21300112: 2dEternalV6_56
+    21300114: 2dEternalV6_57
+    21300116: 2dEternalV6_58
+    21300118: 2dEternalV6_59
+    21300120: 2dEternalV6_60
+    21300122: 2dEternalV6_61
+    21300124: 2dEternalV6_62
+    21300126: 2dEternalV6_63
+    21300128: 2dEternalV6_64
+    21300130: 2dEternalV6_65
+    21300132: 2dEternalV6_66
+    21300134: 2dEternalV6_67
+    21300136: 2dEternalV6_68
+    21300138: 2dEternalV6_69
+    21300140: 2dEternalV6_70
+    21300142: 2dEternalV6_71
+    21300144: 2dEternalV6_72
+    21300146: 2dEternalV6_73
+    21300148: 2dEternalV6_74
+    21300150: 2dEternalV6_75
+    21300152: 2dEternalV6_76
+    21300154: 2dEternalV6_77
+    21300156: 2dEternalV6_78
+    21300158: 2dEternalV6_79
+    21300160: 2dEternalV6_80
+    21300162: 2dEternalV6_81
+    21300164: 2dEternalSword_0
+    21300166: 2dEternalSword_1
+    21300168: 2dEternalSword_2
+    21300170: 2dEternalSword_3
+    21300172: 2dEternalSword_4
+    21300174: 2dEternalSword_5
+    21300176: 2dEternalSword_6
+    21300178: 2dEternalSword_7
+    21300180: 2dEternalSword_8
+    21300182: 2dEternalSword_9
+    21300184: 2dEternalSword_10
+    21300186: 2dEternalSword_11
+    21300188: 2dEternalSword_12
+    21300190: 2dEternalSword_13
+    21300192: 2dEternalSword_14
+    21300194: 2dEternalSword_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalV6_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 475
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 475
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 475
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 476
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 476
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 439
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.42937303, y: 0.47005635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 439
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.42, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 392
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 392
+        width: 25
+        height: 37
+      alignment: 9
+      pivot: {x: 0.31473663, y: 0.44820178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 392
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.21, y: 12.350006}
+        - {x: 29.21, y: 20.350006}
+        - {x: -6.790001, y: 20.350006}
+        - {x: -7.790001, y: 14.350006}
+        - {x: -7.790001, y: -15.649994}
+        - {x: -6.790001, y: -16.649994}
+        - {x: 10.209999, y: -16.649994}
+        - {x: 9.209999, y: -8.649994}
+        - {x: 33.21, y: -2.649994}
+    - name: 2dEternalV6_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 391
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.229996, y: 16.609985}
+        - {x: 25.229996, y: 19.609985}
+        - {x: 15.229996, y: 19.609985}
+        - {x: 19.229996, y: 8.609985}
+        - {x: 18.229996, y: 11.609985}
+        - {x: 9.229996, y: 19.609985}
+        - {x: -5.7700043, y: 19.609985}
+        - {x: -7.7700043, y: 14.609985}
+        - {x: -7.7700043, y: -17.390015}
+        - {x: 29.229996, y: -17.390015}
+    - name: 2dEternalV6_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 391
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 391
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 391
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 353
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 354
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 353
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 353
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.21620214, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.08049, y: 17.5}
+        - {x: -9.08049, y: 7.5}
+        - {x: -9.08049, y: -17.5}
+        - {x: 31.91951, y: -17.5}
+        - {x: 32.91951, y: -16.5}
+        - {x: 32.91951, y: 9.5}
+        - {x: 26.91951, y: 17.5}
+    - name: 2dEternalV6_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 350
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.25027895, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.2391205, y: 18.5}
+        - {x: 19.23912, y: 7.5}
+        - {x: 18.23912, y: 10.5}
+        - {x: 9.2391205, y: 18.5}
+        - {x: -1.7608795, y: 18.5}
+        - {x: -9.7608795, y: 7.5}
+        - {x: -9.7608795, y: -17.5}
+        - {x: -4.7608795, y: -18.5}
+        - {x: 29.23912, y: -18.5}
+        - {x: 29.23912, y: 14.5}
+        - {x: 28.23912, y: 18.5}
+    - name: 2dEternalV6_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 350
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 350
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 312
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 312
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 312
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 312
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 312
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.46, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 312
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3001545, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 312
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.22599764, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 265
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5810971, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 265
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 265
+        width: 45
+        height: 33
+      alignment: 9
+      pivot: {x: 0.1775962, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.008171, y: 16.5}
+        - {x: -5.991829, y: 16.5}
+        - {x: -7.991829, y: 15.5}
+        - {x: -7.991829, y: -16.5}
+        - {x: 11.008171, y: -16.5}
+        - {x: 29.008171, y: -6.5}
+        - {x: 37.00817, y: -1.5}
+        - {x: 37.00817, y: 3.5}
+    - name: 2dEternalV6_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 265
+        width: 46
+        height: 33
+      alignment: 9
+      pivot: {x: 0.17865388, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.781921, y: 16.5}
+        - {x: -5.2180786, y: 16.5}
+        - {x: -8.218079, y: 13.5}
+        - {x: -8.218079, y: -16.5}
+        - {x: 10.781921, y: -16.5}
+        - {x: 37.78192, y: -5.5}
+        - {x: 37.78192, y: 11.5}
+    - name: 2dEternalV6_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 269
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 269
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 269
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_43
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 221
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.31, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 221
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.20999908, y: 20.350006}
+        - {x: -7.790001, y: 19.350006}
+        - {x: -7.790001, y: -14.649994}
+        - {x: -6.790001, y: -16.649994}
+        - {x: 13.209999, y: -16.649994}
+        - {x: 33.21, y: -3.649994}
+        - {x: 33.21, y: 7.350006}
+        - {x: 26.21, y: 20.350006}
+    - name: 2dEternalV6_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 217
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.21, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.809998, y: -18.399994}
+        - {x: 26.809998, y: -20.399994}
+        - {x: 30.809998, y: -20.399994}
+        - {x: 30.809998, y: -16.399994}
+        - {x: 28.809998, y: -16.399994}
+      - - {x: -7.1900024, y: 19.600006}
+        - {x: -8.190002, y: 16.600006}
+        - {x: -8.190002, y: -17.399994}
+        - {x: -1.1900024, y: -20.399994}
+        - {x: 25.809998, y: -20.399994}
+        - {x: 30.809998, y: -18.399994}
+        - {x: 30.809998, y: 17.600006}
+        - {x: 23.809998, y: 19.600006}
+    - name: 2dEternalV6_46
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 220
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.46, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_47
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 220
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.22, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 221
+        width: 44
+        height: 35
+      alignment: 9
+      pivot: {x: 0.216, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.496002, y: 17.5}
+        - {x: 10.496002, y: 17.5}
+        - {x: -2.5039978, y: 15.5}
+        - {x: -9.503998, y: 7.5}
+        - {x: -9.503998, y: -17.5}
+        - {x: 33.496002, y: -17.5}
+        - {x: 34.496002, y: -16.5}
+        - {x: 34.496002, y: 4.5}
+        - {x: 27.496002, y: 12.5}
+    - name: 2dEternalV6_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 218
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.75, y: 18.5}
+        - {x: -9.75, y: 7.5}
+        - {x: -9.75, y: -16.5}
+        - {x: -3.75, y: -15.5}
+        - {x: 5.25, y: -18.5}
+        - {x: 25.25, y: -18.5}
+        - {x: 29.25, y: -14.5}
+        - {x: 29.25, y: 11.5}
+        - {x: 23.25, y: 18.5}
+    - name: 2dEternalV6_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 182
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 182
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 182
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.18, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.720001, y: 17.339996}
+        - {x: -6.279999, y: 17.339996}
+        - {x: -8.279999, y: 13.339996}
+        - {x: -8.279999, y: -14.660004}
+        - {x: -7.279999, y: -16.660004}
+        - {x: 34.72, y: -16.660004}
+        - {x: 37.72, y: -8.660004}
+        - {x: 37.72, y: 14.339996}
+    - name: 2dEternalV6_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 182
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.18, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.720001, y: 17.339996}
+        - {x: -5.279999, y: 17.339996}
+        - {x: -8.279999, y: 12.339996}
+        - {x: -8.279999, y: -16.660004}
+        - {x: 12.720001, y: -16.660004}
+        - {x: 37.72, y: -5.6600037}
+        - {x: 37.72, y: 10.339996}
+        - {x: 30.720001, y: 16.339996}
+    - name: 2dEternalV6_54
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 181
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 181
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_56
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_57
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 181
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_58
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 181
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_59
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 140
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.31, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 140
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.02, y: 20.350006}
+        - {x: 1.0200005, y: 20.350006}
+        - {x: -7.9799995, y: 16.350006}
+        - {x: -7.9799995, y: -16.649994}
+        - {x: 21.02, y: -16.649994}
+        - {x: 34.02, y: -12.649994}
+        - {x: 34.02, y: 6.350006}
+        - {x: 30.02, y: 16.350006}
+    - name: 2dEternalV6_62
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 138
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.21, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.7699966, y: 19.380005}
+        - {x: -7.7699966, y: 16.380005}
+        - {x: -7.7699966, y: -18.619995}
+        - {x: 29.230003, y: -18.619995}
+        - {x: 29.230003, y: 16.380005}
+        - {x: 25.230003, y: 19.380005}
+    - name: 2dEternalV6_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 139
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.31, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_64
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 139
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.9799957, y: -16.649994}
+        - {x: 16.020004, y: -16.649994}
+        - {x: 34.020004, y: -9.649994}
+        - {x: 34.020004, y: 9.350006}
+        - {x: 23.020004, y: 20.350006}
+        - {x: 5.0200043, y: 20.350006}
+        - {x: -7.9799957, y: 16.350006}
+    - name: 2dEternalV6_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 137
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.21, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.7700043, y: 19.380005}
+        - {x: -7.7700043, y: 16.380005}
+        - {x: -7.7700043, y: -18.619995}
+        - {x: 27.229996, y: -18.619995}
+        - {x: 29.229996, y: -17.619995}
+        - {x: 29.229996, y: 19.380005}
+    - name: 2dEternalV6_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 96
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.18, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.720001, y: 17.339996}
+        - {x: -6.279999, y: 17.339996}
+        - {x: -8.279999, y: 13.339996}
+        - {x: -8.279999, y: -14.660004}
+        - {x: -7.279999, y: -16.660004}
+        - {x: 34.72, y: -16.660004}
+        - {x: 37.72, y: -8.660004}
+        - {x: 37.72, y: 14.339996}
+    - name: 2dEternalV6_69
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 96
+        width: 46
+        height: 37
+      alignment: 9
+      pivot: {x: 0.18, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.720001, y: 20.349998}
+        - {x: 1.7200012, y: 20.349998}
+        - {x: -6.279999, y: 13.349998}
+        - {x: -8.279999, y: 9.349998}
+        - {x: -8.279999, y: -14.650002}
+        - {x: -7.279999, y: -16.650002}
+        - {x: 10.720001, y: -16.650002}
+        - {x: 37.72, y: -6.6500015}
+        - {x: 37.72, y: 14.349998}
+    - name: 2dEternalV6_70
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_71
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.18, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.720001, y: 17.339996}
+        - {x: -6.279999, y: 17.339996}
+        - {x: -8.279999, y: 13.339996}
+        - {x: -8.279999, y: -14.660004}
+        - {x: -7.279999, y: -16.660004}
+        - {x: 34.72, y: -16.660004}
+        - {x: 37.72, y: -8.660004}
+        - {x: 37.72, y: 14.339996}
+    - name: 2dEternalV6_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 96
+        width: 46
+        height: 37
+      alignment: 9
+      pivot: {x: 0.18, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.279999, y: 20.349998}
+        - {x: -8.279999, y: 12.349998}
+        - {x: -8.279999, y: -16.650002}
+        - {x: 12.720001, y: -16.650002}
+        - {x: 37.72, y: -5.6500015}
+        - {x: 37.72, y: 10.349998}
+        - {x: 17.720001, y: 20.349998}
+    - name: 2dEternalV6_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.46, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.22, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_76
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 60
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.46, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_77
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 60
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.22, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalV6_78
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 56
+        width: 43
+        height: 35
+      alignment: 9
+      pivot: {x: 0.216, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.287994, y: 17.5}
+        - {x: -9.287994, y: -17.5}
+        - {x: 33.712006, y: -17.5}
+        - {x: 33.712006, y: 8.5}
+        - {x: 30.712006, y: 17.5}
+    - name: 2dEternalV6_79
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 52
+        width: 39
+        height: 38
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.25, y: 19}
+        - {x: -8.75, y: 15}
+        - {x: -9.75, y: -1}
+        - {x: -9.75, y: -16}
+        - {x: -3.75, y: -15}
+        - {x: 6.25, y: -19}
+        - {x: 24.25, y: -19}
+        - {x: 29.25, y: -15}
+        - {x: 29.25, y: 12}
+        - {x: 23.25, y: 19}
+    - name: 2dEternalV6_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 56
+        width: 43
+        height: 35
+      alignment: 9
+      pivot: {x: 0.216, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.712006, y: 9.5}
+        - {x: 8.712006, y: 17.5}
+        - {x: -2.2879944, y: 16.5}
+        - {x: -9.287994, y: 8.5}
+        - {x: -9.287994, y: -17.5}
+        - {x: 23.712006, y: -17.5}
+        - {x: 33.712006, y: -13.5}
+        - {x: 33.712006, y: 11.5}
+        - {x: 27.712006, y: 17.5}
+        - {x: 15.712006, y: 17.5}
+        - {x: 13.712006, y: 12.5}
+    - name: 2dEternalV6_81
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 53
+        width: 39
+        height: 38
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.25, y: 19}
+        - {x: -8.75, y: 15}
+        - {x: -9.75, y: -1}
+        - {x: -9.75, y: -16}
+        - {x: -3.75, y: -15}
+        - {x: 6.25, y: -19}
+        - {x: 24.25, y: -19}
+        - {x: 29.25, y: -15}
+        - {x: 29.25, y: 12}
+        - {x: 23.25, y: 19}
+    - name: 2dEternalSword_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 316
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.24412055, y: 0.49998057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.276581, y: 16.50064}
+        - {x: -9.276581, y: -16.49936}
+        - {x: 10.723419, y: -16.49936}
+        - {x: 28.72342, y: 2.5006409}
+        - {x: 28.72342, y: 15.500641}
+        - {x: 23.72342, y: 16.50064}
+    - name: 2dEternalSword_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 350
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.21372183, y: 0.49620566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1214294, y: 16.625214}
+        - {x: -8.121429, y: 13.625214}
+        - {x: -8.121429, y: -16.374786}
+        - {x: 12.878571, y: -16.374786}
+        - {x: 29.87857, y: -8.374786}
+        - {x: 29.87857, y: 3.6252136}
+        - {x: 21.87857, y: 16.625214}
+    - name: 2dEternalSword_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 391
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.32572877, y: 0.49935636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSword_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 391
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.32990724, y: 0.4672904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSword_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3257288, y: 0.4993564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSword_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 11
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3257288, y: 0.4993564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSword_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 11
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3257288, y: 0.4993564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSword_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 11
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3299072, y: 0.4672904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSword_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 11
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2137218, y: 0.4962057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1214294, y: 16.625212}
+        - {x: -8.121429, y: 13.625212}
+        - {x: -8.121429, y: -16.374788}
+        - {x: 12.878571, y: -16.374788}
+        - {x: 29.87857, y: -8.374788}
+        - {x: 29.87857, y: 3.6252117}
+        - {x: 21.87857, y: 16.625212}
+    - name: 2dEternalSword_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 11
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2181822, y: 0.5049584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.290924, y: 16.336372}
+        - {x: -8.290924, y: 15.336372}
+        - {x: -8.290924, y: -16.663628}
+        - {x: 9.709076, y: -16.663628}
+        - {x: 29.709076, y: 4.3363724}
+        - {x: 29.709076, y: 16.336372}
+    - name: 2dEternalSword_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 11
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3299072, y: 0.4672904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSword_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 11
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2137218, y: 0.4962057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1214294, y: 16.625212}
+        - {x: -8.121429, y: 13.625212}
+        - {x: -8.121429, y: -16.374788}
+        - {x: 12.878571, y: -16.374788}
+        - {x: 29.87857, y: -8.374788}
+        - {x: 29.87857, y: 3.6252117}
+        - {x: 21.87857, y: 16.625212}
+    - name: 2dEternalSword_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 11
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2181822, y: 0.5049584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.290924, y: 16.336372}
+        - {x: -8.290924, y: 15.336372}
+        - {x: -8.290924, y: -16.663628}
+        - {x: 9.709076, y: -16.663628}
+        - {x: 29.709076, y: 4.3363724}
+        - {x: 29.709076, y: 16.336372}
+    - name: 2dEternalSword_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 11
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3299072, y: 0.4672904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSword_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 11
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2137218, y: 0.4962057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1214294, y: 16.625212}
+        - {x: -8.121429, y: 13.625212}
+        - {x: -8.121429, y: -16.374788}
+        - {x: 12.878571, y: -16.374788}
+        - {x: 29.87857, y: -8.374788}
+        - {x: 29.87857, y: 3.6252117}
+        - {x: 21.87857, y: 16.625212}
+    - name: 2dEternalSword_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 51
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2181822, y: 0.5049584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.290924, y: 16.336372}
+        - {x: -8.290924, y: 15.336372}
+        - {x: -8.290924, y: -16.663628}
+        - {x: 9.709076, y: -16.663628}
+        - {x: 29.709076, y: 4.3363724}
+        - {x: 29.709076, y: 16.336372}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

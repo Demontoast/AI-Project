@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 13a879bf793f44e35a814875d5dc14be
+timeCreated: 1430344728
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Waepons_0
+    21300002: Waepons_1
+    21300004: Waepons_2
+    21300006: Waepons_3
+    21300008: Waepons_4
+    21300010: Waepons_5
+    21300012: Waepons_6
+    21300014: Waepons_7
+    21300016: Waepons_8
+    21300018: Waepons_9
+    21300020: Waepons_10
+    21300022: Waepons_11
+    21300024: Waepons_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Waepons_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 822
+        width: 146
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 791
+        width: 160
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 770
+        width: 83
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 609
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 602
+        width: 215
+        height: 67
+      alignment: 9
+      pivot: {x: .182459071, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 438
+        width: 67
+        height: 258
+      alignment: 9
+      pivot: {x: .5, y: .226561785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 300
+        width: 117
+        height: 370
+      alignment: 9
+      pivot: {x: .5, y: .223224208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 153
+        width: 56
+        height: 340
+      alignment: 9
+      pivot: {x: .5, y: .15864329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 233
+        width: 172
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 215
+        width: 59
+        height: 201
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 121
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waepons_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 5
+        width: 132
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

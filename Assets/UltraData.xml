@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<UltraData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_iUser>
+    <curScene>NewTutorial</curScene>
+    <deathScene />
+    <lastScene />
+    <shrineScene>NewTutorial</shrineScene>
+    <curShrine>0</curShrine>
+    <standing>true</standing>
+    <playerPosX>-27.5084553</playerPosX>
+    <playerPosY>-12.6188564</playerPosY>
+    <playerPosZ>0</playerPosZ>
+    <Light>1.3</Light>
+    <Background>Sky</Background>
+    <skyColor>
+      <r>1</r>
+      <g>0.5529412</g>
+      <b>0.5529412</b>
+      <a>0</a>
+    </skyColor>
+    <tutorialChests>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+    </tutorialChests>
+    <tutorialItems>
+      <boolean>false</boolean>
+    </tutorialItems>
+    <tutorialIsBossDead>false</tutorialIsBossDead>
+    <tutorialIsNotFirstTime>true</tutorialIsNotFirstTime>
+    <tutorialFightingBoss>false</tutorialFightingBoss>
+    <tutorialOn>true</tutorialOn>
+    <tutorialShortcut>false</tutorialShortcut>
+    <asireChests>
+      <boolean>false</boolean>
+    </asireChests>
+    <asireItems>
+      <boolean>false</boolean>
+    </asireItems>
+    <asireIsBossDead>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </asireIsBossDead>
+    <asireIsNotFirstTime>false</asireIsNotFirstTime>
+    <asireFightingBoss>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </asireFightingBoss>
+    <asireOn>false</asireOn>
+    <asireShortcuts>
+      <boolean>false</boolean>
+    </asireShortcuts>
+    <asireEnemyDead>
+      <boolean>false</boolean>
+    </asireEnemyDead>
+    <shrineRelicLevels>
+      <int>0</int>
+    </shrineRelicLevels>
+    <asireAreEnemiesDead>
+      <boolean>false</boolean>
+    </asireAreEnemiesDead>
+    <dojoChest>false</dojoChest>
+    <dojoIsBossDead>false</dojoIsBossDead>
+    <dojoFightingBoss>false</dojoFightingBoss>
+    <sewerItems>
+      <boolean>false</boolean>
+    </sewerItems>
+    <sewerOn>false</sewerOn>
+    <sewerShortcut>false</sewerShortcut>
+    <sewerShrineRelicLevel>5</sewerShrineRelicLevel>
+    <sewerAreEnemiesDead>
+      <boolean>false</boolean>
+    </sewerAreEnemiesDead>
+    <AsireShrines>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </AsireShrines>
+    <NoxusShrines>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </NoxusShrines>
+    <ThenoShrines>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </ThenoShrines>
+    <LucarShrines>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </LucarShrines>
+    <CurHp>12</CurHp>
+    <CurMana>12</CurMana>
+    <MaxHp>12</MaxHp>
+    <MaxMana>12</MaxMana>
+    <heartShards>0</heartShards>
+    <limit>0</limit>
+    <limitGem>0</limitGem>
+    <souls>0</souls>
+    <shards>0</shards>
+    <maskName>NoMask</maskName>
+    <inventory>
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+    </inventory>
+    <passiveInventory>
+      <PASSIVEITEMS xsi:nil="true" />
+      <PASSIVEITEMS xsi:nil="true" />
+      <PASSIVEITEMS xsi:nil="true" />
+      <PASSIVEITEMS xsi:nil="true" />
+      <PASSIVEITEMS xsi:nil="true" />
+      <PASSIVEITEMS xsi:nil="true" />
+      <PASSIVEITEMS xsi:nil="true" />
+      <PASSIVEITEMS xsi:nil="true" />
+      <PASSIVEITEMS xsi:nil="true" />
+      <PASSIVEITEMS xsi:nil="true" />
+    </passiveInventory>
+    <invSize>0</invSize>
+    <passiveInvSize>0</passiveInvSize>
+    <spells>
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+    </spells>
+    <spellSize>0</spellSize>
+    <MainHands />
+    <SideArms />
+    <MaskNames />
+    <MaskAbilities />
+    <MaskDescs />
+    <MaskReqShards>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </MaskReqShards>
+    <MaskNextShards>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </MaskNextShards>
+    <maskSize>0</maskSize>
+    <keys>
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+    </keys>
+    <keySize>0</keySize>
+    <graveSouls>0</graveSouls>
+    <graveLimit>0</graveLimit>
+    <graveLimitGem>0</graveLimitGem>
+    <gravePosX>0</gravePosX>
+    <gravePosY>0</gravePosY>
+    <gravePosZ>0</gravePosZ>
+    <On>true</On>
+    <breakRing>false</breakRing>
+  </_iUser>
+</UltraData>

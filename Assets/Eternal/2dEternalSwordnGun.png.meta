@@ -1,0 +1,1669 @@
+fileFormatVersion: 2
+guid: 780d6b4ef35ab4d98a3e3f148d28478f
+timeCreated: 1463102284
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalSwordnGun_0
+    21300002: 2dEternalSwordnGun_1
+    21300004: 2dEternalSwordnGun_2
+    21300006: 2dEternalSwordnGun_3
+    21300008: 2dEternalSwordnGun_4
+    21300010: 2dEternalSwordnGun_5
+    21300012: 2dEternalSwordnGun_6
+    21300014: 2dEternalSwordnGun_7
+    21300016: 2dEternalSwordnGun_8
+    21300018: 2dEternalSwordnGun_9
+    21300020: 2dEternalSwordnGun_10
+    21300022: 2dEternalSwordnGun_11
+    21300024: 2dEternalSwordnGun_12
+    21300026: 2dEternalSwordnGun_13
+    21300028: 2dEternalSwordnGun_14
+    21300030: 2dEternalSwordnGun_15
+    21300032: 2dEternalSwordnGun_16
+    21300034: 2dEternalSwordnGun_17
+    21300036: 2dEternalSwordnGun_18
+    21300038: 2dEternalSwordnGun_19
+    21300040: 2dEternalSwordnGun_20
+    21300042: 2dEternalSwordnGun_21
+    21300044: 2dEternalSwordnGun_22
+    21300046: 2dEternalSwordnGun_23
+    21300048: 2dEternalSwordnGun_24
+    21300050: 2dEternalSwordnGun_25
+    21300052: 2dEternalSwordnGun_26
+    21300054: 2dEternalSwordnGun_27
+    21300056: 2dEternalSwordnGun_28
+    21300058: 2dEternalSwordnGun_29
+    21300060: 2dEternalSwordnGun_30
+    21300062: 2dEternalSwordnGun_31
+    21300064: 2dEternalSwordnGun_32
+    21300066: 2dEternalSwordnGun_33
+    21300068: 2dEternalSwordnGun_34
+    21300070: 2dEternalSwordnGun_35
+    21300072: 2dEternalSwordnGun_36
+    21300074: 2dEternalSwordnGun_37
+    21300076: 2dEternalSwordnGun_38
+    21300078: 2dEternalSwordnGun_39
+    21300080: 2dEternalSwordnGun_40
+    21300082: 2dEternalSwordnGun_41
+    21300084: 2dEternalSwordnGun_42
+    21300086: 2dEternalSwordnGun_43
+    21300088: 2dEternalSwordnGun_44
+    21300090: 2dEternalSwordnGun_45
+    21300092: 2dEternalSwordnGun_46
+    21300094: 2dEternalSwordnGun_47
+    21300096: 2dEternalSwordnGun_48
+    21300098: 2dEternalSwordnGun_49
+    21300100: 2dEternalSwordnGun_50
+    21300102: 2dEternalSwordnGun_51
+    21300104: 2dEternalSwordnGun_52
+    21300106: 2dEternalSwordnGun_53
+    21300108: 2dEternalSwordnGun_54
+    21300110: 2dEternalSwordnGun_55
+    21300112: 2dEternalSwordnGun_56
+    21300114: 2dEternalSwordnGun_57
+    21300116: 2dEternalSwordnGun_58
+    21300118: 2dEternalSwordnGun_59
+    21300120: 2dEternalSwordnGun_60
+    21300122: 2dEternalSwordnGun_61
+    21300124: 2dEternalSwordnGun_62
+    21300126: 2dEternalSwordnGun_63
+    21300128: 2dEternalSwordnGun_64
+    21300130: 2dEternalSwordnGun_65
+    21300132: 2dEternalSwordnGun_66
+    21300134: 2dEternalSwordnGun_67
+    21300136: 2dEternalSwordnGun_68
+    21300138: 2dEternalSwordnGun_69
+    21300140: 2dEternalSwordnGun_70
+    21300142: 2dEternalSwordnGun_71
+    21300144: 2dEternalSwordnGun_72
+    21300146: 2dEternalSwordnGun_73
+    21300148: 2dEternalSwordnGun_74
+    21300150: 2dEternalSwordnGun_75
+    21300152: 2dEternalSwordnGun_76
+    21300154: 2dEternalSwordnGun_77
+    21300156: 2dEternalSwordnGun_78
+    21300158: 2dEternalSwordnGun_79
+    21300160: 2dEternalSwordnGun_80
+    21300162: 2dEternalSwordnGun_81
+    21300164: 2dEternalSwordnGun_82
+    21300166: 2dEternalSwordnGun_83
+    21300168: 2dEternalSwordnGun_84
+    21300170: 2dEternalSwordnGun_85
+    21300172: 2dEternalSwordnGun_86
+    21300174: 2dEternalSwordnGun_87
+    21300176: 2dEternalSwordnGun_88
+    21300178: 2dEternalSwordnGun_89
+    21300180: 2dEternalSwordnGun_90
+    21300182: 2dEternalSwordnGun_91
+    21300184: 2dEternalSwordnGun_92
+    21300186: 2dEternalSwordnGun_93
+    21300188: 2dEternalSwordnGun_94
+    21300190: 2dEternalSwordnGun_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalSwordnGun_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 475
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 475
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 476
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 476
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 435
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 435
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 435
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 435
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 435
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 435
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 435
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 435
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 392
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.441304, y: 0.45840284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 392
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.27725002, y: 0.44999984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 392
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.790001, y: 20.350006}
+        - {x: -7.790001, y: -13.649994}
+        - {x: -6.790001, y: -16.649994}
+        - {x: 13.209999, y: -16.649994}
+        - {x: 26.21, y: -10.649994}
+        - {x: 26.21, y: 15.350006}
+        - {x: 13.209999, y: 20.350006}
+    - name: 2dEternalSwordnGun_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 391
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.7700043, y: 19.609985}
+        - {x: -7.7700043, y: -17.390015}
+        - {x: 16.229996, y: -17.390015}
+        - {x: 26.229996, y: -7.3900146}
+        - {x: 26.229996, y: 19.609985}
+    - name: 2dEternalSwordnGun_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 392
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4905236, y: 0.4549993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 392
+        width: 24
+        height: 36
+      alignment: 9
+      pivot: {x: 0.45464578, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 392
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.37853268, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 392
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 393
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 353
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 354
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 353
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 352
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.30642948, y: 0.46508613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.970001, y: 19.494995}
+        - {x: -6.029999, y: 19.494995}
+        - {x: -9.029999, y: 18.494995}
+        - {x: -9.029999, y: -15.505005}
+        - {x: 20.970001, y: -15.505005}
+        - {x: 23.970001, y: -10.505005}
+        - {x: 23.970001, y: 2.494995}
+        - {x: 19.970001, y: 18.494995}
+    - name: 2dEternalSwordnGun_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.30504832, y: 0.46687186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.371643, y: 18.659485}
+        - {x: -10.371643, y: -16.340515}
+        - {x: 16.628357, y: -16.340515}
+        - {x: 23.628357, y: -13.340515}
+        - {x: 23.628357, y: 18.659485}
+    - name: 2dEternalSwordnGun_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 351
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4736805, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 351
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4736805, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 351
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.3906408, y: 0.45500004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 351
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4736805, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 352
+        width: 24
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4736805, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 312
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 312
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19.619995}
+        - {x: -5, y: 19.619995}
+        - {x: -10, y: 18.619995}
+        - {x: -17, y: 6.619995}
+        - {x: -17, y: -11.380005}
+        - {x: -14, y: -16.380005}
+        - {x: 14, y: -16.380005}
+        - {x: 17, y: -13.380005}
+        - {x: 17, y: 8.619995}
+        - {x: 16, y: 15.619995}
+      - - {x: -17, y: 6.619995}
+        - {x: -12, y: 8.619995}
+        - {x: -12, y: 11.619995}
+        - {x: -15, y: 12.619995}
+        - {x: -17, y: 11.619995}
+      - - {x: 13, y: 9.619995}
+        - {x: 15, y: 6.619995}
+        - {x: 17, y: 7.619995}
+        - {x: 17, y: 10.619995}
+        - {x: 15, y: 11.619995}
+    - name: 2dEternalSwordnGun_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 312
+        width: 33
+        height: 36
+      alignment: 9
+      pivot: {x: 0.48, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.160004, y: 19.619995}
+        - {x: -11.839996, y: 19.619995}
+        - {x: -15.839996, y: 11.619995}
+        - {x: -15.839996, y: -14.380005}
+        - {x: -11.839996, y: -16.380005}
+        - {x: 10.160004, y: -16.380005}
+        - {x: 17.160004, y: -9.380005}
+        - {x: 17.160004, y: 11.619995}
+        - {x: 12.160004, y: 18.619995}
+    - name: 2dEternalSwordnGun_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 312
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.48, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 312
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.31642544, y: 0.45500013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 312
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.30934334, y: 0.45500013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.898987, y: 19.619995}
+        - {x: -9.898987, y: 17.619995}
+        - {x: -9.898987, y: -16.380005}
+        - {x: 18.101013, y: -16.380005}
+        - {x: 22.101013, y: -14.380005}
+        - {x: 22.101013, y: 19.619995}
+    - name: 2dEternalSwordnGun_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 265
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.58, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 265
+        width: 20
+        height: 36
+      alignment: 9
+      pivot: {x: 0.42, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 265
+        width: 45
+        height: 36
+      alignment: 9
+      pivot: {x: 0.18, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.900002, y: 13.619995}
+        - {x: 8.900002, y: 19.619995}
+        - {x: -8.099998, y: 19.619995}
+        - {x: -8.099998, y: -16.380005}
+        - {x: 11.900002, y: -16.380005}
+        - {x: 31.900002, y: -10.380005}
+        - {x: 36.9, y: -2.380005}
+        - {x: 36.9, y: 3.619995}
+        - {x: 31.900002, y: 5.619995}
+    - name: 2dEternalSwordnGun_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 265
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.18, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.279999, y: 19.619995}
+        - {x: -8.279999, y: -16.380005}
+        - {x: 11.720001, y: -16.380005}
+        - {x: 37.72, y: -9.380005}
+        - {x: 37.72, y: 19.619995}
+    - name: 2dEternalSwordnGun_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4413, y: 0.4584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.27725, y: 0.44999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.790001, y: 20.350006}
+        - {x: -7.790001, y: -16.649994}
+        - {x: 8.209999, y: -16.649994}
+        - {x: 12.209999, y: -9.649994}
+        - {x: 12.209999, y: 9.350006}
+        - {x: 5.209999, y: 16.350006}
+      - - {x: 15.209999, y: 20.350006}
+        - {x: 14.209999, y: 5.350006}
+        - {x: 14.209999, y: -6.649994}
+        - {x: 17.21, y: -16.649994}
+        - {x: 33.21, y: -16.649994}
+        - {x: 33.21, y: 19.350006}
+        - {x: 32.21, y: 20.350006}
+    - name: 2dEternalSwordnGun_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 223
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.790001, y: 20.350006}
+        - {x: -7.790001, y: -16.649994}
+        - {x: 13.209999, y: -16.649994}
+        - {x: 26.21, y: -6.649994}
+        - {x: 26.21, y: 16.350006}
+        - {x: 14.209999, y: 20.350006}
+    - name: 2dEternalSwordnGun_44
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 222
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.7699966, y: 19.61}
+        - {x: -7.7699966, y: -17.39}
+        - {x: 14.230003, y: -17.39}
+        - {x: 27.230003, y: -6.3899994}
+        - {x: 27.230003, y: 12.610001}
+        - {x: 21.230003, y: 19.61}
+    - name: 2dEternalSwordnGun_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 225
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.31642, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.925003, y: 19.619995}
+        - {x: -11.925003, y: -13.380005}
+        - {x: 21.074997, y: -13.380005}
+        - {x: 24.074997, y: -10.380005}
+        - {x: 28.074997, y: -0.38000488}
+        - {x: 28.074997, y: 19.619995}
+      - - {x: 30.074997, y: 19.619995}
+        - {x: 29.074997, y: 6.619995}
+        - {x: 29.074997, y: -11.380005}
+        - {x: 33.074997, y: -13.380005}
+        - {x: 41.074997, y: -13.380005}
+        - {x: 41.074997, y: 19.619995}
+    - name: 2dEternalSwordnGun_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 225
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.30934, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.89888, y: 19.619995}
+        - {x: -9.89888, y: 17.619995}
+        - {x: -9.89888, y: -16.380005}
+        - {x: 18.10112, y: -16.380005}
+        - {x: 22.10112, y: -14.380005}
+        - {x: 22.10112, y: 19.619995}
+    - name: 2dEternalSwordnGun_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 225
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.36667, y: 0.4445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.8334503, y: 20.553497}
+        - {x: -11.83345, y: 18.553497}
+        - {x: -11.83345, y: -16.446503}
+        - {x: 13.16655, y: -16.446503}
+        - {x: 22.16655, y: -9.446503}
+        - {x: 22.16655, y: 15.553497}
+        - {x: 17.16655, y: 20.553497}
+    - name: 2dEternalSwordnGun_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 225
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3992, y: 0.4435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.028015, y: 19.5905}
+        - {x: -6.971985, y: 19.5905}
+        - {x: -10.971985, y: 17.5905}
+        - {x: -12.971985, y: 13.5905}
+        - {x: -12.971985, y: -16.4095}
+        - {x: 12.028015, y: -16.4095}
+        - {x: 21.028015, y: -0.40950012}
+        - {x: 21.028015, y: 16.5905}
+        - {x: 20.028015, y: 17.5905}
+    - name: 2dEternalSwordnGun_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 183
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24049634, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.304117, y: -0.3899994}
+        - {x: 24.304117, y: 1.6100006}
+        - {x: 24.304117, y: 19.61}
+        - {x: -7.695883, y: 19.61}
+        - {x: -7.695883, y: -17.39}
+        - {x: 11.304117, y: -17.39}
+        - {x: 16.304117, y: 0.6100006}
+        - {x: 14.304117, y: 2.6100006}
+        - {x: 19.304117, y: -0.3899994}
+    - name: 2dEternalSwordnGun_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 184
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.30642, y: 0.46508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.720001, y: 19.619995}
+        - {x: 4.720001, y: 12.619995}
+        - {x: 4.720001, y: -16.380005}
+        - {x: 29.720001, y: -16.380005}
+        - {x: 33.72, y: -14.380005}
+        - {x: 37.72, y: -11.380005}
+        - {x: 37.72, y: 19.619995}
+      - - {x: -8.279999, y: -5.380005}
+        - {x: -5.279999, y: -4.380005}
+        - {x: -5.279999, y: -0.38000488}
+        - {x: -7.279999, y: 1.6199951}
+        - {x: -8.279999, y: 1.6199951}
+    - name: 2dEternalSwordnGun_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 184
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.30504, y: 0.4668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.371361, y: 18.662003}
+        - {x: -10.371361, y: -16.337997}
+        - {x: 16.62864, y: -16.337997}
+        - {x: 23.62864, y: -13.337997}
+        - {x: 23.62864, y: 18.662003}
+    - name: 2dEternalSwordnGun_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 184
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2919, y: 0.47944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.924606, y: 17.699036}
+        - {x: -9.924606, y: -16.300964}
+        - {x: 15.075394, y: -16.300964}
+        - {x: 24.075394, y: -10.300964}
+        - {x: 24.075394, y: 15.699036}
+        - {x: 22.075394, y: 17.699036}
+    - name: 2dEternalSwordnGun_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 184
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.34555, y: 0.4656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.251297, y: -7.2960052}
+        - {x: 14.251297, y: -5.2960052}
+        - {x: 10.251297, y: -6.2960052}
+        - {x: 11.251297, y: -3.2960052}
+        - {x: 16.251297, y: -6.2960052}
+        - {x: 22.251297, y: -3.2960052}
+        - {x: 22.251297, y: 18.703995}
+        - {x: -5.748703, y: 18.703995}
+        - {x: -8.748703, y: 17.703995}
+        - {x: -11.748703, y: -1.2960052}
+        - {x: -11.748703, y: -16.296005}
+        - {x: 15.251297, y: -16.296005}
+        - {x: 16.251297, y: -15.296005}
+        - {x: 17.251297, y: -10.296005}
+    - name: 2dEternalSwordnGun_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4413, y: 0.4584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.230003, y: 19.380005}
+        - {x: 19.230003, y: 6.380005}
+        - {x: 19.230003, y: -7.619995}
+        - {x: 23.230003, y: -17.619995}
+        - {x: 28.230003, y: -17.619995}
+        - {x: 29.230003, y: -15.619995}
+        - {x: 29.230003, y: 19.380005}
+      - - {x: -4.7699966, y: 17.380005}
+        - {x: -7.7699966, y: 16.380005}
+        - {x: -7.7699966, y: -14.619995}
+        - {x: -0.76999664, y: -14.619995}
+        - {x: 4.2300034, y: -13.619995}
+        - {x: 13.230003, y: -0.6199951}
+        - {x: 13.230003, y: 6.380005}
+        - {x: 4.2300034, y: 17.380005}
+      - - {x: 12.230003, y: -5.619995}
+        - {x: 12.230003, y: -8.619995}
+        - {x: 16.230003, y: -8.619995}
+        - {x: 19.230003, y: -6.619995}
+        - {x: 19.230003, y: -0.6199951}
+        - {x: 17.230003, y: 1.3800049}
+        - {x: 14.230003, y: 0.38000488}
+      - - {x: 10.230003, y: 7.380005}
+        - {x: 11.230003, y: 5.380005}
+        - {x: 13.230003, y: 5.380005}
+        - {x: 18.230003, y: 7.380005}
+        - {x: 18.230003, y: 11.380005}
+        - {x: 15.230003, y: 12.380005}
+        - {x: 10.230003, y: 10.380005}
+    - name: 2dEternalSwordnGun_55
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 141
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.27725, y: 0.44999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_56
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 141
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.790001, y: 20.350006}
+        - {x: -7.790001, y: 19.350006}
+        - {x: -7.790001, y: -16.649994}
+        - {x: 16.21, y: -16.649994}
+        - {x: 30.21, y: -13.649994}
+        - {x: 30.21, y: 14.350006}
+        - {x: 5.209999, y: 20.350006}
+      - - {x: 29.21, y: -6.649994}
+        - {x: 31.21, y: -9.649994}
+        - {x: 33.21, y: -8.649994}
+        - {x: 33.21, y: -5.649994}
+        - {x: 31.21, y: -4.649994}
+      - - {x: 28.21, y: 11.350006}
+        - {x: 27.21, y: 8.350006}
+        - {x: 27.21, y: 5.350006}
+        - {x: 29.21, y: 4.350006}
+        - {x: 33.21, y: 6.350006}
+        - {x: 33.21, y: 11.350006}
+    - name: 2dEternalSwordnGun_57
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 140
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.7700043, y: 19.61}
+        - {x: -7.7700043, y: -17.39}
+        - {x: 16.229996, y: -17.39}
+        - {x: 26.229996, y: -7.3899994}
+        - {x: 26.229996, y: 19.61}
+    - name: 2dEternalSwordnGun_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 142
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.31642, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 142
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.30934, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.89888, y: 19.619995}
+        - {x: -9.89888, y: 17.619995}
+        - {x: -9.89888, y: -16.380005}
+        - {x: 18.10112, y: -16.380005}
+        - {x: 22.10112, y: -14.380005}
+        - {x: 22.10112, y: 19.619995}
+    - name: 2dEternalSwordnGun_60
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 142
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.36667, y: 0.4445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.16655, y: 20.553497}
+        - {x: -1.8334503, y: 20.553497}
+        - {x: -5.8334503, y: 19.553497}
+        - {x: -9.83345, y: 17.553497}
+        - {x: -11.83345, y: 1.5534973}
+        - {x: -11.83345, y: -16.446503}
+        - {x: 13.16655, y: -16.446503}
+        - {x: 22.16655, y: -9.446503}
+        - {x: 22.16655, y: 14.553497}
+        - {x: 19.16655, y: 16.553497}
+    - name: 2dEternalSwordnGun_61
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 142
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3992, y: 0.4435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.028015, y: 19.5905}
+        - {x: -6.971985, y: 19.5905}
+        - {x: -10.971985, y: 17.5905}
+        - {x: -12.971985, y: 13.5905}
+        - {x: -12.971985, y: -16.4095}
+        - {x: 12.028015, y: -16.4095}
+        - {x: 21.028015, y: -0.40950012}
+        - {x: 21.028015, y: 16.5905}
+        - {x: 20.028015, y: 17.5905}
+    - name: 2dEternalSwordnGun_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24049, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.30432, y: -0.3899994}
+        - {x: 24.30432, y: 1.6100006}
+        - {x: 24.30432, y: 19.61}
+        - {x: -7.6956806, y: 19.61}
+        - {x: -7.6956806, y: -17.39}
+        - {x: 11.304319, y: -17.39}
+        - {x: 16.30432, y: 0.6100006}
+        - {x: 14.304319, y: 2.6100006}
+        - {x: 19.30432, y: -0.3899994}
+    - name: 2dEternalSwordnGun_63
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.30642, y: 0.46508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_64
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 103
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.30504, y: 0.4668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.371361, y: 18.662003}
+        - {x: -9.371361, y: 17.662003}
+        - {x: -10.371361, y: 3.6620026}
+        - {x: -10.371361, y: -16.337997}
+        - {x: 13.628639, y: -16.337997}
+        - {x: 23.62864, y: -9.337997}
+        - {x: 23.62864, y: 12.662003}
+        - {x: 19.62864, y: 18.662003}
+    - name: 2dEternalSwordnGun_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2919, y: 0.47944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.075394, y: 17.699036}
+        - {x: -9.924606, y: 17.699036}
+        - {x: -9.924606, y: -16.300964}
+        - {x: 18.075394, y: -16.300964}
+        - {x: 24.075394, y: -10.300964}
+        - {x: 24.075394, y: 13.699036}
+        - {x: 23.075394, y: 16.699036}
+    - name: 2dEternalSwordnGun_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.34555, y: 0.4656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.251297, y: -7.2960052}
+        - {x: 14.251297, y: -5.2960052}
+        - {x: 10.251297, y: -6.2960052}
+        - {x: 11.251297, y: -3.2960052}
+        - {x: 16.251297, y: -6.2960052}
+        - {x: 22.251297, y: -3.2960052}
+        - {x: 22.251297, y: 18.703995}
+        - {x: -5.748703, y: 18.703995}
+        - {x: -8.748703, y: 17.703995}
+        - {x: -11.748703, y: -1.2960052}
+        - {x: -11.748703, y: -16.296005}
+        - {x: 15.251297, y: -16.296005}
+        - {x: 16.251297, y: -15.296005}
+        - {x: 17.251297, y: -10.296005}
+    - name: 2dEternalSwordnGun_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 62
+        width: 23
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4413, y: 0.4584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9249992, y: 19.619995}
+        - {x: -5.924999, y: 1.6199951}
+        - {x: -5.924999, y: -8.380005}
+        - {x: -1.9249992, y: -16.380005}
+        - {x: 18.075, y: -16.380005}
+        - {x: 25.075, y: -6.380005}
+        - {x: 25.075, y: 12.619995}
+        - {x: 18.075, y: 19.619995}
+      - - {x: 28.075, y: 19.619995}
+        - {x: 27.075, y: 9.619995}
+        - {x: 27.075, y: -4.380005}
+        - {x: 28.075, y: -13.380005}
+        - {x: 32.075, y: -16.380005}
+        - {x: 41.075, y: -16.380005}
+        - {x: 41.075, y: 19.619995}
+    - name: 2dEternalSwordnGun_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 62
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.27725, y: 0.44999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_69
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 62
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.21, y: 20.349998}
+        - {x: -7.790001, y: 20.349998}
+        - {x: -7.790001, y: -16.650002}
+        - {x: 14.209999, y: -16.650002}
+        - {x: 22.21, y: -14.650002}
+        - {x: 26.21, y: -2.6500015}
+        - {x: 26.21, y: 15.349998}
+    - name: 2dEternalSwordnGun_70
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 61
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.7700043, y: 19.61}
+        - {x: -7.7700043, y: -17.39}
+        - {x: 15.229996, y: -17.39}
+        - {x: 26.229996, y: -7.3899994}
+        - {x: 26.229996, y: 19.61}
+    - name: 2dEternalSwordnGun_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 63
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.31642, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.828003, y: 19}
+        - {x: -9.828003, y: -17}
+        - {x: -6.828003, y: -19}
+        - {x: 29.171997, y: -19}
+        - {x: 29.171997, y: 5}
+        - {x: 12.171997, y: 19}
+      - - {x: 26.171997, y: 7}
+        - {x: 28.171997, y: 6}
+        - {x: 29.171997, y: 6}
+        - {x: 29.171997, y: 19}
+        - {x: 26.171997, y: 18}
+    - name: 2dEternalSwordnGun_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 32
+        height: 36
+      alignment: 9
+      pivot: {x: 0.30934, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.89888, y: 19.619995}
+        - {x: -9.89888, y: 17.619995}
+        - {x: -9.89888, y: -16.380005}
+        - {x: 18.10112, y: -16.380005}
+        - {x: 22.10112, y: -14.380005}
+        - {x: 22.10112, y: 19.619995}
+    - name: 2dEternalSwordnGun_73
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 63
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.36667, y: 0.4445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.8334503, y: 20.553497}
+        - {x: -10.83345, y: 18.553497}
+        - {x: -11.83345, y: 16.553497}
+        - {x: -11.83345, y: -16.446503}
+        - {x: 21.16655, y: -16.446503}
+        - {x: 22.16655, y: -11.446503}
+        - {x: 22.16655, y: 17.553497}
+        - {x: 17.16655, y: 20.553497}
+    - name: 2dEternalSwordnGun_74
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 479
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_75
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 479
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_76
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 479
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_77
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 438
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45500013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_78
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 438
+        width: 22
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45500013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_79
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 438
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51808804, y: 0.45500004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_80
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 438
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.518088, y: 0.45500004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_81
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 391
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.229996, y: 19.609985}
+        - {x: -7.7700043, y: 19.609985}
+        - {x: -7.7700043, y: -17.390015}
+        - {x: 13.229996, y: -17.390015}
+        - {x: 26.229996, y: 2.6099854}
+        - {x: 26.229996, y: 14.609985}
+    - name: 2dEternalSwordnGun_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 475
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.210007, y: 20.350006}
+        - {x: -7.7899933, y: 20.350006}
+        - {x: -7.7899933, y: -16.649994}
+        - {x: 17.210007, y: -16.649994}
+        - {x: 24.210007, y: -4.649994}
+        - {x: 24.210007, y: 15.350006}
+        - {x: 18.210007, y: 19.350006}
+    - name: 2dEternalSwordnGun_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2919096, y: 0.4794482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.075073, y: 17.698761}
+        - {x: -9.924927, y: 17.698761}
+        - {x: -9.924927, y: -16.301239}
+        - {x: 18.075073, y: -16.301239}
+        - {x: 24.075073, y: -10.301239}
+        - {x: 24.075073, y: 13.698761}
+        - {x: 23.075073, y: 16.698761}
+    - name: 2dEternalSwordnGun_84
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 312
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.34555233, y: 0.46561715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.25122, y: -7.2966003}
+        - {x: 14.251221, y: -5.2966003}
+        - {x: 10.251221, y: -6.2966003}
+        - {x: 11.251221, y: -3.2966003}
+        - {x: 16.25122, y: -6.2966003}
+        - {x: 22.25122, y: -3.2966003}
+        - {x: 22.25122, y: 18.7034}
+        - {x: -5.7487793, y: 18.7034}
+        - {x: -8.748779, y: 17.7034}
+        - {x: -11.748779, y: -1.2966003}
+        - {x: -11.748779, y: -16.2966}
+        - {x: 15.251221, y: -16.2966}
+        - {x: 16.25122, y: -15.2966}
+        - {x: 17.25122, y: -10.2966}
+    - name: 2dEternalSwordnGun_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.36667305, y: 0.4445834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.8335571, y: 20.550415}
+        - {x: -9.833557, y: 17.550415}
+        - {x: -11.833557, y: 4.550415}
+        - {x: -11.833557, y: -16.449585}
+        - {x: 18.166443, y: -16.449585}
+        - {x: 22.166443, y: -14.449585}
+        - {x: 22.166443, y: 20.550415}
+    - name: 2dEternalSwordnGun_86
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 264
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3992009, y: 0.44356805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.9720306, y: 19.587982}
+        - {x: -11.972031, y: 18.587982}
+        - {x: -11.972031, y: -16.412018}
+        - {x: 17.02797, y: -16.412018}
+        - {x: 21.02797, y: -6.412018}
+        - {x: 21.02797, y: 18.587982}
+        - {x: 10.027969, y: 19.587982}
+    - name: 2dEternalSwordnGun_87
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 63
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3992, y: 0.4435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.028015, y: 19.5905}
+        - {x: -6.971985, y: 19.5905}
+        - {x: -10.971985, y: 17.5905}
+        - {x: -12.971985, y: 13.5905}
+        - {x: -12.971985, y: -16.4095}
+        - {x: 12.028015, y: -16.4095}
+        - {x: 21.028015, y: -0.40950012}
+        - {x: 21.028015, y: 16.5905}
+        - {x: 20.028015, y: 17.5905}
+    - name: 2dEternalSwordnGun_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 22
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24049, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.30432, y: -0.3899994}
+        - {x: 24.30432, y: 1.6100006}
+        - {x: 24.30432, y: 19.61}
+        - {x: -7.6956806, y: 19.61}
+        - {x: -7.6956806, y: -17.39}
+        - {x: 11.304319, y: -17.39}
+        - {x: 16.30432, y: 0.6100006}
+        - {x: 14.304319, y: 2.6100006}
+        - {x: 19.30432, y: -0.3899994}
+    - name: 2dEternalSwordnGun_89
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 23
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.30642, y: 0.46508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnGun_90
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 24
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.30504, y: 0.4668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.62864, y: 18.662003}
+        - {x: -10.371361, y: 18.662003}
+        - {x: -10.371361, y: -16.337997}
+        - {x: 14.628639, y: -16.337997}
+        - {x: 23.62864, y: -8.337997}
+        - {x: 23.62864, y: 12.662003}
+    - name: 2dEternalSwordnGun_91
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 24
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2919, y: 0.47944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.075394, y: 17.69904}
+        - {x: -9.924606, y: 17.69904}
+        - {x: -9.924606, y: -16.30096}
+        - {x: 18.075394, y: -16.30096}
+        - {x: 24.075394, y: -10.300961}
+        - {x: 24.075394, y: 13.699039}
+        - {x: 23.075394, y: 16.69904}
+    - name: 2dEternalSwordnGun_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 24
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.34555, y: 0.4656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.251297, y: -7.2960014}
+        - {x: 14.251297, y: -5.2960014}
+        - {x: 10.251297, y: -6.2960014}
+        - {x: 11.251297, y: -3.2960014}
+        - {x: 16.251297, y: -6.2960014}
+        - {x: 22.251297, y: -3.2960014}
+        - {x: 22.251297, y: 18.703999}
+        - {x: -5.748703, y: 18.703999}
+        - {x: -8.748703, y: 17.703999}
+        - {x: -11.748703, y: -1.2960014}
+        - {x: -11.748703, y: -16.296001}
+        - {x: 15.251297, y: -16.296001}
+        - {x: 16.251297, y: -15.296001}
+        - {x: 17.251297, y: -10.296001}
+    - name: 2dEternalSwordnGun_93
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 223
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.209991, y: 20.350006}
+        - {x: -7.7900085, y: 20.350006}
+        - {x: -7.7900085, y: -16.649994}
+        - {x: 17.209991, y: -16.649994}
+        - {x: 24.209991, y: -4.649994}
+        - {x: 24.209991, y: 15.350006}
+        - {x: 18.209991, y: 19.350006}
+    - name: 2dEternalSwordnGun_94
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 140
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.209991, y: 20.350006}
+        - {x: -7.7900085, y: 20.350006}
+        - {x: -7.7900085, y: -16.649994}
+        - {x: 17.209991, y: -16.649994}
+        - {x: 24.209991, y: -4.649994}
+        - {x: 24.209991, y: 15.350006}
+        - {x: 18.209991, y: 19.350006}
+    - name: 2dEternalSwordnGun_95
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 62
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.209991, y: 20.349998}
+        - {x: -7.7900085, y: 20.349998}
+        - {x: -7.7900085, y: -16.650002}
+        - {x: 17.209991, y: -16.650002}
+        - {x: 24.209991, y: -4.6500015}
+        - {x: 24.209991, y: 15.349998}
+        - {x: 18.209991, y: 19.349998}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

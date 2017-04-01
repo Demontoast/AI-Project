@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 25f3cffbfa2c04a5086c219cc38e48dc
+timeCreated: 1451583462
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalGreatSwordV2_0
+    21300002: 2dEternalGreatSwordV2_1
+    21300004: 2dEternalGreatSwordV2_2
+    21300006: 2dEternalGreatSwordV2_3
+    21300008: 2dEternalGreatSwordV2_4
+    21300010: 2dEternalGreatSwordV2_5
+    21300012: 2dEternalGreatSwordV2_6
+    21300014: 2dEternalGreatSwordV2_7
+    21300016: 2dEternalGreatSwordV2_8
+    21300018: 2dEternalGreatSwordV2_9
+    21300020: 2dEternalGreatSwordV2_10
+    21300022: 2dEternalGreatSwordV2_11
+    21300024: 2dEternalGreatSwordV2_12
+    21300026: 2dEternalGreatSwordV2_13
+    21300028: 2dEternalGreatSwordV2_14
+    21300030: 2dEternalGreatSwordV2_15
+    21300032: 2dEternalGreatSwordV2_16
+    21300034: 2dEternalGreatSwordV2_17
+    21300036: 2dEternalGreatSwordV2_18
+    21300038: 2dEternalGreatSwordV2_19
+    21300040: 2dEternalGreatSwordV2_20
+    21300042: 2dEternalGreatSwordV2_21
+    21300044: 2dEternalGreatSwordV2_22
+    21300046: 2dEternalGreatSwordV2_23
+    21300048: 2dEternalGreatSwordV2_24
+    21300050: 2dEternalGreatSwordV2_25
+    21300052: 2dEternalGreatSwordV2_26
+    21300054: 2dEternalGreatSwordV2_27
+    21300056: 2dEternalGreatSwordV2_28
+    21300058: 2dEternalGreatSwordV2_29
+    21300060: 2dEternalGreatSwordV2_30
+    21300062: 2dEternalGreatSwordV2_31
+    21300064: 2dEternalGreatSwordV2_32
+    21300066: 2dEternalGreatSwordV2_33
+    21300068: 2dEternalGreatSwordV2_34
+    21300070: 2dEternalGreatSwordV2_35
+    21300072: 2dEternalGreatSwordV2_36
+    21300074: 2dEternalGreatSwordV2_37
+    21300076: 2dEternalGreatSwordV2_38
+    21300078: 2dEternalGreatSwordV2_39
+    21300080: 2dEternalGreatSwordV2_40
+    21300082: 2dEternalGreatSwordV2_41
+    21300084: 2dEternalGreatSwordV2_42
+    21300086: 2dEternalGreatSwordV2_43
+    21300088: 2dEternalGreatSwordV2_44
+    21300090: 2dEternalGreatSwordV2_45
+    21300092: 2dEternalGreatSwordV2_46
+    21300094: 2dEternalGreatSwordV2_47
+    21300096: 2dEternalGreatSwordV2_48
+    21300098: 2dEternalGreatSwordV2_49
+    21300100: 2dEternalGreatSwordV2_50
+    21300102: 2dEternalGreatSwordV2_51
+    21300104: 2dEternalGreatSwordV2_52
+    21300106: 2dEternalGreatSwordV2_53
+    21300108: 2dEternalGreatSwordV2_54
+    21300110: 2dEternalGreatSwordV2_55
+    21300112: 2dEternalGreatSwordV2_56
+    21300114: 2dEternalGreatSwordV2_57
+    21300116: 2dEternalGreatSwordV2_58
+    21300118: 2dEternalGreatSwordV2_59
+    21300120: 2dEternalGreatSwordV2_60
+    21300122: 2dEternalGreatSwordV2_61
+    21300124: 2dEternalGreatSwordV2_62
+    21300126: 2dEternalGreatSwordV2_63
+    21300128: 2dEternalGreatSwordV2_64
+    21300130: 2dEternalGreatSwordV2_65
+    21300132: 2dEternalGreatSwordV2_66
+    21300134: 2dEternalGreatSwordV2_67
+    21300136: 2dEternalGreatSwordV2_68
+    21300138: 2dEternalGreatSwordV2_69
+    21300140: 2dEternalGreatSwordV2_70
+    21300142: 2dEternalGreatSwordV2_71
+    21300144: 2dEternalGreatSwordV2_72
+    21300146: 2dEternalGreatSwordV2_73
+    21300148: 2dEternalGreatSwordV2_74
+    21300150: 2dEternalGreatSwordV2_75
+    21300152: 2dEternalGreatSwordV2_76
+    21300154: 2dEternalGreatSwordV2_77
+    21300156: 2dEternalGreatSwordV2_78
+    21300158: 2dEternalGreatSwordV2_79
+    21300160: 2dEternalGreatSwordV2_80
+    21300162: 2dEternalGreatSwordV2_81
+    21300164: 2dEternalGreatSwordV2_82
+    21300166: 2dEternalGreatSwordV2_83
+    21300168: 2dEternalGreatSwordV2_84
+    21300170: 2dEternalGreatSwordV2_85
+    21300172: 2dEternalGreatSwordV2_86
+    21300174: 2dEternalGreatSwordV2_87
+    21300176: 2dEternalGreatSwordV2_88
+    21300178: 2dEternalGreatSwordV2_89
+    21300180: 2dEternalGreatSwordV2_90
+    21300182: 2dEternalGreatSwordV2_91
+    21300184: 2dEternalGreatSwordV2_92
+    21300186: 2dEternalGreatSwordV2_93
+    21300188: 2dEternalGreatSwordV2_94
+    21300190: 2dEternalGreatSwordV2_95
+    21300192: 2dEternalGreatSwordV2_96
+    21300194: 2dEternalGreatSwordV2_97
+    21300196: 2dEternalGreatSwordV2_98
+    21300198: 2dEternalGreatSwordV2_99
+    21300200: 2dEternalGreatSwordV2_100
+    21300202: 2dEternalGreatSwordV2_101
+    21300204: 2dEternalGreatSwordV2_102
+    21300206: 2dEternalGreatSwordV2_103
+    21300208: 2dEternalGreatSwordV2_104
+    21300210: 2dEternalGreatSwordV2_105
+    21300212: 2dEternalGreatSwordV2_106
+    21300214: 2dEternalGreatSwordV2_107
+    21300216: 2dEternalGreatSwordV2_108
+    21300218: 2dEternalGreatSwordV2_109
+    21300220: 2dEternalGreatSwordV2_110
+    21300222: 2dEternalGreatSwordV2_111
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalGreatSwordV2_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 957
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 957
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 955
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 955
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 959
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 959
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 959
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 959
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 959
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 917
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 917
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 917
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 917
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 917
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 917
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_15
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 917
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 917
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 921
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 921
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 861
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 861
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 861
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: .587369919, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 861
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: .343228102, y: .323443234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 860
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: .347247839, y: .338575184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 861
+        width: 48
+        height: 34
+      alignment: 9
+      pivot: {x: .113327026, y: .483924419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 868
+        width: 64
+        height: 49
+      alignment: 9
+      pivot: {x: .342336655, y: .314925224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 823
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 824
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 823
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 823
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 823
+        width: 40
+        height: 31
+      alignment: 9
+      pivot: {x: .595795035, y: .499998033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 818
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: .175013736, y: .546294391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 805
+        width: 64
+        height: 57
+      alignment: 9
+      pivot: {x: .338345528, y: .385717571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 782
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 782
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 782
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 782
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 782
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_38
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 782
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: .200409845, y: .457027853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 777
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: .177460045, y: .536094666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 733
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 733
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 732
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: .223479107, y: .461368054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 729
+        width: 47
+        height: 41
+      alignment: 9
+      pivot: {x: .221940383, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 731
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: .219814301, y: .508977234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_45
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 735
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: .569996357, y: .500001848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_46
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 735
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: .569996417, y: .500001788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 735
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 691
+        width: 21
+        height: 36
+      alignment: 9
+      pivot: {x: .479999989, y: .460000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 691
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: .338181585, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 690
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: .423809588, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 670
+        width: 22
+        height: 50
+      alignment: 9
+      pivot: {x: .406023204, y: .328880608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_52
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 670
+        width: 21
+        height: 56
+      alignment: 9
+      pivot: {x: .422645211, y: .294307172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_53
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 665
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 625
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 616
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 617
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 563
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 565
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 565
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 565
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_61
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 557
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 558
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 519
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_64
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 519
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 514
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_66
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 515
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_67
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 519
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_68
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 519
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_69
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 519
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 454
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 454
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 454
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_73
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 454
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_74
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 448
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_75
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 449
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 394
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 396
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 396
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_79
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 396
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_80
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 388
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_81
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 389
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_82
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 345
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_83
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 336
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 337
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_85
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 343
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_86
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 343
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_87
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 343
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 296
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_89
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 297
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_90
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 292
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_91
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 293
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_92
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 231
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_93
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 231
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_94
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 231
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_95
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 231
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_96
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 226
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_97
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 226
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_98
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 174
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 176
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_100
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 176
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_101
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 176
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_102
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 168
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_103
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 169
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 127
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_105
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 120
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_106
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 119
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_107
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 82
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 82
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_109
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_110
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 78
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalGreatSwordV2_111
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 778
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: .223847896, y: .513685584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

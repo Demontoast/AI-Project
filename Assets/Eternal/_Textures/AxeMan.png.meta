@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 810d97d79a22b45f8a7b02de42f1968f
+timeCreated: 1438270402
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AxeMan_0
+    21300002: AxeMan_1
+    21300004: AxeMan_2
+    21300006: AxeMan_3
+    21300008: AxeMan_4
+    21300010: AxeMan_5
+    21300012: AxeMan_6
+    21300014: AxeMan_7
+    21300016: AxeMan_8
+    21300018: AxeMan_9
+    21300020: AxeMan_10
+    21300022: AxeMan_11
+    21300024: AxeMan_12
+    21300026: AxeMan_13
+    21300028: AxeMan_14
+    21300030: AxeMan_15
+    21300032: AxeMan_16
+    21300034: AxeMan_17
+    21300036: AxeMan_18
+    21300038: AxeMan_19
+    21300040: AxeMan_20
+    21300042: AxeMan_21
+    21300044: AxeMan_22
+    21300046: AxeMan_23
+    21300048: AxeMan_24
+    21300050: AxeMan_25
+    21300052: AxeMan_26
+    21300054: AxeMan_27
+    21300056: AxeMan_28
+    21300058: AxeMan_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AxeMan_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 257
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 257
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 176
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 177
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 173
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 173
+        width: 17
+        height: 39
+      alignment: 9
+      pivot: {x: .416158348, y: .405697554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 171
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: .337554038, y: .434817046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 171
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: .337554008, y: .434816986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 130
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: .419014841, y: .398878366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 126
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: .348034352, y: .439162463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 126
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 133
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: .600000024, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 91
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: .657552242, y: .397132874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 133
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: .600000024, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 133
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: .600000024, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 89
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: .600000024, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 89
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: .600000024, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 89
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: .600000024, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 89
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: .600000024, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 91
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AxeMan_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 98
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

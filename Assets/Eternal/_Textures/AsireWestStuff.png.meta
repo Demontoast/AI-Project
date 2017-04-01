@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 110b8c56fd47a42e8a01902c61b28a25
+timeCreated: 1472057764
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AsireWestStuff_0
+    21300002: AsireWestStuff_1
+    21300004: AsireWestStuff_2
+    21300006: AsireWestStuff_3
+    21300008: AsireWestStuff_4
+    21300010: AsireWestStuff_5
+    21300012: AsireWestStuff_6
+    21300014: AsireWestStuff_7
+    21300016: AsireWestStuff_8
+    21300018: AsireWestStuff_9
+    21300020: AsireWestStuff_10
+    21300022: AsireWestStuff_11
+    21300024: AsireWestStuff_12
+    21300026: AsireWestStuff_13
+    21300028: AsireWestStuff_14
+    21300030: AsireWestStuff_15
+    21300032: AsireWestStuff_16
+    21300034: AsireWestStuff_17
+    21300036: AsireWestStuff_18
+    21300038: AsireWestStuff_19
+    21300040: AsireWestStuff_20
+    21300042: AsireWestStuff_21
+    21300044: AsireWestStuff_22
+    21300046: AsireWestStuff_23
+    21300048: AsireWestStuff_24
+    21300050: AsireWestStuff_25
+    21300052: AsireWestStuff_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AsireWestStuff_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 293
+        width: 486
+        height: 2
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 101
+        width: 460
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206, y: 44}
+        - {x: 194, y: 23}
+        - {x: 174, y: 32}
+        - {x: 141, y: 27}
+        - {x: 110, y: 37}
+        - {x: 46, y: 37}
+        - {x: 13, y: 27}
+        - {x: -18, y: 32}
+        - {x: -51, y: 27}
+        - {x: -82, y: 32}
+        - {x: -146, y: 37}
+        - {x: -201, y: 23}
+        - {x: -205, y: 39}
+        - {x: -210, y: 44}
+        - {x: -230, y: 44}
+        - {x: -230, y: -79}
+        - {x: 230, y: -79}
+        - {x: 230, y: 44}
+    - name: AsireWestStuff_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 9
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 29}
+        - {x: -24, y: 28}
+        - {x: -24, y: -28}
+        - {x: -23, y: -29}
+        - {x: 24, y: -29}
+        - {x: 24, y: 29}
+    - name: AsireWestStuff_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 9
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 7}
+        - {x: -24, y: -29}
+        - {x: 24, y: -29}
+        - {x: 24, y: 29}
+        - {x: -18, y: 29}
+    - name: AsireWestStuff_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 24}
+        - {x: -14.5, y: 24}
+        - {x: -23.5, y: 22}
+        - {x: -38.5, y: -5}
+        - {x: -38.5, y: -24}
+        - {x: 38.5, y: -24}
+        - {x: 38.5, y: -4}
+        - {x: 26.5, y: 22}
+    - name: AsireWestStuff_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 10
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 31
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 8
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 8
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 235
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 23}
+        - {x: -25.5, y: 21}
+        - {x: -25.5, y: -23}
+        - {x: 25.5, y: -23}
+        - {x: 25.5, y: 16}
+        - {x: 19.5, y: 23}
+    - name: AsireWestStuff_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 179
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_11
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 179
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 274
+        width: 87
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 24}
+        - {x: -14.5, y: 24}
+        - {x: -23.5, y: 22}
+        - {x: -38.5, y: -5}
+        - {x: -38.5, y: -24}
+        - {x: 38.5, y: -24}
+        - {x: 38.5, y: -4}
+        - {x: 26.5, y: 22}
+    - name: AsireWestStuff_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 72
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 66
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_17
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 94
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 67
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_19
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 44
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 41
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_21
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 41
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_22
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 19
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_23
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 8
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_24
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_25
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 9
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AsireWestStuff_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 101
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

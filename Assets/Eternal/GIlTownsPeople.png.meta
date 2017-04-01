@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 7f6aa90765ea74e8a90ca27d20e0442a
+timeCreated: 1472503757
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GIlTownsPeople_0
+    21300002: GIlTownsPeople_1
+    21300004: GIlTownsPeople_2
+    21300006: GIlTownsPeople_3
+    21300008: GIlTownsPeople_4
+    21300010: GIlTownsPeople_5
+    21300012: GIlTownsPeople_6
+    21300014: GIlTownsPeople_7
+    21300016: GIlTownsPeople_8
+    21300018: GIlTownsPeople_9
+    21300020: GIlTownsPeople_10
+    21300022: GIlTownsPeople_11
+    21300024: GIlTownsPeople_12
+    21300026: GIlTownsPeople_13
+    21300028: GIlTownsPeople_14
+    21300030: GIlTownsPeople_15
+    21300032: GIlTownsPeople_16
+    21300034: GIlTownsPeople_17
+    21300036: GIlTownsPeople_18
+    21300038: GIlTownsPeople_19
+    21300040: GIlTownsPeople_20
+    21300042: GIlTownsPeople_21
+    21300044: GIlTownsPeople_22
+    21300046: GIlTownsPeople_23
+    21300048: GIlTownsPeople_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GIlTownsPeople_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 186
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 156
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 156
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 156
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 116
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 116
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 116
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 116
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 116
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 116
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 116
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 116
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 157
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 157
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 156
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 157
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 157
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 78
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 78
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 78
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 78
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 78
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 78
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 78
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GIlTownsPeople_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 78
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

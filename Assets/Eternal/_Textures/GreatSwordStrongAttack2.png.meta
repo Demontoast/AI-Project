@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: cf228108b68204ce683e5eacdcc2edd9
+timeCreated: 1437970618
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GreatSwordStrongAttack_0
+    21300002: GreatSwordStrongAttack_1
+    21300004: GreatSwordStrongAttack_2
+    21300006: GreatSwordStrongAttack_3
+    21300008: GreatSwordStrongAttack_4
+    21300010: GreatSwordStrongAttack_5
+    21300012: GreatSwordStrongAttack_6
+    21300014: GreatSwordStrongAttack_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GreatSwordStrongAttack_0
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 106
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreatSwordStrongAttack_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 58
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: .777526498, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreatSwordStrongAttack_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 58
+        width: 44
+        height: 33
+      alignment: 9
+      pivot: {x: .797007799, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreatSwordStrongAttack_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 58
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: .7248317, y: .504258156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreatSwordStrongAttack_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 58
+        width: 59
+        height: 33
+      alignment: 9
+      pivot: {x: .282152086, y: .500000238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreatSwordStrongAttack_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 58
+        width: 50
+        height: 33
+      alignment: 9
+      pivot: {x: .150000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreatSwordStrongAttack_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 57
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: .755818069, y: .499999762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreatSwordStrongAttack_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 58
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: .770500541, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

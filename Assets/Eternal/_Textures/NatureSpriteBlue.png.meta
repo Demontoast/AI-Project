@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: d75d0b5934aa045c38b90818b4eef3df
+timeCreated: 1473382267
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NatureSprite_0
+    21300002: NatureSprite_1
+    21300004: NatureSprite_2
+    21300006: NatureSprite_3
+    21300008: NatureSprite_4
+    21300010: NatureSprite_5
+    21300012: NatureSprite_6
+    21300014: NatureSprite_7
+    21300016: NatureSprite_8
+    21300018: NatureSprite_9
+    21300020: NatureSprite_10
+    21300022: NatureSprite_11
+    21300024: NatureSprite_12
+    21300026: NatureSprite_13
+    21300028: NatureSprite_14
+    21300030: NatureSpriteBlue_0
+    21300032: NatureSpriteBlue_1
+    21300034: NatureSpriteBlue_2
+    21300036: NatureSpriteBlue_3
+    21300038: NatureSpriteBlue_4
+    21300040: NatureSpriteBlue_5
+    21300042: NatureSpriteBlue_6
+    21300044: NatureSpriteBlue_7
+    21300046: NatureSpriteBlue_8
+    21300048: NatureSpriteBlue_9
+    21300050: NatureSpriteBlue_10
+    21300052: NatureSpriteBlue_11
+    21300054: NatureSpriteBlue_12
+    21300056: NatureSpriteBlue_13
+    21300058: NatureSpriteBlue_14
+    21300060: NatureSpriteBlue_15
+    21300062: NatureSpriteBlue_16
+    21300064: NatureSpriteBlue_17
+    21300066: NatureSpriteBlue_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NatureSprite_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 148
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 148
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5600014, y: -17}
+        - {x: 4.5600014, y: -22}
+        - {x: 7.5600014, y: -21}
+        - {x: 18.560001, y: -13}
+        - {x: 18.560001, y: 16}
+        - {x: 9.560001, y: 23}
+        - {x: -0.43999863, y: 23}
+        - {x: -5.4399986, y: 21}
+        - {x: -13.439999, y: 8}
+        - {x: -13.439999, y: -8}
+        - {x: -4.4399986, y: -22}
+        - {x: -2.4399986, y: -23}
+        - {x: 3.5600014, y: -23}
+        - {x: 3.5600014, y: -20}
+        - {x: 0.5600014, y: -13}
+        - {x: 0.5600014, y: -11}
+    - name: NatureSprite_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 100
+        width: 51
+        height: 47
+      alignment: 9
+      pivot: {x: 0.279046, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.768654, y: 12.5}
+        - {x: 11.768654, y: 21.5}
+        - {x: 8.768654, y: 22.5}
+        - {x: -7.231346, y: 22.5}
+        - {x: -14.231346, y: 12.5}
+        - {x: -14.231346, y: -8.5}
+        - {x: -6.231346, y: -22.5}
+        - {x: -4.231346, y: -23.5}
+        - {x: 5.768654, y: -23.5}
+        - {x: 36.768654, y: 2.5}
+        - {x: 36.768654, y: 15.5}
+        - {x: 35.768654, y: 15.5}
+    - name: NatureSprite_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 51
+        height: 57
+      alignment: 9
+      pivot: {x: 0.39409295, y: 0.42980838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.90126, y: 32.500923}
+        - {x: 21.90126, y: 32.500923}
+        - {x: 4.9012604, y: 28.500923}
+        - {x: -13.09874, y: 18.500923}
+        - {x: -16.09874, y: 7.500923}
+        - {x: -16.09874, y: -4.499077}
+        - {x: -15.09874, y: -8.499077}
+        - {x: -5.0987396, y: -23.499077}
+        - {x: -3.0987396, y: -24.499077}
+        - {x: 2.9012604, y: -24.499077}
+        - {x: 25.90126, y: 17.500923}
+        - {x: 28.90126, y: 24.500923}
+        - {x: 29.90126, y: 30.500923}
+    - name: NatureSprite_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 27
+        width: 28
+        height: 68
+      alignment: 9
+      pivot: {x: 0.6868516, y: 0.35573965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 27
+        width: 51
+        height: 46
+      alignment: 9
+      pivot: {x: 0.907135, y: 0.5213256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.263885, y: 21.019024}
+        - {x: -46.263885, y: 10.019024}
+        - {x: -46.263885, y: 0.019023895}
+        - {x: -43.263885, y: -3.980976}
+        - {x: -8.2638855, y: -23.980976}
+        - {x: 2.7361145, y: -23.980976}
+        - {x: 4.7361145, y: -9.980976}
+        - {x: 4.7361145, y: 11.019024}
+        - {x: -0.2638855, y: 21.019024}
+    - name: NatureSprite_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 27
+        width: 38
+        height: 46
+      alignment: 9
+      pivot: {x: 0.9173427, y: 0.5213256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.859024, y: 20.019024}
+        - {x: -34.859024, y: -5.980976}
+        - {x: -34.859024, y: -16.980976}
+        - {x: -22.859024, y: -23.980976}
+        - {x: 3.140976, y: -23.980976}
+        - {x: 3.140976, y: 18.019024}
+        - {x: 1.140976, y: 20.019024}
+    - name: NatureSprite_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 183
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 150
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 151
+        width: 30
+        height: 45
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 100
+        width: 41
+        height: 45
+      alignment: 9
+      pivot: {x: 0.66325676, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.193527, y: 22.5}
+        - {x: -27.193527, y: 19.5}
+        - {x: -27.193527, y: 0.5}
+        - {x: -26.193527, y: 0.5}
+        - {x: -3.1935272, y: -22.5}
+        - {x: 13.806473, y: -22.5}
+        - {x: 13.806473, y: 22.5}
+    - name: NatureSprite_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 100
+        width: 59
+        height: 45
+      alignment: 9
+      pivot: {x: 0.7578399, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.712555, y: 22.5}
+        - {x: -9.712555, y: 14.5}
+        - {x: -9.712555, y: -16.5}
+        - {x: -6.712555, y: -22.5}
+        - {x: 14.287445, y: -22.5}
+        - {x: 14.287445, y: 16.5}
+        - {x: 9.287445, y: 22.5}
+      - - {x: -38.712555, y: 8.5}
+        - {x: -44.712555, y: 7.5}
+        - {x: -44.712555, y: -0.5}
+        - {x: -6.712555, y: -0.5}
+        - {x: -6.712555, y: 6.5}
+        - {x: -8.712555, y: 8.5}
+    - name: NatureSprite_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 44
+        width: 73
+        height: 45
+      alignment: 9
+      pivot: {x: 0.80564064, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.811768, y: 22.5}
+        - {x: -9.811768, y: 17.5}
+        - {x: -9.811768, y: -14.5}
+        - {x: -2.8117676, y: -22.5}
+        - {x: 14.188232, y: -22.5}
+        - {x: 14.188232, y: 16.5}
+        - {x: 9.188232, y: 22.5}
+      - - {x: -58.811768, y: 8.5}
+        - {x: -58.811768, y: -0.5}
+        - {x: -7.8117676, y: -0.5}
+        - {x: -7.8117676, y: 6.5}
+        - {x: -8.811768, y: 8.5}
+    - name: NatureSpriteBlue_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSpriteBlue_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 153
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5599976, y: -16.5}
+        - {x: 4.5599976, y: -21.5}
+        - {x: 7.5599976, y: -20.5}
+        - {x: 18.559998, y: -12.5}
+        - {x: 18.559998, y: 17.5}
+        - {x: 11.559998, y: 21.5}
+        - {x: -4.4400024, y: 21.5}
+        - {x: -13.440002, y: 10.5}
+        - {x: -13.440002, y: -7.5}
+        - {x: -5.4400024, y: -21.5}
+        - {x: 3.5599976, y: -21.5}
+        - {x: 3.5599976, y: -19.5}
+        - {x: 0.55999756, y: -12.5}
+        - {x: 0.55999756, y: -10.5}
+    - name: NatureSpriteBlue_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 151
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5599976, y: -16}
+        - {x: 4.5599976, y: -21}
+        - {x: 7.5599976, y: -20}
+        - {x: 18.559998, y: -12}
+        - {x: 18.559998, y: 18}
+        - {x: 11.559998, y: 22}
+        - {x: -4.4400024, y: 22}
+        - {x: -13.440002, y: 11}
+        - {x: -13.440002, y: -7}
+        - {x: -4.4400024, y: -21}
+        - {x: -2.4400024, y: -22}
+        - {x: 3.5599976, y: -22}
+        - {x: 3.5599976, y: -19}
+        - {x: 0.55999756, y: -12}
+        - {x: 0.55999756, y: -10}
+    - name: NatureSpriteBlue_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 102
+        width: 33
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4046335, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.3529053, y: 23.000008}
+        - {x: -13.352905, y: 9.000008}
+        - {x: -13.352905, y: -8.999992}
+        - {x: -5.3529053, y: -22.999992}
+        - {x: 8.647095, y: -22.999992}
+        - {x: 19.647095, y: -16.999992}
+        - {x: 19.647095, y: 19.000008}
+        - {x: 11.647095, y: 23.000008}
+    - name: NatureSpriteBlue_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 150
+        width: 33
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4046335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.352905, y: 22}
+        - {x: -13.352905, y: 16}
+        - {x: -13.352905, y: -18}
+        - {x: -10.352905, y: -22}
+        - {x: 13.647095, y: -22}
+        - {x: 19.647095, y: -10}
+        - {x: 19.647095, y: 18}
+        - {x: 12.647095, y: 22}
+    - name: NatureSpriteBlue_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 90
+        width: 51
+        height: 57
+      alignment: 9
+      pivot: {x: 0.3940929, y: 0.4298084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.901276, y: 32.500923}
+        - {x: -16.098724, y: 20.500923}
+        - {x: -16.098724, y: -4.499077}
+        - {x: -15.098724, y: -8.499077}
+        - {x: -5.0987244, y: -23.499077}
+        - {x: -3.0987244, y: -24.499077}
+        - {x: 2.9012756, y: -24.499077}
+        - {x: 30.901276, y: 19.500923}
+        - {x: 30.901276, y: 32.500923}
+    - name: NatureSpriteBlue_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 92
+        width: 28
+        height: 56
+      alignment: 9
+      pivot: {x: 0.52323586, y: 0.42158058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSpriteBlue_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 29
+        width: 28
+        height: 68
+      alignment: 9
+      pivot: {x: 0.7188056, y: 0.35573977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSpriteBlue_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 151
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48123285, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSpriteBlue_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 150
+        width: 27
+        height: 45
+      alignment: 9
+      pivot: {x: 0.46988028, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSpriteBlue_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 73
+        width: 26
+        height: 67
+      alignment: 9
+      pivot: {x: 0.48748896, y: 0.33977976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSpriteBlue_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 13
+        width: 53
+        height: 60
+      alignment: 9
+      pivot: {x: 0.7485749, y: 0.3725926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.67447, y: 37.644444}
+        - {x: -39.67447, y: 27.644444}
+        - {x: -7.674469, y: -22.355556}
+        - {x: 13.325531, y: -22.355556}
+        - {x: 13.325531, y: 13.6444435}
+        - {x: 12.325531, y: 23.644444}
+        - {x: 2.325531, y: 37.644444}
+    - name: NatureSpriteBlue_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 10
+        width: 59
+        height: 59
+      alignment: 9
+      pivot: {x: 0.7729177, y: 0.4310814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.602142, y: 22.566196}
+        - {x: -8.602142, y: 33.566196}
+        - {x: -23.602142, y: 33.566196}
+        - {x: -32.602142, y: 22.566196}
+        - {x: -41.602142, y: 7.5661964}
+        - {x: -45.602142, y: -1.4338036}
+        - {x: -45.602142, y: -21.433804}
+        - {x: -44.602142, y: -25.433804}
+        - {x: 13.397858, y: -25.433804}
+        - {x: 13.397858, y: 18.566196}
+        - {x: 6.3978577, y: 31.566196}
+    - name: NatureSpriteBlue_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 11
+        width: 55
+        height: 47
+      alignment: 9
+      pivot: {x: 0.75136495, y: 0.5207637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.325073, y: 22.524109}
+        - {x: -41.325073, y: -16.475891}
+        - {x: -41.325073, y: -24.475891}
+        - {x: 13.674927, y: -24.475891}
+        - {x: 13.674927, y: 11.524109}
+        - {x: 10.674927, y: 22.524109}
+    - name: NatureSpriteBlue_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 149
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.39845085, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.2495728, y: -20}
+        - {x: 9.249573, y: -20}
+        - {x: 19.249573, y: -9}
+        - {x: 19.249573, y: 16}
+        - {x: 12.249573, y: 22}
+        - {x: -2.7504272, y: 22}
+        - {x: -9.750427, y: 12}
+        - {x: -9.750427, y: -11}
+        - {x: -5.7504272, y: -22}
+        - {x: 4.2495728, y: -22}
+        - {x: 4.2495728, y: -19}
+        - {x: 3.2495728, y: -6}
+        - {x: 4.2495728, y: -18}
+      - - {x: -10.750427, y: 22}
+        - {x: -12.750427, y: 20}
+        - {x: -12.750427, y: 11}
+        - {x: -11.750427, y: 10}
+        - {x: -9.750427, y: 10}
+        - {x: -5.7504272, y: 15}
+        - {x: -5.7504272, y: 22}
+    - name: NatureSpriteBlue_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 149
+        width: 32
+        height: 45
+      alignment: 9
+      pivot: {x: 0.3621393, y: 0.48375922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.41156, y: -17.769165}
+        - {x: 5.41156, y: -19.769165}
+        - {x: 8.41156, y: -21.769165}
+        - {x: 20.41156, y: -9.769165}
+        - {x: 20.41156, y: 10.230835}
+        - {x: 14.41156, y: 23.230835}
+        - {x: -11.58844, y: 23.230835}
+        - {x: -11.58844, y: 11.230835}
+        - {x: -9.58844, y: 11.230835}
+        - {x: -5.58844, y: 14.230835}
+        - {x: -8.58844, y: 11.230835}
+        - {x: -10.58844, y: 6.230835}
+        - {x: -11.58844, y: -3.769165}
+        - {x: -11.58844, y: -11.769165}
+        - {x: -2.58844, y: -21.769165}
+        - {x: 3.41156, y: -21.769165}
+        - {x: 3.41156, y: -18.769165}
+        - {x: 2.41156, y: -5.769165}
+        - {x: 3.41156, y: -16.769165}
+    - name: NatureSpriteBlue_16
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 95
+        width: 32
+        height: 47
+      alignment: 9
+      pivot: {x: 0.33464432, y: 0.44189292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.291382, y: -14.768967}
+        - {x: 4.291382, y: -16.768967}
+        - {x: 7.291382, y: -20.768967}
+        - {x: 13.291382, y: -20.768967}
+        - {x: 21.291382, y: -7.7689667}
+        - {x: 21.291382, y: 20.231033}
+        - {x: 15.291382, y: 26.231033}
+        - {x: -10.708618, y: 26.231033}
+        - {x: -10.708618, y: -9.768967}
+        - {x: -9.708618, y: -12.768967}
+        - {x: -1.7086182, y: -20.768967}
+        - {x: 4.291382, y: -20.768967}
+        - {x: 4.291382, y: -17.768967}
+        - {x: 0.29138184, y: -7.7689667}
+        - {x: 6.291382, y: 6.2310333}
+    - name: NatureSpriteBlue_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 95
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.2599678, y: 0.42176723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.6810303, y: -14.244827}
+        - {x: 5.6810303, y: -19.244827}
+        - {x: 8.68103, y: -18.244827}
+        - {x: 21.68103, y: -5.2448273}
+        - {x: 21.68103, y: 9.755173}
+        - {x: 17.68103, y: 16.755173}
+        - {x: 13.68103, y: 27.755173}
+        - {x: -8.31897, y: 27.755173}
+        - {x: -8.31897, y: -14.244827}
+        - {x: -3.3189697, y: -20.244827}
+        - {x: 4.6810303, y: -20.244827}
+        - {x: 4.6810303, y: -17.244827}
+        - {x: 0.6810303, y: -7.2448273}
+        - {x: 6.6810303, y: 6.7551727}
+    - name: NatureSpriteBlue_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 149
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.2599678, y: 0.4217672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.68103, y: -20.244827}
+        - {x: 15.68103, y: -20.244827}
+        - {x: 22.68103, y: -6.2448273}
+        - {x: 22.68103, y: 17.755173}
+        - {x: 18.68103, y: 21.755173}
+        - {x: 6.6810303, y: 27.755173}
+        - {x: -8.31897, y: 27.755173}
+        - {x: -8.31897, y: -9.244827}
+        - {x: -1.3189697, y: -20.244827}
+        - {x: 5.6810303, y: -20.244827}
+        - {x: 5.6810303, y: -17.244827}
+        - {x: 3.6810303, y: -3.2448273}
+        - {x: 5.6810303, y: -16.244827}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

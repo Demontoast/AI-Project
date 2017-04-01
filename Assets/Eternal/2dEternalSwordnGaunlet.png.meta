@@ -1,0 +1,1177 @@
+fileFormatVersion: 2
+guid: 26d11374610df4e18aab2f05c519afe9
+timeCreated: 1436926419
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalSwordnGaunlet_0
+    21300002: 2dEternalSwordnGaunlet_1
+    21300004: 2dEternalSwordnGaunlet_2
+    21300006: 2dEternalSwordnGaunlet_3
+    21300008: 2dEternalSwordnGaunlet_4
+    21300010: 2dEternalSwordnGaunlet_5
+    21300012: 2dEternalSwordnGaunlet_6
+    21300014: 2dEternalSwordnGaunlet_7
+    21300016: 2dEternalSwordnGaunlet_8
+    21300018: 2dEternalSwordnGaunlet_9
+    21300020: 2dEternalSwordnGaunlet_10
+    21300022: 2dEternalSwordnGaunlet_11
+    21300024: 2dEternalSwordnGaunlet_12
+    21300026: 2dEternalSwordnGaunlet_13
+    21300028: 2dEternalSwordnGaunlet_14
+    21300030: 2dEternalSwordnGaunlet_15
+    21300032: 2dEternalSwordnGaunlet_16
+    21300034: 2dEternalSwordnGaunlet_17
+    21300036: 2dEternalSwordnGaunlet_18
+    21300038: 2dEternalSwordnGaunlet_19
+    21300040: 2dEternalSwordnGaunlet_20
+    21300042: 2dEternalSwordnGaunlet_21
+    21300044: 2dEternalSwordnGaunlet_22
+    21300046: 2dEternalSwordnGaunlet_23
+    21300048: 2dEternalSwordnGaunlet_24
+    21300050: 2dEternalSwordnGaunlet_25
+    21300052: 2dEternalSwordnGaunlet_26
+    21300054: 2dEternalSwordnGaunlet_27
+    21300056: 2dEternalSwordnGaunlet_28
+    21300058: 2dEternalSwordnGaunlet_29
+    21300060: 2dEternalSwordnGaunlet_30
+    21300062: 2dEternalSwordnGaunlet_31
+    21300064: 2dEternalSwordnGaunlet_32
+    21300066: 2dEternalSwordnGaunlet_33
+    21300068: 2dEternalSwordnGaunlet_34
+    21300070: 2dEternalSwordnGaunlet_35
+    21300072: 2dEternalSwordnGaunlet_36
+    21300074: 2dEternalSwordnGaunlet_37
+    21300076: 2dEternalSwordnGaunlet_38
+    21300078: 2dEternalSwordnGaunlet_39
+    21300080: 2dEternalSwordnGaunlet_40
+    21300082: 2dEternalSwordnGaunlet_41
+    21300084: 2dEternalSwordnGaunlet_42
+    21300086: 2dEternalSwordnGaunlet_43
+    21300088: 2dEternalSwordnGaunlet_44
+    21300090: 2dEternalSwordnGaunlet_45
+    21300092: 2dEternalSwordnGaunlet_46
+    21300094: 2dEternalSwordnGaunlet_47
+    21300096: 2dEternalSwordnGaunlet_48
+    21300098: 2dEternalSwordnGaunlet_49
+    21300100: 2dEternalSwordnGaunlet_50
+    21300102: 2dEternalSwordnGaunlet_51
+    21300104: 2dEternalSwordnGaunlet_52
+    21300106: 2dEternalSwordnGaunlet_53
+    21300108: 2dEternalSwordnGaunlet_54
+    21300110: 2dEternalSwordnGaunlet_55
+    21300112: 2dEternalSwordnGaunlet_56
+    21300114: 2dEternalSwordnGaunlet_57
+    21300116: 2dEternalSwordnGaunlet_58
+    21300118: 2dEternalSwordnGaunlet_59
+    21300120: 2dEternalSwordnGaunlet_60
+    21300122: 2dEternalSwordnGaunlet_61
+    21300124: 2dEternalSwordnGaunlet_62
+    21300126: 2dEternalSwordnGaunlet_63
+    21300128: 2dEternalSwordnGaunlet_64
+    21300130: 2dEternalSwordnGaunlet_65
+    21300132: 2dEternalSwordnGaunlet_66
+    21300134: 2dEternalSwordnGaunlet_67
+    21300136: 2dEternalSwordnGaunlet_68
+    21300138: 2dEternalSwordnGaunlet_69
+    21300140: 2dEternalSwordnGaunlet_70
+    21300142: 2dEternalSwordnGaunlet_71
+    21300144: 2dEternalSwordnGaunlet_72
+    21300146: 2dEternalSwordnGaunlet_73
+    21300148: 2dEternalSwordnGaunlet_74
+    21300150: 2dEternalSwordnGaunlet_75
+    21300152: 2dEternalSwordnGaunlet_76
+    21300154: 2dEternalSwordnGaunlet_77
+    21300156: 2dEternalSwordnGaunlet_78
+    21300158: 2dEternalSwordnGaunlet_79
+    21300160: 2dEternalSwordnGaunlet_80
+    21300162: 2dEternalSwordnGaunlet_81
+    21300164: 2dEternalSwordnGaunlet_82
+    21300166: 2dEternalSwordnGaunlet_83
+    21300168: 2dEternalSwordnGaunlet_84
+    21300170: 2dEternalSwordnGaunlet_85
+    21300172: 2dEternalSwordnGaunlet_86
+    21300174: 2dEternalSwordnGaunlet_87
+    21300176: 2dEternalSwordnGaunlet_88
+    21300178: 2dEternalSwordnGaunlet_89
+    21300180: 2dEternalSwordnGaunlet_90
+    21300182: 2dEternalSwordnGaunlet_91
+    21300184: 2dEternalSwordnGaunlet_92
+    21300186: 2dEternalSwordnGaunlet_93
+    21300188: 2dEternalSwordnGaunlet_94
+    21300190: 2dEternalSwordnGaunlet_95
+    21300192: 2dEternalSwordnGaunlet_96
+    21300194: 2dEternalSwordnGaunlet_97
+    21300196: 2dEternalSwordnGaunlet_98
+    21300198: 2dEternalSwordnGaunlet_99
+    21300200: 2dEternalSwordnGaunlet_100
+    21300202: 2dEternalSwordnGaunlet_101
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalSwordnGaunlet_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 591
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 591
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 592
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 592
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 593
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 594
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 551
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 551
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 551
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 551
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 551
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 551
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 551
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 551
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 555
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 555
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 508
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 508
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 508
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 507
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 507
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 507
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 507
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 469
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 470
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 469
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 469
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 466
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 466
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_29
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 466
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 428
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 428
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 428
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 428
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 428
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_35
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 428
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_36
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 428
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 381
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 381
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 381
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 381
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 385
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 385
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 385
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 337
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 337
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 333
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_47
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 336
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 336
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 337
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 334
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 298
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 298
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 298
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 298
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_55
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 297
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 297
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 297
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 297
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_59
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 297
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_60
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 297
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_62
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 256
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_63
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 254
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 255
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_65
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 255
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_66
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 253
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 212
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_68
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 212
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_69
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 212
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_70
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 212
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_71
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 212
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 212
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_73
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 212
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_74
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 212
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 176
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 176
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_77
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 176
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 176
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_79
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 172
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_80
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 168
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 173
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_82
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 169
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_83
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 139
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 139
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 139
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_86
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 139
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_87
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 139
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 149
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_89
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 143
+        width: 79
+        height: 20
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_90
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 97
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: .595128119, y: .430396825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_91
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 133
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_92
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 124
+        width: 20
+        height: 11
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_93
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 118
+        width: 52
+        height: 20
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_94
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_95
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_96
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 57
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: .607228935, y: .500000477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_98
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: .676909924, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 55
+        width: 37
+        height: 34
+      alignment: 9
+      pivot: {x: .711881876, y: .484564155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_100
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalSwordnGaunlet_101
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 55
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

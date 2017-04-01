@@ -1,0 +1,1331 @@
+fileFormatVersion: 2
+guid: 9734079d55d754c3fab1877ec291ee0e
+timeCreated: 1457321790
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalSwordnSheild_0
+    21300002: 2dEternalSwordnSheild_1
+    21300004: 2dEternalSwordnSheild_2
+    21300006: 2dEternalSwordnSheild_3
+    21300008: 2dEternalSwordnSheild_4
+    21300010: 2dEternalSwordnSheild_5
+    21300012: 2dEternalSwordnSheild_6
+    21300014: 2dEternalSwordnSheild_7
+    21300016: 2dEternalSwordnSheild_8
+    21300018: 2dEternalSwordnSheild_9
+    21300020: 2dEternalSwordnSheild_10
+    21300022: 2dEternalSwordnSheild_11
+    21300024: 2dEternalSwordnSheild_12
+    21300026: 2dEternalSwordnSheild_13
+    21300028: 2dEternalSwordnSheild_14
+    21300030: 2dEternalSwordnSheild_15
+    21300032: 2dEternalSwordnSheild_16
+    21300034: 2dEternalSwordnSheild_17
+    21300036: 2dEternalSwordnSheild_18
+    21300038: 2dEternalSwordnSheild_19
+    21300040: 2dEternalSwordnSheild_20
+    21300042: 2dEternalSwordnSheild_21
+    21300044: 2dEternalSwordnSheild_22
+    21300046: 2dEternalSwordnSheild_23
+    21300048: 2dEternalSwordnSheild_24
+    21300050: 2dEternalSwordnSheild_25
+    21300052: 2dEternalSwordnSheild_26
+    21300054: 2dEternalSwordnSheild_27
+    21300056: 2dEternalSwordnSheild_28
+    21300058: 2dEternalSwordnSheild_29
+    21300060: 2dEternalSwordnSheild_30
+    21300062: 2dEternalSwordnSheild_31
+    21300064: 2dEternalSwordnSheild_32
+    21300066: 2dEternalSwordnSheild_33
+    21300068: 2dEternalSwordnSheild_34
+    21300070: 2dEternalSwordnSheild_35
+    21300072: 2dEternalSwordnSheild_36
+    21300074: 2dEternalSwordnSheild_37
+    21300076: 2dEternalSwordnSheild_38
+    21300078: 2dEternalSwordnSheild_39
+    21300080: 2dEternalSwordnSheild_40
+    21300082: 2dEternalSwordnSheild_41
+    21300084: 2dEternalSwordnSheild_42
+    21300086: 2dEternalSwordnSheild_43
+    21300088: 2dEternalSwordnSheild_44
+    21300090: 2dEternalSwordnSheild_45
+    21300092: 2dEternalSwordnSheild_46
+    21300094: 2dEternalSwordnSheild_47
+    21300096: 2dEternalSwordnSheild_48
+    21300098: 2dEternalSwordnSheild_49
+    21300100: 2dEternalSwordnSheild_50
+    21300102: 2dEternalSwordnSheild_51
+    21300104: 2dEternalSwordnSheild_52
+    21300106: 2dEternalSwordnSheild_53
+    21300108: 2dEternalSwordnSheild_54
+    21300110: 2dEternalSwordnSheild_55
+    21300112: 2dEternalSwordnSheild_56
+    21300114: 2dEternalSwordnSheild_57
+    21300116: 2dEternalSwordnSheild_58
+    21300118: 2dEternalSwordnSheild_59
+    21300120: 2dEternalSwordnSheild_60
+    21300122: 2dEternalSwordnSheild_61
+    21300124: 2dEternalSwordnSheild_62
+    21300126: 2dEternalSwordnSheild_63
+    21300128: 2dEternalSwordnSheild_64
+    21300130: 2dEternalSwordnSheild_65
+    21300132: 2dEternalSwordnSheild_66
+    21300134: 2dEternalSwordnSheild_67
+    21300136: 2dEternalSwordnSheild_68
+    21300138: 2dEternalSwordnSheild_69
+    21300140: 2dEternalSwordnSheild_70
+    21300142: 2dEternalSwordnSheild_71
+    21300144: 2dEternalSwordnSheild_72
+    21300146: 2dEternalSwordnSheild_73
+    21300148: 2dEternalSwordnSheild_74
+    21300150: 2dEternalSwordnSheild_75
+    21300152: 2dEternalSwordnSheild_76
+    21300154: 2dEternalSwordnSheild_77
+    21300156: 2dEternalSwordnSheild_78
+    21300158: 2dEternalSwordnSheild_79
+    21300160: 2dEternalSwordnSheild_80
+    21300162: 2dEternalSwordnSheild_81
+    21300164: 2dEternalSwordnSheild_82
+    21300166: Solider_0
+    21300168: Solider_1
+    21300170: Solider_2
+    21300172: Solider_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalSwordnSheild_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 475
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 475
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 476
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 476
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 435
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 392
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 392
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.314, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 392
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.9800034, y: 20.350006}
+        - {x: -7.9800034, y: 14.350006}
+        - {x: -7.9800034, y: -11.649994}
+        - {x: -5.9800034, y: -16.649994}
+        - {x: 29.019997, y: -16.649994}
+        - {x: 34.019997, y: -14.649994}
+        - {x: 34.019997, y: 11.350006}
+        - {x: 30.019997, y: 20.350006}
+    - name: 2dEternalSwordnSheild_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 391
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.020004, y: 17.609985}
+        - {x: 27.020004, y: 19.609985}
+        - {x: -7.9799957, y: 19.609985}
+        - {x: -7.9799957, y: -17.390015}
+        - {x: 30.020004, y: -17.390015}
+      - - {x: 11.020004, y: 7.6099854}
+        - {x: 12.020004, y: 5.6099854}
+        - {x: 14.020004, y: 5.6099854}
+        - {x: 19.020004, y: 7.6099854}
+        - {x: 19.020004, y: 11.609985}
+        - {x: 16.020004, y: 12.609985}
+        - {x: 11.020004, y: 10.609985}
+    - name: 2dEternalSwordnSheild_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 397
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 353
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 354
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 353
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 353
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.21559979, y: 0.44312048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.944809, y: 19.490784}
+        - {x: -1.055191, y: 19.490784}
+        - {x: -9.055191, y: 15.490784}
+        - {x: -9.055191, y: -15.509216}
+        - {x: 20.944809, y: -15.509216}
+        - {x: 32.94481, y: -7.5092163}
+        - {x: 32.94481, y: 10.490784}
+    - name: 2dEternalSwordnSheild_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 350
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.25282875, y: 0.49716845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.860321, y: 18.604767}
+        - {x: -9.860321, y: 7.604767}
+        - {x: -9.860321, y: -18.395233}
+        - {x: 26.139679, y: -18.395233}
+        - {x: 29.139679, y: -15.395233}
+        - {x: 29.139679, y: 11.604767}
+        - {x: 24.139679, y: 18.604767}
+      - - {x: 10.139679, y: 6.604767}
+        - {x: 11.139679, y: 4.604767}
+        - {x: 13.139679, y: 4.604767}
+        - {x: 18.139679, y: 6.604767}
+        - {x: 18.139679, y: 10.604767}
+        - {x: 15.139679, y: 11.604767}
+        - {x: 10.139679, y: 9.604767}
+    - name: 2dEternalSwordnSheild_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 312
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 312
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 312
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 312
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 312
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 312
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.225, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 265
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 265
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 265
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: 0.18, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.099998, y: 17.339996}
+        - {x: -8.099998, y: -16.660004}
+        - {x: 11.900002, y: -16.660004}
+        - {x: 36.9, y: -2.6600037}
+        - {x: 36.9, y: 9.339996}
+        - {x: 35.9, y: 17.339996}
+    - name: 2dEternalSwordnSheild_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 265
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.18, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.2799988, y: 17.51001}
+        - {x: -8.279999, y: 14.51001}
+        - {x: -8.279999, y: -16.48999}
+        - {x: 16.720001, y: -16.48999}
+        - {x: 37.72, y: -10.48999}
+        - {x: 37.72, y: 11.51001}
+        - {x: 18.720001, y: 17.51001}
+    - name: 2dEternalSwordnSheild_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 221
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.314, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 221
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.790001, y: 20.350006}
+        - {x: -7.790001, y: 17.350006}
+        - {x: -7.790001, y: -16.649994}
+        - {x: 13.209999, y: -16.649994}
+        - {x: 33.21, y: -3.649994}
+        - {x: 33.21, y: 8.350006}
+        - {x: 28.21, y: 20.350006}
+    - name: 2dEternalSwordnSheild_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 219
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.21, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9799957, y: 20.669998}
+        - {x: -7.9799957, y: 17.669998}
+        - {x: -7.9799957, y: -18.330002}
+        - {x: 29.020004, y: -18.330002}
+        - {x: 30.020004, y: -15.330002}
+        - {x: 30.020004, y: 15.669998}
+        - {x: 24.020004, y: 20.669998}
+      - - {x: 10.020004, y: 7.669998}
+        - {x: 11.020004, y: 5.669998}
+        - {x: 13.020004, y: 5.669998}
+        - {x: 18.020004, y: 7.669998}
+        - {x: 18.020004, y: 11.669998}
+        - {x: 15.020004, y: 12.669998}
+        - {x: 10.020004, y: 10.669998}
+    - name: 2dEternalSwordnSheild_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 220
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 220
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.22, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 221
+        width: 44
+        height: 35
+      alignment: 9
+      pivot: {x: 0.216, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.503998, y: 17.5}
+        - {x: -9.503998, y: 11.5}
+        - {x: -9.503998, y: -17.5}
+        - {x: 34.496002, y: -17.5}
+        - {x: 34.496002, y: 8.5}
+        - {x: 30.496002, y: 17.5}
+    - name: 2dEternalSwordnSheild_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 218
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.75, y: 18.5}
+        - {x: -9.75, y: 8.5}
+        - {x: -9.75, y: -18.5}
+        - {x: 29.25, y: -18.5}
+        - {x: 29.25, y: 11.5}
+        - {x: 23.25, y: 18.5}
+      - - {x: 10.25, y: 6.5}
+        - {x: 11.25, y: 4.5}
+        - {x: 13.25, y: 4.5}
+        - {x: 18.25, y: 6.5}
+        - {x: 18.25, y: 10.5}
+        - {x: 15.25, y: 11.5}
+        - {x: 10.25, y: 9.5}
+    - name: 2dEternalSwordnSheild_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 182
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 182
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 182
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.18, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.279999, y: 17.339996}
+        - {x: -8.279999, y: 14.339996}
+        - {x: -8.279999, y: -16.660004}
+        - {x: 12.720001, y: -16.660004}
+        - {x: 37.72, y: -9.660004}
+        - {x: 37.72, y: 8.339996}
+        - {x: 28.720001, y: 17.339996}
+    - name: 2dEternalSwordnSheild_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 182
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.18, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.279999, y: 17.339996}
+        - {x: -8.279999, y: 14.339996}
+        - {x: -8.279999, y: -16.660004}
+        - {x: 16.720001, y: -16.660004}
+        - {x: 37.72, y: -11.660004}
+        - {x: 37.72, y: 14.339996}
+        - {x: 31.720001, y: 17.339996}
+    - name: 2dEternalSwordnSheild_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 140
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.314, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 140
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19258645, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.0886307, y: 20.350006}
+        - {x: -8.088631, y: 17.350006}
+        - {x: -8.088631, y: -16.649994}
+        - {x: 25.91137, y: -16.649994}
+        - {x: 33.91137, y: -14.649994}
+        - {x: 33.91137, y: 8.350006}
+        - {x: 27.91137, y: 20.350006}
+    - name: 2dEternalSwordnSheild_45
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 138
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.21, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.2300034, y: 19.570007}
+        - {x: -7.7699966, y: 17.570007}
+        - {x: -7.7699966, y: -17.429993}
+        - {x: -6.7699966, y: -18.429993}
+        - {x: 29.230003, y: -18.429993}
+        - {x: 29.230003, y: 17.570007}
+        - {x: 27.230003, y: 19.570007}
+      - - {x: 10.230003, y: 7.5700073}
+        - {x: 11.230003, y: 5.5700073}
+        - {x: 13.230003, y: 5.5700073}
+        - {x: 18.230003, y: 7.5700073}
+        - {x: 18.230003, y: 11.570007}
+        - {x: 15.230003, y: 12.570007}
+        - {x: 10.230003, y: 10.570007}
+    - name: 2dEternalSwordnSheild_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 139
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.314, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 139
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.9799957, y: -16.649994}
+        - {x: 16.020004, y: -16.649994}
+        - {x: 34.020004, y: -9.649994}
+        - {x: 34.020004, y: 15.350006}
+        - {x: 31.020004, y: 20.350006}
+        - {x: -6.9799957, y: 20.350006}
+        - {x: -7.9799957, y: 17.350006}
+    - name: 2dEternalSwordnSheild_48
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 137
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.21, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.229996, y: -18.429993}
+        - {x: 29.229996, y: -17.429993}
+        - {x: 29.229996, y: 19.570007}
+        - {x: 1.2299957, y: 19.570007}
+        - {x: -7.7700043, y: 16.570007}
+        - {x: -7.7700043, y: -18.429993}
+      - - {x: 10.229996, y: 7.5700073}
+        - {x: 11.229996, y: 5.5700073}
+        - {x: 13.229996, y: 5.5700073}
+        - {x: 18.229996, y: 7.5700073}
+        - {x: 18.229996, y: 11.570007}
+        - {x: 15.229996, y: 12.570007}
+        - {x: 10.229996, y: 10.570007}
+    - name: 2dEternalSwordnSheild_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.18, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.279999, y: 18.550003}
+        - {x: -8.279999, y: 13.550003}
+        - {x: -8.279999, y: -16.449997}
+        - {x: 23.720001, y: -16.449997}
+        - {x: 37.72, y: -8.449997}
+        - {x: 37.72, y: 7.550003}
+        - {x: 13.720001, y: 18.550003}
+    - name: 2dEternalSwordnSheild_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 96
+        width: 46
+        height: 37
+      alignment: 9
+      pivot: {x: 0.18, y: 0.445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.27999878, y: 20.535004}
+        - {x: -8.279999, y: 15.535004}
+        - {x: -8.279999, y: -16.464996}
+        - {x: 15.720001, y: -16.464996}
+        - {x: 37.72, y: -10.464996}
+        - {x: 37.72, y: 10.535004}
+        - {x: 19.720001, y: 20.535004}
+    - name: 2dEternalSwordnSheild_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.18, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.279999, y: 17.339996}
+        - {x: -8.279999, y: 14.339996}
+        - {x: -8.279999, y: -16.660004}
+        - {x: 12.720001, y: -16.660004}
+        - {x: 37.72, y: -9.660004}
+        - {x: 37.72, y: 8.339996}
+        - {x: 28.720001, y: 17.339996}
+    - name: 2dEternalSwordnSheild_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 96
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.18, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.279999, y: 17.339996}
+        - {x: -8.279999, y: 15.339996}
+        - {x: -8.279999, y: -16.660004}
+        - {x: 16.720001, y: -16.660004}
+        - {x: 37.72, y: -11.660004}
+        - {x: 37.72, y: 12.339996}
+        - {x: 29.720001, y: 17.339996}
+    - name: 2dEternalSwordnSheild_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.22, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_59
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 60
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_60
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 60
+        width: 53
+        height: 31
+      alignment: 9
+      pivot: {x: 0.22, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 56
+        width: 43
+        height: 35
+      alignment: 9
+      pivot: {x: 0.216, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.287994, y: 17.5}
+        - {x: -9.287994, y: -17.5}
+        - {x: 33.712006, y: -17.5}
+        - {x: 33.712006, y: 8.5}
+        - {x: 30.712006, y: 17.5}
+    - name: 2dEternalSwordnSheild_62
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 52
+        width: 39
+        height: 38
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.75, y: 19}
+        - {x: -9.75, y: 17}
+        - {x: -9.75, y: -17}
+        - {x: -0.75, y: -19}
+        - {x: 29.25, y: -19}
+        - {x: 29.25, y: 16}
+        - {x: 25.25, y: 19}
+      - - {x: 10.25, y: 7}
+        - {x: 11.25, y: 5}
+        - {x: 13.25, y: 5}
+        - {x: 18.25, y: 7}
+        - {x: 18.25, y: 11}
+        - {x: 15.25, y: 12}
+        - {x: 10.25, y: 10}
+    - name: 2dEternalSwordnSheild_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 57
+        width: 43
+        height: 35
+      alignment: 9
+      pivot: {x: 0.216, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.287994, y: 17.5}
+        - {x: -9.287994, y: -17.5}
+        - {x: 33.712006, y: -17.5}
+        - {x: 33.712006, y: 8.5}
+        - {x: 30.712006, y: 17.5}
+    - name: 2dEternalSwordnSheild_64
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 53
+        width: 39
+        height: 38
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.75, y: 19}
+        - {x: -9.75, y: 17}
+        - {x: -9.75, y: -17}
+        - {x: -0.75, y: -19}
+        - {x: 29.25, y: -19}
+        - {x: 29.25, y: 16}
+        - {x: 25.25, y: 19}
+      - - {x: 10.25, y: 7}
+        - {x: 11.25, y: 5}
+        - {x: 13.25, y: 5}
+        - {x: 18.25, y: 7}
+        - {x: 18.25, y: 11}
+        - {x: 15.25, y: 12}
+        - {x: 10.25, y: 10}
+    - name: 2dEternalSwordnSheild_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 439
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 439
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_67
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 391
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_68
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 391
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_69
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 391
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 350
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_71
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 350
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 269
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5939026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_73
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 269
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 269
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_75
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 181
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 181
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_77
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 181
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_78
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 181
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_79
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 181
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_80
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 181
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_81
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 141
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalSwordnSheild_82
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 141
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Solider_0
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 343
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.314, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Solider_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 343
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.314, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Solider_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 299
+        width: 39
+        height: 32
+      alignment: 9
+      pivot: {x: 0.20325568, y: 0.5081272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9269714, y: 15.739929}
+        - {x: -7.9269714, y: 12.739929}
+        - {x: -7.9269714, y: -12.260071}
+        - {x: -5.9269714, y: -16.26007}
+        - {x: 16.073029, y: -16.26007}
+        - {x: 31.073029, y: -9.260071}
+        - {x: 31.073029, y: 2.7399292}
+        - {x: 21.073029, y: 15.739929}
+    - name: Solider_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 298
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.20913455, y: 0.51697063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.947113, y: 15.45694}
+        - {x: -7.947113, y: 14.45694}
+        - {x: -7.947113, y: -16.54306}
+        - {x: 12.052887, y: -16.54306}
+        - {x: 30.052887, y: 2.4569397}
+        - {x: 30.052887, y: 13.45694}
+        - {x: 15.052887, y: 15.45694}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

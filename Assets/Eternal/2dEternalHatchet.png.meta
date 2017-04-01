@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 1352aab3fa77347ed8d6751b29520b21
+timeCreated: 1439959713
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalHatchet_0
+    21300002: 2dEternalHatchet_1
+    21300004: 2dEternalHatchet_2
+    21300006: 2dEternalHatchet_3
+    21300008: 2dEternalHatchet_4
+    21300010: 2dEternalHatchet_5
+    21300012: 2dEternalHatchet_6
+    21300014: 2dEternalHatchet_7
+    21300016: 2dEternalHatchet_8
+    21300018: 2dEternalHatchet_9
+    21300020: 2dEternalHatchet_10
+    21300022: 2dEternalHatchet_11
+    21300024: 2dEternalHatchet_12
+    21300026: 2dEternalHatchet_13
+    21300028: 2dEternalHatchet_14
+    21300030: 2dEternalHatchet_15
+    21300032: 2dEternalHatchet_16
+    21300034: 2dEternalHatchet_17
+    21300036: 2dEternalHatchet_18
+    21300038: 2dEternalHatchet_19
+    21300040: 2dEternalHatchet_20
+    21300042: 2dEternalHatchet_21
+    21300044: 2dEternalHatchet_22
+    21300046: 2dEternalHatchet_23
+    21300048: 2dEternalHatchet_24
+    21300050: 2dEternalHatchet_25
+    21300052: 2dEternalHatchet_26
+    21300054: 2dEternalHatchet_27
+    21300056: 2dEternalHatchet_28
+    21300058: 2dEternalHatchet_29
+    21300060: 2dEternalHatchet_30
+    21300062: 2dEternalHatchet_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalHatchet_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 178
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .610000014, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 178
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .610000014, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 137
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .589999974, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 137
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .589999974, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 137
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .589999974, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 137
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .589999974, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 137
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .589999974, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 137
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .589999974, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 137
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .589999974, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 137
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .589999974, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 94
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 94
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: .5, y: .424857318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 92
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: .339276493, y: .445199162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 21
+        height: 35
+      alignment: 9
+      pivot: {x: .550000012, y: .524273455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: .45523867, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 51
+        width: 22
+        height: 37
+      alignment: 9
+      pivot: {x: .429918289, y: .388880134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 47
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: .338767111, y: .441503942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 44
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: .478586197, y: .563114166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 54
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .604275227, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 12
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: .677216113, y: .39885661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 54
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .604275227, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 54
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .604275227, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_24
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 54
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .604275227, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 54
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .604275227, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .610000014, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 10
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .610000014, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 10
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: .610000014, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: .610000014, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 12
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .610000014, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalHatchet_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 19
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

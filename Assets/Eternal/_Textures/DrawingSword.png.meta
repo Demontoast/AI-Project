@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: a1b7d0abe69c04031a72ef313689eba1
+timeCreated: 1440449280
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DrawingSword_0
+    21300002: DrawingSword_1
+    21300004: DrawingSword_2
+    21300006: DrawingSword_3
+    21300008: DrawingSword_4
+    21300010: DrawingSword_5
+    21300012: DrawingSword_6
+    21300014: DrawingSword_7
+    21300016: DrawingSword_8
+    21300018: DrawingSword_9
+    21300020: DrawingSword_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DrawingSword_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 54
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrawingSword_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 54
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrawingSword_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 54
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: .348219663, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrawingSword_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrawingSword_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 54
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: .348219693, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrawingSword_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 54
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: .253914773, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrawingSword_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 54
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .352014154, y: .360593051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrawingSword_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 54
+        width: 23
+        height: 38
+      alignment: 9
+      pivot: {x: .360886276, y: .43384251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrawingSword_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 54
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrawingSword_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: .387889653, y: .435446292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrawingSword_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 9
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: .540000021, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

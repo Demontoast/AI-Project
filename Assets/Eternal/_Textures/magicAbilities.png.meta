@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: a9e30f153e42b4f2bbff59e7eb0ab99a
+timeCreated: 1454344753
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: magicAbilities_0
+    21300002: magicAbilities_1
+    21300004: magicAbilities_2
+    21300006: magicAbilities_3
+    21300008: magicAbilities_4
+    21300010: magicAbilities_5
+    21300012: magicAbilities_6
+    21300014: magicAbilities_7
+    21300016: magicAbilities_8
+    21300018: magicAbilities_9
+    21300020: magicAbilities_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: magicAbilities_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 84
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magicAbilities_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 84
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magicAbilities_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magicAbilities_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 67
+        width: 20
+        height: 7
+      alignment: 9
+      pivot: {x: .803720474, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magicAbilities_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magicAbilities_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 52
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magicAbilities_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magicAbilities_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 27
+        height: 11
+      alignment: 9
+      pivot: {x: .799970984, y: .500000358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magicAbilities_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 51
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: .5, y: .338842243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magicAbilities_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 19
+        height: 7
+      alignment: 9
+      pivot: {x: .732783258, y: .499999464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magicAbilities_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 38
+        width: 21
+        height: 5
+      alignment: 9
+      pivot: {x: .752302647, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

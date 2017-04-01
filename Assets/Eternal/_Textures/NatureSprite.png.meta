@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 0bdd42ceff78e40d7b7b53d1949c2ad5
+timeCreated: 1473381174
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NatureSprite_0
+    21300002: NatureSprite_1
+    21300004: NatureSprite_2
+    21300006: NatureSprite_3
+    21300008: NatureSprite_4
+    21300010: NatureSprite_5
+    21300012: NatureSprite_6
+    21300014: NatureSprite_7
+    21300016: NatureSprite_8
+    21300018: NatureSprite_9
+    21300020: NatureSprite_10
+    21300022: NatureSprite_11
+    21300024: NatureSprite_12
+    21300026: NatureSprite_13
+    21300028: NatureSprite_14
+    21300030: NatureSprite_15
+    21300032: NatureSprite_16
+    21300034: NatureSprite_17
+    21300036: NatureSprite_18
+    21300038: NatureSprite_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NatureSprite_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 148
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 148
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.42, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5600014, y: -17}
+        - {x: 4.5600014, y: -22}
+        - {x: 7.5600014, y: -21}
+        - {x: 18.560001, y: -13}
+        - {x: 18.560001, y: 16}
+        - {x: 9.560001, y: 23}
+        - {x: -0.43999863, y: 23}
+        - {x: -5.4399986, y: 21}
+        - {x: -13.439999, y: 8}
+        - {x: -13.439999, y: -8}
+        - {x: -4.4399986, y: -22}
+        - {x: -2.4399986, y: -23}
+        - {x: 3.5600014, y: -23}
+        - {x: 3.5600014, y: -20}
+        - {x: 0.5600014, y: -13}
+        - {x: 0.5600014, y: -11}
+    - name: NatureSprite_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 100
+        width: 51
+        height: 47
+      alignment: 9
+      pivot: {x: 0.279046, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.768654, y: 22.5}
+        - {x: -12.231346, y: 22.5}
+        - {x: -14.231346, y: 12.5}
+        - {x: -14.231346, y: -12.5}
+        - {x: -6.231346, y: -22.5}
+        - {x: -4.231346, y: -23.5}
+        - {x: 5.768654, y: -23.5}
+        - {x: 29.768654, y: -1.5}
+        - {x: 36.768654, y: 5.5}
+        - {x: 36.768654, y: 17.5}
+    - name: NatureSprite_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 51
+        height: 57
+      alignment: 9
+      pivot: {x: 0.39409295, y: 0.42980838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.90126, y: 32.500923}
+        - {x: 21.90126, y: 32.500923}
+        - {x: 4.9012604, y: 28.500923}
+        - {x: -13.09874, y: 18.500923}
+        - {x: -16.09874, y: 7.500923}
+        - {x: -16.09874, y: -4.499077}
+        - {x: -15.09874, y: -8.499077}
+        - {x: -5.0987396, y: -23.499077}
+        - {x: -3.0987396, y: -24.499077}
+        - {x: 2.9012604, y: -24.499077}
+        - {x: 25.90126, y: 17.500923}
+        - {x: 28.90126, y: 24.500923}
+        - {x: 29.90126, y: 30.500923}
+    - name: NatureSprite_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 27
+        width: 28
+        height: 68
+      alignment: 9
+      pivot: {x: 0.6868516, y: 0.35573965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 27
+        width: 51
+        height: 46
+      alignment: 9
+      pivot: {x: 0.907135, y: 0.5213256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.263885, y: 20.019024}
+        - {x: -46.263885, y: 13.019024}
+        - {x: -46.263885, y: 1.0190239}
+        - {x: -38.263885, y: -2.980976}
+        - {x: -7.2638855, y: -23.980976}
+        - {x: 2.7361145, y: -23.980976}
+        - {x: 4.7361145, y: -12.980976}
+        - {x: 4.7361145, y: 16.019024}
+        - {x: 1.7361145, y: 20.019024}
+    - name: NatureSprite_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 27
+        width: 38
+        height: 46
+      alignment: 9
+      pivot: {x: 0.9173427, y: 0.5213256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.859024, y: -23.980976}
+        - {x: 3.140976, y: -23.980976}
+        - {x: 3.140976, y: 20.019024}
+        - {x: -24.859024, y: 20.019024}
+        - {x: -34.859024, y: 12.019024}
+    - name: NatureSprite_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 183
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 150
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 151
+        width: 30
+        height: 45
+      alignment: 9
+      pivot: {x: 0.54, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 100
+        width: 41
+        height: 45
+      alignment: 9
+      pivot: {x: 0.66325676, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.193527, y: 22.5}
+        - {x: -27.193527, y: 19.5}
+        - {x: -27.193527, y: 0.5}
+        - {x: -26.193527, y: 0.5}
+        - {x: -3.1935272, y: -22.5}
+        - {x: 13.806473, y: -22.5}
+        - {x: 13.806473, y: 22.5}
+    - name: NatureSprite_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 100
+        width: 59
+        height: 45
+      alignment: 9
+      pivot: {x: 0.7578399, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.712555, y: 22.5}
+        - {x: -9.712555, y: 14.5}
+        - {x: -9.712555, y: -16.5}
+        - {x: -6.712555, y: -22.5}
+        - {x: 14.287445, y: -22.5}
+        - {x: 14.287445, y: 16.5}
+        - {x: 9.287445, y: 22.5}
+      - - {x: -38.712555, y: 8.5}
+        - {x: -44.712555, y: 7.5}
+        - {x: -44.712555, y: -0.5}
+        - {x: -6.712555, y: -0.5}
+        - {x: -6.712555, y: 6.5}
+        - {x: -8.712555, y: 8.5}
+    - name: NatureSprite_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 44
+        width: 73
+        height: 45
+      alignment: 9
+      pivot: {x: 0.80564064, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.811768, y: 22.5}
+        - {x: -9.811768, y: 17.5}
+        - {x: -9.811768, y: -14.5}
+        - {x: -2.8117676, y: -22.5}
+        - {x: 14.188232, y: -22.5}
+        - {x: 14.188232, y: 16.5}
+        - {x: 9.188232, y: 22.5}
+      - - {x: -58.811768, y: 8.5}
+        - {x: -58.811768, y: -0.5}
+        - {x: -7.8117676, y: -0.5}
+        - {x: -7.8117676, y: 6.5}
+        - {x: -8.811768, y: 8.5}
+    - name: NatureSprite_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 144
+        width: 31
+        height: 44
+      alignment: 9
+      pivot: {x: 0.39113986, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 144
+        width: 31
+        height: 44
+      alignment: 9
+      pivot: {x: 0.38771304, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 94
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.33769867, y: 0.44944862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 93
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.36505967, y: 0.47026387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NatureSprite_19
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 41
+        width: 31
+        height: 47
+      alignment: 9
+      pivot: {x: 0.2835969, y: 0.45242205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

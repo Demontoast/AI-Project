@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: ed8d05a901ea44d57b0486f9ccf61d5a
+timeCreated: 1452297376
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sunflower_0
+    21300002: Sunflower_1
+    21300004: Sunflower_2
+    21300006: Sunflower_3
+    21300008: Sunflower_4
+    21300010: Sunflower_5
+    21300012: Sunflower_6
+    21300014: Sunflower_7
+    21300016: Sunflower_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sunflower_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sunflower_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sunflower_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 66
+        width: 97
+        height: 34
+      alignment: 9
+      pivot: {x: .887696743, y: .455983549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sunflower_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 67
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: .572627723, y: .478180647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sunflower_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sunflower_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sunflower_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 97
+        height: 33
+      alignment: 9
+      pivot: {x: .890077591, y: .498486787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sunflower_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sunflower_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 34
+        width: 55
+        height: 32
+      alignment: 9
+      pivot: {x: .78709358, y: .48111546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 8e2788522c9b54e129f981a8909a0052
+timeCreated: 1461631424
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RootKnight_0
+    21300002: RootKnight_1
+    21300004: RootKnight_2
+    21300006: RootKnight_3
+    21300008: RootKnight_4
+    21300010: RootKnight_5
+    21300012: RootKnight_6
+    21300014: RootKnight_7
+    21300016: RootKnight_8
+    21300018: RootKnight_9
+    21300020: RootKnight_10
+    21300022: RootKnight_11
+    21300024: RootKnight_12
+    21300026: RootKnight_13
+    21300028: RootKnight_14
+    21300030: RootKnight_15
+    21300032: RootKnight_16
+    21300034: RootKnight_17
+    21300036: RootKnight_18
+    21300038: RootKnight_19
+    21300040: RootKnight_20
+    21300042: RootKnight_21
+    21300044: RootKnight_22
+    21300046: RootKnight_23
+    21300048: RootKnight_24
+    21300050: RootKnight_25
+    21300052: RootKnight_26
+    21300054: RootKnight_27
+    21300056: RootKnight_28
+    21300058: RootKnight_29
+    21300060: RootKnight_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RootKnight_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 257
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 257
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 257
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 257
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 257
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 177
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.56808335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.844749, y: 20}
+        - {x: -7.1552505, y: 20}
+        - {x: -10.155251, y: 15}
+        - {x: -22.15525, y: 4}
+        - {x: -22.15525, y: -6}
+        - {x: -9.155251, y: -20}
+        - {x: 6.8447495, y: -20}
+        - {x: 16.84475, y: -5}
+        - {x: 16.84475, y: 5}
+        - {x: 13.844749, y: 19}
+    - name: RootKnight_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 177
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5250835, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.478256, y: 20}
+        - {x: -20.478256, y: 15}
+        - {x: -20.478256, y: -10}
+        - {x: -15.478256, y: -20}
+        - {x: 5.521744, y: -20}
+        - {x: 18.521744, y: -5}
+        - {x: 18.521744, y: 6}
+        - {x: 13.521744, y: 20}
+    - name: RootKnight_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 177
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48208305, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.801239, y: 20}
+        - {x: -18.801239, y: 10}
+        - {x: -18.801239, y: -3}
+        - {x: -6.801239, y: -20}
+        - {x: 10.198761, y: -20}
+        - {x: 20.198761, y: -2}
+        - {x: 20.198761, y: 8}
+        - {x: 7.198761, y: 20}
+    - name: RootKnight_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 135
+        width: 67
+        height: 40
+      alignment: 9
+      pivot: {x: 0.83581746, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.999771, y: 20}
+        - {x: -55.99977, y: 8}
+        - {x: -55.99977, y: 1}
+        - {x: -46.99977, y: -6}
+        - {x: -6.999771, y: -20}
+        - {x: 7.000229, y: -20}
+        - {x: 10.000229, y: -6}
+        - {x: 10.000229, y: 20}
+    - name: RootKnight_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 106
+        height: 40
+      alignment: 9
+      pivot: {x: 0.9245242, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.999565, y: 20}
+        - {x: -97.999565, y: 11}
+        - {x: -97.999565, y: 0}
+        - {x: -77.999565, y: -7}
+        - {x: -29.999565, y: -20}
+        - {x: 8.000435, y: -20}
+        - {x: 8.000435, y: 20}
+    - name: RootKnight_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 92
+        width: 106
+        height: 40
+      alignment: 9
+      pivot: {x: 0.92584264, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.13932, y: 20}
+        - {x: -97.13932, y: 7}
+        - {x: -97.13932, y: -5}
+        - {x: -50.13932, y: -15}
+        - {x: -24.13932, y: -20}
+        - {x: 7.8606796, y: -20}
+        - {x: 7.8606796, y: 20}
+    - name: RootKnight_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 92
+        width: 64
+        height: 40
+      alignment: 9
+      pivot: {x: 0.87557864, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.037033, y: 20}
+        - {x: -56.037033, y: 8}
+        - {x: -56.037033, y: -7}
+        - {x: -27.037033, y: -20}
+        - {x: 6.962967, y: -20}
+        - {x: 7.962967, y: -13}
+        - {x: 7.962967, y: 20}
+    - name: RootKnight_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 215
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6603339, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 244
+        width: 26
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6856355, y: 0.37486833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 242
+        width: 28
+        height: 58
+      alignment: 9
+      pivot: {x: 0.6674505, y: 0.35021237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 242
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.8003167, y: 0.3427456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.014252, y: 15.463501}
+        - {x: -16.014252, y: 15.463501}
+        - {x: 4.9857483, y: 35.4635}
+        - {x: 4.9857483, y: 37.4635}
+        - {x: -15.014252, y: 37.4635}
+        - {x: -30.014252, y: 23.463501}
+        - {x: -34.01425, y: 16.463501}
+        - {x: -36.01425, y: 11.463501}
+        - {x: -36.01425, y: -4.536499}
+        - {x: -32.01425, y: -11.536499}
+        - {x: -24.014252, y: -17.536499}
+        - {x: -20.014252, y: -19.536499}
+        - {x: 5.9857483, y: -19.536499}
+        - {x: 8.985748, y: -5.536499}
+        - {x: 8.985748, y: 20.463501}
+        - {x: -4.0142517, y: 26.463501}
+    - name: RootKnight_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 183
+        width: 50
+        height: 57
+      alignment: 9
+      pivot: {x: 0.82077634, y: 0.3427456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.038818, y: 22.463501}
+        - {x: -41.03882, y: -7.536499}
+        - {x: -41.03882, y: -16.536499}
+        - {x: -34.03882, y: -19.536499}
+        - {x: 5.9611816, y: -19.536499}
+        - {x: 8.961182, y: -5.536499}
+        - {x: 8.961182, y: 22.463501}
+      - - {x: -3.0388184, y: 35.4635}
+        - {x: -3.0388184, y: 37.4635}
+        - {x: -8.038818, y: 37.4635}
+        - {x: -6.0388184, y: 34.4635}
+    - name: RootKnight_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 183
+        width: 50
+        height: 57
+      alignment: 9
+      pivot: {x: 0.8207763, y: 0.3427456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.038818, y: 15.463501}
+        - {x: -16.038818, y: 15.463501}
+        - {x: 4.9611816, y: 35.4635}
+        - {x: 4.9611816, y: 37.4635}
+        - {x: -16.038818, y: 37.4635}
+        - {x: -36.03882, y: 28.463501}
+        - {x: -41.03882, y: 10.463501}
+        - {x: -41.03882, y: -19.536499}
+        - {x: 5.9611816, y: -19.536499}
+        - {x: 8.961182, y: -4.536499}
+        - {x: 8.961182, y: 20.463501}
+        - {x: -4.0388184, y: 26.463501}
+    - name: RootKnight_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 50
+        width: 133
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 76
+        width: 133
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 102
+        width: 133
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 128
+        width: 133
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 154
+        width: 133
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3959521, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 48
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3571663, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 48
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.42684126, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.65892, y: 19.999992}
+        - {x: -13.65892, y: -20.000008}
+        - {x: 14.34108, y: -20.000008}
+        - {x: 18.34108, y: -17.000008}
+        - {x: 18.34108, y: 16.999992}
+        - {x: 17.34108, y: 19.999992}
+    - name: RootKnight_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 48
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.42684174, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.341064, y: -20.000008}
+        - {x: 18.341064, y: -18.000008}
+        - {x: 18.341064, y: 19.999992}
+        - {x: -11.658936, y: 19.999992}
+        - {x: -13.658936, y: 18.999992}
+        - {x: -13.658936, y: -20.000008}
+        - {x: -6.6589355, y: -20.000008}
+        - {x: -4.6589355, y: -12.000008}
+        - {x: -4.6589355, y: -8.000008}
+        - {x: -4.6589355, y: -20.000008}
+    - name: RootKnight_28
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 256
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.31714922, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RootKnight_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 256
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5427113, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.165741, y: -11.5}
+        - {x: -16.165741, y: -19.5}
+        - {x: 11.834259, y: -19.5}
+        - {x: 17.834259, y: -17.5}
+        - {x: 17.834259, y: -4.5}
+        - {x: 5.834259, y: 12.5}
+        - {x: -7.165741, y: 12.5}
+        - {x: -21.165741, y: -4.5}
+    - name: RootKnight_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 208
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.53942555, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.962402, y: 8.5}
+        - {x: -10.037598, y: 8.5}
+        - {x: -16.037598, y: 6.5}
+        - {x: -21.037598, y: -6.5}
+        - {x: -21.037598, y: -19.5}
+        - {x: 17.962402, y: -19.5}
+        - {x: 17.962402, y: -6.5}
+        - {x: 12.962402, y: 5.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

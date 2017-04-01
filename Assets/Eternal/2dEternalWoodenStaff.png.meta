@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 0adb2d10a719e4413805528b69cb87fe
+timeCreated: 1484109428
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalWoodenStaff_0
+    21300002: 2dEternalWoodenStaff_1
+    21300004: 2dEternalWoodenStaff_2
+    21300006: 2dEternalWoodenStaff_3
+    21300008: 2dEternalWoodenStaff_4
+    21300010: 2dEternalWoodenStaff_5
+    21300012: 2dEternalWoodenStaff_6
+    21300014: 2dEternalWoodenStaff_7
+    21300016: 2dEternalWoodenStaff_8
+    21300018: 2dEternalWoodenStaff_9
+    21300020: 2dEternalWoodenStaff_10
+    21300022: 2dEternalWoodenStaff_11
+    21300024: 2dEternalWoodenStaff_12
+    21300026: 2dEternalWoodenStaff_13
+    21300028: 2dEternalWoodenStaff_14
+    21300030: 2dEternalWoodenStaff_15
+    21300032: 2dEternalWoodenStaff_16
+    21300034: 2dEternalWoodenStaff_17
+    21300036: 2dEternalWoodenStaff_18
+    21300038: 2dEternalWoodenStaff_19
+    21300040: 2dEternalWoodenStaff_20
+    21300042: 2dEternalWoodenStaff_21
+    21300044: 2dEternalWoodenStaff_22
+    21300046: 2dEternalWoodenStaff_23
+    21300048: 2dEternalWoodenStaff_24
+    21300050: 2dEternalWoodenStaff_25
+    21300052: 2dEternalWoodenStaff_26
+    21300054: 2dEternalWoodenStaff_27
+    21300056: 2dEternalWoodenStaff_28
+    21300058: 2dEternalWoodenStaff_29
+    21300060: 2dEternalWoodenStaff_30
+    21300062: 2dEternalWoodenStaff_31
+    21300064: 2dEternalWoodenStaff_32
+    21300066: 2dEternalWoodenStaff_33
+    21300068: 2dEternalWoodenStaff_34
+    21300070: 2dEternalWoodenStaff_35
+    21300072: 2dEternalWoodenStaff_36
+    21300074: 2dEternalWoodenStaff_37
+    21300076: 2dEternalWoodenStaff_38
+    21300078: 2dEternalWoodenStaff_39
+    21300080: 2dEternalWoodenStaff_40
+    21300082: 2dEternalWoodenStaff_41
+    21300084: 2dEternalWoodenStaff_42
+    21300086: 2dEternalWoodenStaff_43
+    21300088: 2dEternalWoodenStaff_44
+    21300090: 2dEternalWoodenStaff_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalWoodenStaff_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 208
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 208
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 168
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 168
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 168
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 130
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 168
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 168
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_10
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 168
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 168
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 171
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.399994, y: 16.5}
+        - {x: -14.399994, y: 14.5}
+        - {x: -14.399994, y: -8.5}
+        - {x: -9.399994, y: -16.5}
+        - {x: 17.600006, y: -16.5}
+        - {x: 17.600006, y: 16.5}
+    - name: 2dEternalWoodenStaff_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 171
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.399994, y: 16.5}
+        - {x: -14.399994, y: -16.5}
+        - {x: 15.600006, y: -16.5}
+        - {x: 15.600006, y: 16.5}
+    - name: 2dEternalWoodenStaff_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 130
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 124
+        width: 24
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 124
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.600006, y: 16.5}
+        - {x: -14.399994, y: 16.5}
+        - {x: -14.399994, y: -6.5}
+        - {x: -7.399994, y: -16.5}
+        - {x: 14.600006, y: -16.5}
+        - {x: 17.600006, y: -9.5}
+        - {x: 17.600006, y: 13.5}
+    - name: 2dEternalWoodenStaff_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 125
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 89
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 89
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 89
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 89
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 83
+        width: 24
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 83
+        width: 24
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.36124548, y: 0.48469612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 49
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.22025299, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 49
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.9400024, y: 16.5}
+        - {x: -17.940002, y: 4.5}
+        - {x: -17.940002, y: -9.5}
+        - {x: -14.940002, y: -16.5}
+        - {x: 21.059998, y: -16.5}
+        - {x: 21.059998, y: 7.5}
+        - {x: 12.059998, y: 16.5}
+    - name: 2dEternalWoodenStaff_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 49
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.25887167, y: 0.50525594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.386261, y: 16.326553}
+        - {x: -5.613739, y: 16.326553}
+        - {x: -6.613739, y: 13.326553}
+        - {x: -10.613739, y: 4.3265533}
+        - {x: -10.613739, y: -4.6734467}
+        - {x: -7.613739, y: -16.673447}
+        - {x: 12.386261, y: -16.673447}
+        - {x: 30.386261, y: -12.673447}
+        - {x: 30.386261, y: 11.326553}
+        - {x: 29.386261, y: 15.326553}
+    - name: 2dEternalWoodenStaff_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 0.3902866, y: 0.42465606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2888821, y: 0.48821467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2588717, y: 0.5052559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.386261, y: 16.326553}
+        - {x: -5.613739, y: 16.326553}
+        - {x: -6.613739, y: 13.326553}
+        - {x: -10.613739, y: 4.3265533}
+        - {x: -10.613739, y: -4.6734467}
+        - {x: -7.613739, y: -16.673447}
+        - {x: 22.386261, y: -16.673447}
+        - {x: 30.386261, y: -14.673447}
+        - {x: 30.386261, y: 9.326553}
+        - {x: 27.386261, y: 13.326553}
+    - name: 2dEternalWoodenStaff_33
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 47
+        width: 43
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2778888, y: 0.4760631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.9492188, y: 18.337791}
+        - {x: -9.949219, y: 10.337791}
+        - {x: -9.949219, y: -13.662209}
+        - {x: -8.949219, y: -16.662209}
+        - {x: 11.050781, y: -16.662209}
+        - {x: 31.050781, y: -9.662209}
+        - {x: 31.050781, y: 16.337791}
+        - {x: 30.050781, y: 18.337791}
+    - name: 2dEternalWoodenStaff_34
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 47
+        width: 41
+        height: 35
+      alignment: 9
+      pivot: {x: 0.1974666, y: 0.4763736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.0961304, y: 18.326923}
+        - {x: -8.09613, y: 15.326923}
+        - {x: -8.09613, y: -16.673077}
+        - {x: 9.90387, y: -16.673077}
+        - {x: 32.90387, y: -8.673077}
+        - {x: 32.90387, y: 11.326923}
+        - {x: 28.90387, y: 18.326923}
+    - name: 2dEternalWoodenStaff_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.32374695, y: 0.41407704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.19240244, y: 0.41211492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.080902, y: 23.515404}
+        - {x: -8.080902, y: -16.484596}
+        - {x: 30.919098, y: -16.484596}
+        - {x: 33.919098, y: -13.484596}
+        - {x: 33.919098, y: 21.515404}
+        - {x: 28.919098, y: 23.515404}
+    - name: 2dEternalWoodenStaff_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.20002976, y: 0.41392154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.00119, y: 23.443138}
+        - {x: -8.00119, y: -16.556862}
+        - {x: 31.99881, y: -16.556862}
+        - {x: 31.99881, y: 15.443138}
+        - {x: 24.99881, y: 23.443138}
+    - name: 2dEternalWoodenStaff_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 4
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.2000298, y: 0.4139215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.99881, y: 18.44314}
+        - {x: -5.00119, y: 18.44314}
+        - {x: -8.00119, y: 11.44314}
+        - {x: -8.00119, y: -16.55686}
+        - {x: 30.99881, y: -16.55686}
+        - {x: 31.99881, y: -13.55686}
+        - {x: 31.99881, y: -1.55686}
+      - - {x: 23.99881, y: 10.44314}
+        - {x: 22.99881, y: 8.44314}
+        - {x: 22.99881, y: 5.44314}
+        - {x: 27.99881, y: 1.44314}
+        - {x: 31.99881, y: 1.44314}
+        - {x: 31.99881, y: 8.44314}
+        - {x: 28.99881, y: 10.44314}
+      - - {x: 17.99881, y: 2.44314}
+        - {x: 20.99881, y: 3.44314}
+        - {x: 20.99881, y: 6.44314}
+        - {x: 17.99881, y: 7.44314}
+        - {x: 15.99881, y: 5.44314}
+    - name: 2dEternalWoodenStaff_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 197
+        width: 26
+        height: 40
+      alignment: 9
+      pivot: {x: 0.34100813, y: 0.4345482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalWoodenStaff_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 197
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.21150811, y: 0.4345482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.905151, y: 22.618073}
+        - {x: -9.094849, y: 22.618073}
+        - {x: -9.094849, y: -17.381927}
+        - {x: 33.90515, y: -17.381927}
+        - {x: 33.90515, y: 10.6180725}
+        - {x: 24.905151, y: 21.618073}
+    - name: 2dEternalWoodenStaff_41
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 197
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.21978611, y: 0.4345482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.01123, y: 22.618073}
+        - {x: -9.01123, y: -17.381927}
+        - {x: 30.98877, y: -17.381927}
+        - {x: 31.98877, y: -14.3819275}
+        - {x: 31.98877, y: 17.618073}
+        - {x: 26.98877, y: 22.618073}
+    - name: 2dEternalWoodenStaff_42
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 197
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.2197861, y: 0.4345482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.7914429, y: 17.618073}
+        - {x: -8.791443, y: 15.6180725}
+        - {x: -8.791443, y: -17.381927}
+        - {x: 30.208557, y: -17.381927}
+        - {x: 31.208557, y: -15.3819275}
+        - {x: 31.208557, y: -0.3819275}
+        - {x: 12.208557, y: 17.618073}
+      - - {x: 18.208557, y: 1.6180725}
+        - {x: 21.208557, y: 2.6180725}
+        - {x: 21.208557, y: 5.6180725}
+        - {x: 18.208557, y: 6.6180725}
+        - {x: 16.208557, y: 4.6180725}
+      - - {x: 24.208557, y: 9.6180725}
+        - {x: 23.208557, y: 7.6180725}
+        - {x: 23.208557, y: 4.6180725}
+        - {x: 26.208557, y: 2.6180725}
+        - {x: 30.208557, y: 2.6180725}
+        - {x: 31.208557, y: 3.6180725}
+        - {x: 31.208557, y: 7.6180725}
+        - {x: 29.208557, y: 9.6180725}
+    - name: 2dEternalWoodenStaff_43
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 154
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.27352813, y: 0.53749174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.973572, y: 11.725281}
+        - {x: 11.973572, y: 9.725281}
+        - {x: 9.973572, y: 6.725281}
+        - {x: 10.973572, y: 3.7252808}
+        - {x: 9.973572, y: 14.725281}
+        - {x: 9.973572, y: 15.725281}
+        - {x: -9.026428, y: 15.725281}
+        - {x: -9.026428, y: -18.27472}
+        - {x: 11.973572, y: -18.27472}
+        - {x: 15.973572, y: -14.274719}
+        - {x: 23.973572, y: -5.274719}
+        - {x: 23.973572, y: 11.725281}
+    - name: 2dEternalWoodenStaff_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 157
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.44607034, y: 0.47977638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.0585327, y: 16.647156}
+        - {x: -16.058533, y: 6.647156}
+        - {x: -16.058533, y: -12.352844}
+        - {x: -12.058533, y: -15.352844}
+        - {x: 19.941467, y: -15.352844}
+        - {x: 19.941467, y: 9.647156}
+        - {x: 15.941467, y: 16.647156}
+    - name: 2dEternalWoodenStaff_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 157
+        width: 41
+        height: 31
+      alignment: 9
+      pivot: {x: 0.26827034, y: 0.4939708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

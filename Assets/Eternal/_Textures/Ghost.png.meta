@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 4fd9ba0ae6c7d49deb509301a6a2016a
+timeCreated: 1454180303
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ghost_0
+    21300002: Ghost_1
+    21300004: Ghost_2
+    21300006: Ghost_3
+    21300008: Ghost_4
+    21300010: Ghost_5
+    21300012: Ghost_6
+    21300014: Ghost_7
+    21300016: Ghost_8
+    21300018: Ghost_9
+    21300020: Ghost_10
+    21300022: Ghost_11
+    21300024: Ghost_12
+    21300026: Ghost_13
+    21300028: Ghost_14
+    21300030: Ghost_15
+    21300032: Ghost_16
+    21300034: Ghost_17
+    21300036: Ghost_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 58
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: .419020385, y: .548537374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: .438461453, y: .537837863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 52
+        height: 61
+      alignment: 9
+      pivot: {x: .321560204, y: .445334494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 58
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: .419189751, y: .545428514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: .419190049, y: .542183518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 59
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: .421498805, y: .522714138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: .456323564, y: .346792907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 37
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 13
+        width: 52
+        height: 36
+      alignment: 9
+      pivot: {x: .414571911, y: .536685228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 13
+        width: 52
+        height: 36
+      alignment: 9
+      pivot: {x: .416880667, y: .533350229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 55
+        height: 49
+      alignment: 9
+      pivot: {x: .358181775, y: .557142913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 24
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 40
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: .393477231, y: .504508138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 30
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: .264332086, y: .463827908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 58
+        width: 13
+        height: 25
+      alignment: 9
+      pivot: {x: .658689082, y: .7692523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 55
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: .700622559, y: .767968297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 55
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: .355385423, y: .565604746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_18
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 7
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: .599438012, y: .613265693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: c714c61c2daf345cf97448fbc37b1e3b
+timeCreated: 1459892373
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TabooAxeman_0
+    21300002: TabooAxeman_1
+    21300004: TabooAxeman_2
+    21300006: TabooAxeman_3
+    21300008: TabooAxeman_4
+    21300010: TabooAxeman_5
+    21300012: TabooAxeman_6
+    21300014: TabooAxeman_7
+    21300016: TabooAxeman_8
+    21300018: TabooAxeman_9
+    21300020: TabooAxeman_10
+    21300022: TabooAxeman_11
+    21300024: TabooAxeman_12
+    21300026: TabooAxeman_13
+    21300028: TabooAxeman_14
+    21300030: TabooAxeman_15
+    21300032: TabooAxeman_16
+    21300034: TabooAxeman_17
+    21300036: TabooAxeman_18
+    21300038: TabooAxeman_19
+    21300040: TabooAxeman_20
+    21300042: TabooAxeman_21
+    21300044: TabooAxeman_22
+    21300046: TabooAxeman_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TabooAxeman_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.469999, y: 17.390015}
+        - {x: -18.47, y: 13.390015}
+        - {x: -19.47, y: 4.3900146}
+        - {x: -19.47, y: -11.609985}
+        - {x: -10.469999, y: -19.609985}
+        - {x: 46.53, y: -19.609985}
+        - {x: 46.53, y: 5.3900146}
+        - {x: 38.53, y: 17.390015}
+    - name: TabooAxeman_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 352
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.470001, y: 17.390015}
+        - {x: -19.470001, y: 13.390015}
+        - {x: -19.470001, y: -17.609985}
+        - {x: -17.470001, y: -19.609985}
+        - {x: 46.53, y: -19.609985}
+        - {x: 46.53, y: 0.39001465}
+        - {x: 7.529999, y: 17.390015}
+    - name: TabooAxeman_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 352
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.470001, y: 17.390015}
+        - {x: -19.470001, y: 15.390015}
+        - {x: -19.470001, y: -17.609985}
+        - {x: -18.470001, y: -19.609985}
+        - {x: 46.53, y: -19.609985}
+        - {x: 46.53, y: 5.3900146}
+        - {x: 38.53, y: 17.390015}
+    - name: TabooAxeman_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 352
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.470001, y: 17.390015}
+        - {x: -18.470001, y: 13.390015}
+        - {x: -19.470001, y: 1.3900146}
+        - {x: -19.470001, y: -9.609985}
+        - {x: -17.470001, y: -10.609985}
+        - {x: -12.470001, y: -18.609985}
+        - {x: -10.470001, y: -19.609985}
+        - {x: 46.53, y: -19.609985}
+        - {x: 46.53, y: 2.3900146}
+        - {x: 9.529999, y: 17.390015}
+    - name: TabooAxeman_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 352
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.470001, y: 17.390015}
+        - {x: -19.470001, y: 15.390015}
+        - {x: -19.470001, y: -17.609985}
+        - {x: -18.470001, y: -19.609985}
+        - {x: 46.53, y: -19.609985}
+        - {x: 46.53, y: 5.3900146}
+        - {x: 38.53, y: 17.390015}
+    - name: TabooAxeman_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 352
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.470001, y: 17.390015}
+        - {x: -18.470001, y: 13.390015}
+        - {x: -19.470001, y: 1.3900146}
+        - {x: -19.470001, y: -9.609985}
+        - {x: -17.470001, y: -10.609985}
+        - {x: -12.470001, y: -18.609985}
+        - {x: -10.470001, y: -19.609985}
+        - {x: 46.53, y: -19.609985}
+        - {x: 46.53, y: 2.3900146}
+        - {x: 9.529999, y: 17.390015}
+    - name: TabooAxeman_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 312
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.469999, y: 17.390015}
+        - {x: -18.47, y: 13.390015}
+        - {x: -19.47, y: 3.3900146}
+        - {x: -19.47, y: -11.609985}
+        - {x: -11.469999, y: -19.609985}
+        - {x: 46.53, y: -19.609985}
+        - {x: 46.53, y: 0.39001465}
+        - {x: 9.530001, y: 17.390015}
+    - name: TabooAxeman_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 308
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.470001, y: 17.390015}
+        - {x: -18.470001, y: 13.390015}
+        - {x: -19.470001, y: 1.3900146}
+        - {x: -19.470001, y: -11.609985}
+        - {x: -16.470001, y: -19.609985}
+        - {x: 46.53, y: -19.609985}
+        - {x: 46.53, y: 0.39001465}
+        - {x: 9.529999, y: 17.390015}
+    - name: TabooAxeman_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 309
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.53, y: 5.3900146}
+        - {x: 38.53, y: 17.390015}
+        - {x: -13.470001, y: 17.390015}
+        - {x: -18.470001, y: 13.390015}
+        - {x: -19.470001, y: 1.3900146}
+        - {x: -19.470001, y: -9.609985}
+        - {x: -17.470001, y: -10.609985}
+        - {x: -12.470001, y: -19.609985}
+        - {x: 46.53, y: -19.609985}
+    - name: TabooAxeman_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 309
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.470001, y: 17.390015}
+        - {x: -18.470001, y: 13.390015}
+        - {x: -19.470001, y: 1.3900146}
+        - {x: -19.470001, y: -11.609985}
+        - {x: -16.470001, y: -19.609985}
+        - {x: 46.53, y: -19.609985}
+        - {x: 46.53, y: 0.39001465}
+        - {x: 9.529999, y: 17.390015}
+    - name: TabooAxeman_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 309
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.470001, y: 17.390015}
+        - {x: -18.470001, y: 13.390015}
+        - {x: -19.470001, y: 1.3900146}
+        - {x: -19.470001, y: -13.609985}
+        - {x: -18.470001, y: -19.609985}
+        - {x: 44.53, y: -19.609985}
+        - {x: 46.53, y: -18.609985}
+        - {x: 46.53, y: 2.3900146}
+        - {x: 9.529999, y: 17.390015}
+    - name: TabooAxeman_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 267
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.37100616, y: 0.5299996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.486406, y: 17.390015}
+        - {x: -19.486406, y: 13.390015}
+        - {x: -24.486406, y: 2.3900146}
+        - {x: -24.486406, y: -14.609985}
+        - {x: -16.486406, y: -19.609985}
+        - {x: 41.513596, y: -19.609985}
+        - {x: 41.513596, y: 3.3900146}
+        - {x: 9.513594, y: 17.390015}
+    - name: TabooAxeman_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 267
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.37118483, y: 0.5253131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.4982, y: 17.563416}
+        - {x: -24.4982, y: 12.563416}
+        - {x: -24.4982, y: -11.436584}
+        - {x: -18.4982, y: -19.436584}
+        - {x: 41.5018, y: -19.436584}
+        - {x: 41.5018, y: 0.5634155}
+        - {x: 11.501801, y: 17.563416}
+    - name: TabooAxeman_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 267
+        width: 71
+        height: 37
+      alignment: 9
+      pivot: {x: 0.22947994, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.706924, y: 17.390015}
+        - {x: -16.293076, y: 17.390015}
+        - {x: -16.293076, y: -10.609985}
+        - {x: -11.293076, y: -19.609985}
+        - {x: 54.706924, y: -19.609985}
+        - {x: 54.706924, y: 3.3900146}
+        - {x: 47.706924, y: 9.390015}
+    - name: TabooAxeman_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 267
+        width: 72
+        height: 37
+      alignment: 9
+      pivot: {x: 0.2111668, y: 0.53386545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.20401, y: 17.246979}
+        - {x: -15.20401, y: 15.246979}
+        - {x: -15.20401, y: -3.7530212}
+        - {x: -11.20401, y: -19.753021}
+        - {x: 52.79599, y: -19.753021}
+        - {x: 52.79599, y: 7.2469788}
+        - {x: 10.79599, y: 17.246979}
+    - name: TabooAxeman_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3260121, y: 0.52666616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.516798, y: 17.513351}
+        - {x: -19.516798, y: 15.513351}
+        - {x: -19.516798, y: -19.486649}
+        - {x: 40.4832, y: -19.486649}
+        - {x: 44.4832, y: 5.5133514}
+        - {x: 44.4832, y: 13.513351}
+        - {x: 34.4832, y: 17.513351}
+    - name: TabooAxeman_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 195
+        width: 45
+        height: 64
+      alignment: 9
+      pivot: {x: 0.29789853, y: 0.3064196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.594566, y: 44.389145}
+        - {x: 23.594566, y: 44.389145}
+        - {x: 14.594566, y: 39.389145}
+        - {x: -13.405434, y: 16.389145}
+        - {x: -13.405434, y: -9.610855}
+        - {x: -11.405434, y: -19.610855}
+        - {x: 8.594566, y: -19.610855}
+        - {x: 31.594566, y: 20.389145}
+        - {x: 31.594566, y: 42.389145}
+    - name: TabooAxeman_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 205
+        width: 61
+        height: 50
+      alignment: 9
+      pivot: {x: 0.2223806, y: 0.39029023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.434784, y: 29.485489}
+        - {x: 14.434784, y: 29.485489}
+        - {x: 13.434784, y: 26.485489}
+        - {x: -6.565216, y: 22.485489}
+        - {x: -13.565216, y: 16.485489}
+        - {x: -13.565216, y: -9.514511}
+        - {x: -11.565216, y: -19.514511}
+        - {x: 47.434784, y: -19.514511}
+        - {x: 47.434784, y: -7.514511}
+        - {x: 40.434784, y: 20.485489}
+    - name: TabooAxeman_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 202
+        width: 63
+        height: 38
+      alignment: 9
+      pivot: {x: 0.21361409, y: 0.51320124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.542313, y: -18.501648}
+        - {x: 46.542313, y: -9.501648}
+        - {x: 8.542313, y: 18.498352}
+        - {x: -10.457687, y: 18.498352}
+        - {x: -13.457687, y: 16.498352}
+        - {x: -13.457687, y: -9.501648}
+        - {x: -11.457687, y: -19.501648}
+        - {x: 49.542313, y: -19.501648}
+    - name: TabooAxeman_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 137
+        width: 66
+        height: 38
+      alignment: 9
+      pivot: {x: 0.294589, y: 0.514097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.557125, y: 4.4643097}
+        - {x: 11.557125, y: 17.46431}
+        - {x: -15.442875, y: 17.46431}
+        - {x: -19.442875, y: 12.46431}
+        - {x: -19.442875, y: -18.53569}
+        - {x: -17.442875, y: -19.53569}
+        - {x: 44.557125, y: -19.53569}
+        - {x: 46.557125, y: -17.53569}
+        - {x: 46.557125, y: -7.5356903}
+      - - {x: 21.557125, y: 2.4643097}
+        - {x: 24.557125, y: -0.5356903}
+        - {x: 27.557125, y: 0.4643097}
+        - {x: 27.557125, y: 2.4643097}
+        - {x: 24.557125, y: 5.4643097}
+        - {x: 22.557125, y: 5.4643097}
+    - name: TabooAxeman_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 137
+        width: 67
+        height: 43
+      alignment: 9
+      pivot: {x: 0.30610737, y: 0.45673034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.4908066, y: 14.360596}
+        - {x: -19.509193, y: 14.360596}
+        - {x: -20.509193, y: 7.3605957}
+        - {x: -20.509193, y: -19.639404}
+        - {x: 46.490807, y: -19.639404}
+        - {x: 46.490807, y: -11.639404}
+        - {x: 8.490807, y: 13.360596}
+    - name: TabooAxeman_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 92
+        width: 66
+        height: 42
+      alignment: 9
+      pivot: {x: 0.29515857, y: 0.4684675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.480465, y: 15.324364}
+        - {x: -19.480465, y: 10.324364}
+        - {x: -19.480465, y: -19.675636}
+        - {x: 46.519535, y: -19.675636}
+        - {x: 46.519535, y: -4.6756363}
+        - {x: 15.519535, y: 15.324364}
+    - name: TabooAxeman_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 264
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.470001, y: 17.390015}
+        - {x: -19.470001, y: 8.390015}
+        - {x: -19.470001, y: -14.609985}
+        - {x: -18.470001, y: -17.609985}
+        - {x: -13.470001, y: -19.609985}
+        - {x: 39.53, y: -19.609985}
+        - {x: 46.53, y: -17.609985}
+        - {x: 46.53, y: 4.3900146}
+        - {x: 11.529999, y: 17.390015}
+    - name: TabooAxeman_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 221
+        width: 66
+        height: 37
+      alignment: 9
+      pivot: {x: 0.295, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.470001, y: 17.39}
+        - {x: -19.470001, y: 9.389999}
+        - {x: -19.470001, y: -17.61}
+        - {x: -18.470001, y: -19.61}
+        - {x: 43.53, y: -19.61}
+        - {x: 46.53, y: -17.61}
+        - {x: 46.53, y: 1.3899994}
+        - {x: 9.529999, y: 17.39}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

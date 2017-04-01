@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 2f64f953d6278484b861740fb14ee07e
+timeCreated: 1454962315
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TowerKnight_0
+    21300002: TowerKnight_1
+    21300004: TowerKnight_2
+    21300006: TowerKnight_3
+    21300008: TowerKnight_4
+    21300010: TowerKnight_5
+    21300012: TowerKnight_6
+    21300014: TowerKnight_7
+    21300016: TowerKnight_8
+    21300018: TowerKnight_9
+    21300020: TowerKnight_10
+    21300022: TowerKnight_11
+    21300024: TowerKnight_12
+    21300026: TowerKnight_13
+    21300028: TowerKnight_14
+    21300030: TowerKnight_15
+    21300032: TowerKnight_16
+    21300034: TowerKnight_17
+    21300036: TowerKnight_18
+    21300038: TowerKnight_19
+    21300040: TowerKnight_20
+    21300042: TowerKnight_21
+    21300044: TowerKnight_22
+    21300046: TowerKnight_23
+    21300048: TowerKnight_24
+    21300050: TowerKnight_25
+    21300052: TowerKnight_26
+    21300054: TowerKnight_27
+    21300056: TowerKnight_28
+    21300058: TowerKnight_29
+    21300060: TowerKnight_30
+    21300062: TowerKnight_31
+    21300064: TowerKnight_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TowerKnight_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 352
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 352
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 352
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 352
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 352
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 352
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 352
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 352
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 352
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 310
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 310
+        width: 31
+        height: 41
+      alignment: 9
+      pivot: {x: .5, y: .474999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 310
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: .479999989, y: .504999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 310
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: .450402826, y: .50590241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 310
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: .315793157, y: .504999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 310
+        width: 49
+        height: 39
+      alignment: 9
+      pivot: {x: .324031919, y: .504999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 293
+        width: 25
+        height: 54
+      alignment: 9
+      pivot: {x: .5, y: .362098962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 293
+        width: 44
+        height: 59
+      alignment: 9
+      pivot: {x: .361934304, y: .330606759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 268
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 268
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 268
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: .469999999, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 268
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: .469999999, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 263
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: .460000008, y: .478724778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 263
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: .376190543, y: .447727561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 263
+        width: 33
+        height: 39
+      alignment: 9
+      pivot: {x: .479999989, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 246
+        width: 33
+        height: 39
+      alignment: 9
+      pivot: {x: .479999989, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 231
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: .460000008, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 231
+        width: 43
+        height: 59
+      alignment: 9
+      pivot: {x: .367931992, y: .337374419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 293
+        width: 25
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .333927989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_28
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 352
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 227
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 227
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 227
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TowerKnight_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 220
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

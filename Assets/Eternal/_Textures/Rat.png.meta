@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: a5a4020e35a9d44c9ad601605abf5a42
+timeCreated: 1471458951
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rat_0
+    21300002: Rat_1
+    21300004: Rat_2
+    21300006: Rat_3
+    21300008: Rat_4
+    21300010: Rat_5
+    21300012: Rat_6
+    21300014: Rat_7
+    21300016: Rat_8
+    21300018: Rat_9
+    21300020: Rat_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 87
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rat_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 87
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rat_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rat_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 74
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rat_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rat_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 59
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rat_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rat_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 43
+        width: 39
+        height: 12
+      alignment: 9
+      pivot: {x: 0.52056, y: 0.46287727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rat_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 24
+        width: 41
+        height: 13
+      alignment: 9
+      pivot: {x: 0.53687125, y: 0.4349377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rat_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 22
+        width: 43
+        height: 17
+      alignment: 9
+      pivot: {x: 0.55927026, y: 0.32963753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rat_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 40
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5268982, y: 0.5172608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

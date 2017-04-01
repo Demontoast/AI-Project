@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: df2485a7281b942848e722a550bb2c14
+timeCreated: 1447639536
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalNoMask_0
+    21300002: 2dEternalNoMask_1
+    21300004: 2dEternalNoMask_2
+    21300006: 2dEternalNoMask_3
+    21300008: 2dEternalNoMask_4
+    21300010: 2dEternalNoMask_5
+    21300012: 2dEternalNoMask_6
+    21300014: 2dEternalNoMask_7
+    21300016: 2dEternalNoMask_8
+    21300018: 2dEternalNoMask_9
+    21300020: 2dEternalNoMask_10
+    21300022: 2dEternalNoMask_11
+    21300024: 2dEternalNoMask_12
+    21300026: 2dEternalNoMask_13
+    21300028: 2dEternalNoMask_14
+    21300030: 2dEternalNoMask_15
+    21300032: 2dEternalNoMask_16
+    21300034: 2dEternalNoMask_17
+    21300036: 2dEternalNoMask_18
+    21300038: 2dEternalNoMask_19
+    21300040: 2dEternalNoMask_20
+    21300042: 2dEternalNoMask_21
+    21300044: 2dEternalNoMask_22
+    21300046: 2dEternalNoMask_23
+    21300048: 2dEternalNoMask_24
+    21300050: 2dEternalNoMask_25
+    21300052: 2dEternalNoMask_26
+    21300054: 2dEternalNoMask_27
+    21300056: 2dEternalNoMask_28
+    21300058: 2dEternalNoMask_29
+    21300060: 2dEternalNoMask_30
+    21300062: 2dEternalNoMask_31
+    21300064: 2dEternalNoMask_32
+    21300066: 2dEternalNoMask_33
+    21300068: 2dEternalNoMask_34
+    21300070: 2dEternalNoMask_35
+    21300072: 2dEternalNoMask_36
+    21300074: 2dEternalNoMask_37
+    21300076: 2dEternalNoMask_38
+    21300078: 2dEternalNoMask_39
+    21300080: 2dEternalNoMask_40
+    21300082: 2dEternalArcher_0
+    21300084: 2dEternalArcher_1
+    21300086: 2dEternalArcher_2
+    21300088: 2dEternalArcher_3
+    21300090: 2dEternalArcher_4
+    21300092: 2dEternalArcher_5
+    21300094: 2dEternalArcher_6
+    21300096: 2dEternalArcher_7
+    21300098: 2dEternalArcher_8
+    21300100: 2dEternalArcher_9
+    21300102: 2dEternalArcher_10
+    21300104: 2dEternalArcher_11
+    21300106: 2dEternalArcher_12
+    21300108: 2dEternalArcher_13
+    21300110: 2dEternalArcher_14
+    21300112: 2dEternalArcher_15
+    21300114: 2dEternalArcher_16
+    21300116: 2dEternalArcher_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalNoMask_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 234
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 234
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 235
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 235
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 237
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: .400000006, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 237
+        width: 35
+        height: 17
+      alignment: 9
+      pivot: {x: .280000001, y: .649999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 194
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 194
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 194
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 194
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 194
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 194
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 194
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 198
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 198
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 155
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .409999996, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 155
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 155
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: .340000004, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 155
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_20
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 150
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 150
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: .430000007, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 150
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 112
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: .330000013, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 113
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: .330000013, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 112
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: .330000013, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 142
+        width: 21
+        height: 3
+      alignment: 9
+      pivot: {x: .257186532, y: .443342805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 42
+        width: 27
+        height: 11
+      alignment: 9
+      pivot: {x: .186816752, y: .477767944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 109
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 109
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 71
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 71
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 71
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: .449999988, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 71
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: .330000013, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 72
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: .330000013, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 72
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: .300000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 30
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: .300000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 30
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: .280000001, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_39
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: .330000013, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalNoMask_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 72
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: .300000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 155
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .400000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 132
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 122
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 114
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: .340000004, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 33
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: .335000008, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 33
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: .335000008, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 35
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: .300000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 34
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: .289999992, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 35
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: .289999992, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 34
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: .449999988, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 34
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 109
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: .449999988, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 109
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: .449999988, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_14
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 109
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: .449999988, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 109
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 72
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: .449999988, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalArcher_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 72
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

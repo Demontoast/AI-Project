@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 590bf4ea38048476abd2d92c6e7377a4
+timeCreated: 1466875798
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tribesman_0
+    21300002: Tribesman_1
+    21300004: Tribesman_2
+    21300006: Tribesman_3
+    21300008: Tribesman_4
+    21300010: Tribesman_5
+    21300012: Tribesman_6
+    21300014: Tribesman_7
+    21300016: Tribesman_8
+    21300018: Tribesman_9
+    21300020: Tribesman_10
+    21300022: Tribesman_11
+    21300024: Tribesman_12
+    21300026: Tribesman_13
+    21300028: Tribesman_14
+    21300030: Tribesman_15
+    21300032: Tribesman_16
+    21300034: TribesmanCharger_0
+    21300036: TribesmanCharger_1
+    21300038: TribesmanCharger_2
+    21300040: TribesmanCharger_3
+    21300042: TribesmanCharger_4
+    21300044: TribesmanCharger_5
+    21300046: TribesmanCharger_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tribesman_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.64149797, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 70
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.641498, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 69
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6183436, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 69
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6183436, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6183436, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 39
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6183436, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 39
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6183436, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 39
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6183436, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4994346, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7671577, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7570701, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 68
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.45738822, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 47
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 38
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.47302756, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 68
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.43751988, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 7
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.641498, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tribesman_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 7
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6414986, y: 0.52418786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TribesmanCharger_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 66
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6609036, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TribesmanCharger_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 33
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5898697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TribesmanCharger_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5840828, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TribesmanCharger_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 66
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.58648527, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TribesmanCharger_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 66
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5975565, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TribesmanCharger_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 33
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5888878, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TribesmanCharger_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.58648527, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

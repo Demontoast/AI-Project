@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 667da0f61652e45b1be3c871a8458704
+timeCreated: 1439441501
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprout 1_0
+    21300002: Sprout 1_1
+    21300004: Sprout 1_2
+    21300006: Sprout 1_3
+    21300008: Sprout 1_4
+    21300010: Sprout 1_5
+    21300012: Sprout 1_6
+    21300014: Sprout 1_7
+    21300016: Sprout 1_8
+    21300018: Sprout 1_9
+    21300020: Sprout 1_10
+    21300022: Sprout 1_11
+    21300024: Sprout 1_12
+    21300026: Sprout 1_13
+    21300028: Sprout 1_14
+    21300030: Sprout 1_15
+    21300032: Sprout 1_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprout 1_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 164
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 164
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 164
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 164
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: .460000008, y: .49000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 130
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: .419999987, y: .479999989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 130
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: .430000007, y: .460000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 130
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: .384998322, y: .58944577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: .384998292, y: .589445829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 130
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: .384998292, y: .589445829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 130
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: .384998292, y: .589445829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 103
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: .384998292, y: .589445829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 101
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: .34499988, y: .587500274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 101
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: .455555379, y: .564000249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 101
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: .417646974, y: .59583348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprout 1_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: .57916671, y: .584615588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

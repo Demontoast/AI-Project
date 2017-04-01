@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 35d5a787bcb934bb699ee92b97f3514f
+timeCreated: 1463012542
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TribesmanGeneral_0
+    21300002: TribesmanGeneral_1
+    21300004: TribesmanGeneral_2
+    21300006: TribesmanGeneral_3
+    21300008: TribesmanGeneral_4
+    21300010: TribesmanGeneral_5
+    21300012: TribesmanGeneral_6
+    21300014: TribesmanGeneral_7
+    21300016: TribesmanGeneral_8
+    21300018: TribesmanGeneral_9
+    21300020: TribesmanGeneral_10
+    21300022: TribesmanGeneral_11
+    21300024: TribesmanGeneral_12
+    21300026: TribesmanGeneral_13
+    21300028: TribesmanGeneral_14
+    21300030: TribesmanGeneral_15
+    21300032: TribesmanGeneral_16
+    21300034: TribesmanGeneral_17
+    21300036: TribesmanGeneral_18
+    21300038: TribesmanGeneral_19
+    21300040: TribesmanGeneral_20
+    21300042: TribesmanGeneral_21
+    21300044: TribesmanGeneral_22
+    21300046: TribesmanGeneral_23
+    21300048: TribesmanGeneral_24
+    21300050: TribesmanGeneral_25
+    21300052: TribesmanGeneral_26
+    21300054: TribesmanGeneral_27
+    21300056: TribesmanGeneral_28
+    21300058: TribesmanGeneral_29
+    21300060: TribesmanGeneral_30
+    21300062: TribesmanGeneral_31
+    21300064: TribesmanGeneral_32
+    21300066: TribesmanGeneral_33
+    21300068: TribesmanGeneral_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TribesmanGeneral_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 345
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.2, y: 26.5}
+        - {x: -46.2, y: 0.5}
+        - {x: -46.2, y: -26.5}
+        - {x: 18.8, y: -26.5}
+        - {x: 30.8, y: -20.5}
+        - {x: 30.8, y: 6.5}
+        - {x: 18.8, y: 26.5}
+    - name: TribesmanGeneral_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 345
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.199997, y: 26.5}
+        - {x: -46.199997, y: -0.5}
+        - {x: -46.199997, y: -18.5}
+        - {x: -28.199997, y: -26.5}
+        - {x: 25.800003, y: -26.5}
+        - {x: 30.800003, y: -17.5}
+        - {x: 30.800003, y: 7.5}
+        - {x: 15.800003, y: 26.5}
+    - name: TribesmanGeneral_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 345
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.56420064, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.44345, y: -18.5}
+        - {x: -32.44345, y: -26.5}
+        - {x: 19.55655, y: -26.5}
+        - {x: 33.55655, y: -20.5}
+        - {x: 33.55655, y: 11.5}
+        - {x: 28.55655, y: 21.5}
+        - {x: 15.556549, y: 26.5}
+        - {x: -19.44345, y: 26.5}
+        - {x: -43.44345, y: -0.5}
+    - name: TribesmanGeneral_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 345
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5117457, y: 0.5000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.404419, y: 26.49997}
+        - {x: -39.40442, y: 13.4999695}
+        - {x: -39.40442, y: -9.5000305}
+        - {x: -17.404419, y: -25.50003}
+        - {x: -13.404419, y: -26.50003}
+        - {x: 30.595581, y: -26.50003}
+        - {x: 37.59558, y: -14.5000305}
+        - {x: 37.59558, y: 0.49996948}
+        - {x: 25.595581, y: 26.49997}
+    - name: TribesmanGeneral_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 288
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.61670125, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.514004, y: -5.5}
+        - {x: 24.514004, y: 14.5}
+        - {x: 14.514004, y: 26.5}
+        - {x: -13.485996, y: 26.5}
+        - {x: -35.485996, y: 17.5}
+        - {x: -47.485996, y: -0.5}
+        - {x: -47.485996, y: -26.5}
+        - {x: 12.514004, y: -26.5}
+        - {x: 13.514004, y: -25.5}
+        - {x: 29.514004, y: -15.5}
+        - {x: 29.514004, y: -6.5}
+    - name: TribesmanGeneral_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 288
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.7602256, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.53737, y: -8.5}
+        - {x: -45.53737, y: -13.5}
+        - {x: -11.537369, y: -26.5}
+        - {x: 18.462631, y: -26.5}
+        - {x: 18.462631, y: 26.5}
+        - {x: -26.537369, y: 26.5}
+        - {x: -58.53737, y: 14.5}
+    - name: TribesmanGeneral_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 288
+        width: 80
+        height: 53
+      alignment: 9
+      pivot: {x: 0.76890945, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.512756, y: 1.5}
+        - {x: -61.512756, y: -11.5}
+        - {x: -22.512756, y: -24.5}
+        - {x: -12.512756, y: -26.5}
+        - {x: 18.487244, y: -26.5}
+        - {x: 18.487244, y: 26.5}
+        - {x: -29.512756, y: 26.5}
+        - {x: -53.512756, y: 18.5}
+    - name: TribesmanGeneral_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 231
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6129366, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.803879, y: 14.5}
+        - {x: 14.803879, y: 26.5}
+        - {x: -7.196121, y: 26.5}
+        - {x: -14.196121, y: 12.5}
+        - {x: -47.19612, y: -4.5}
+        - {x: -47.19612, y: -13.5}
+        - {x: -34.19612, y: -20.5}
+        - {x: -8.196121, y: -26.5}
+        - {x: 14.803879, y: -26.5}
+        - {x: 29.803879, y: -13.5}
+        - {x: 29.803879, y: -6.5}
+        - {x: 28.803879, y: -5.5}
+    - name: TribesmanGeneral_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 231
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6279949, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.644394, y: 26.5}
+        - {x: -5.355606, y: 26.5}
+        - {x: -8.355606, y: 23.5}
+        - {x: -15.355606, y: 13.5}
+        - {x: -48.355606, y: -3.5}
+        - {x: -48.355606, y: -17.5}
+        - {x: -9.355606, y: -26.5}
+        - {x: 15.644394, y: -26.5}
+        - {x: 28.644394, y: -15.5}
+        - {x: 28.644394, y: -6.5}
+        - {x: 27.644394, y: -5.5}
+    - name: TribesmanGeneral_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 231
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.61493474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.650024, y: -5.5}
+        - {x: 24.650024, y: 14.5}
+        - {x: 14.650024, y: 26.5}
+        - {x: -7.3499756, y: 26.5}
+        - {x: -14.349976, y: 12.5}
+        - {x: -47.349976, y: -4.5}
+        - {x: -47.349976, y: -18.5}
+        - {x: -24.349976, y: -26.5}
+        - {x: 11.650024, y: -26.5}
+        - {x: 27.650024, y: -14.5}
+        - {x: 29.650024, y: -12.5}
+        - {x: 29.650024, y: -6.5}
+    - name: TribesmanGeneral_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 231
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.61873794, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.642822, y: -18.5}
+        - {x: -25.642822, y: -26.5}
+        - {x: 17.357178, y: -26.5}
+        - {x: 29.357178, y: -21.5}
+        - {x: 29.357178, y: 9.5}
+        - {x: 22.357178, y: 26.5}
+        - {x: -16.642822, y: 26.5}
+        - {x: -47.642822, y: -1.5}
+    - name: TribesmanGeneral_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.42119855, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.432289, y: 26.5}
+        - {x: -32.43229, y: -5.5}
+        - {x: -32.43229, y: -21.5}
+        - {x: -27.43229, y: -26.5}
+        - {x: 40.56771, y: -26.5}
+        - {x: 44.56771, y: -25.5}
+        - {x: 44.56771, y: 1.5}
+        - {x: 18.56771, y: 26.5}
+    - name: TribesmanGeneral_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 177
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5136659, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.552277, y: 26.5}
+        - {x: -39.552277, y: -0.5}
+        - {x: -39.552277, y: -13.5}
+        - {x: -26.552277, y: -18.5}
+        - {x: -11.552277, y: -26.5}
+        - {x: 15.447723, y: -26.5}
+        - {x: 15.447723, y: -20.5}
+        - {x: 37.447723, y: -19.5}
+        - {x: 37.447723, y: 26.5}
+    - name: TribesmanGeneral_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 177
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5388308, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.489975, y: 26.5}
+        - {x: -41.489975, y: 7.5}
+        - {x: -41.489975, y: -14.5}
+        - {x: -12.489975, y: -26.5}
+        - {x: 30.510025, y: -26.5}
+        - {x: 35.510025, y: -20.5}
+        - {x: 35.510025, y: 14.5}
+        - {x: 26.510025, y: 26.5}
+    - name: TribesmanGeneral_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 177
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5382607, y: 0.4999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.446075, y: 26.500015}
+        - {x: -41.446075, y: -6.4999847}
+        - {x: -28.446075, y: -26.499985}
+        - {x: 22.553925, y: -26.499985}
+        - {x: 35.553925, y: 2.5000153}
+        - {x: 35.553925, y: 17.500015}
+        - {x: 18.553925, y: 26.500015}
+    - name: TribesmanGeneral_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 120
+        width: 107
+        height: 53
+      alignment: 9
+      pivot: {x: 0.83584255, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.43515, y: 26.5}
+        - {x: -89.43515, y: 8.5}
+        - {x: -89.43515, y: -3.5}
+        - {x: -67.43515, y: -15.5}
+        - {x: -23.43515, y: -26.5}
+        - {x: 17.56485, y: -26.5}
+        - {x: 17.56485, y: 26.5}
+    - name: TribesmanGeneral_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 121
+        width: 149
+        height: 53
+      alignment: 9
+      pivot: {x: 0.88257295, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.503372, y: 26.5}
+        - {x: -120.50337, y: 10.5}
+        - {x: -131.50337, y: 4.5}
+        - {x: -131.50337, y: -3.5}
+        - {x: -111.50337, y: -7.5}
+        - {x: -26.503372, y: -26.5}
+        - {x: 17.496628, y: -26.5}
+        - {x: 17.496628, y: 20.5}
+        - {x: 13.496628, y: 26.5}
+      - - {x: 14.496628, y: 0.5}
+        - {x: 16.496628, y: -1.5}
+        - {x: 17.496628, y: -1.5}
+        - {x: 17.496628, y: 3.5}
+        - {x: 15.496628, y: 3.5}
+    - name: TribesmanGeneral_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 220
+        height: 53
+      alignment: 9
+      pivot: {x: 0.9198733, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.37213, y: 26.5}
+        - {x: -202.37213, y: 10.5}
+        - {x: -202.37213, y: -6.5}
+        - {x: -88.37213, y: -26.5}
+        - {x: 17.627869, y: -26.5}
+        - {x: 17.627869, y: 26.5}
+    - name: TribesmanGeneral_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 276
+        height: 53
+      alignment: 9
+      pivot: {x: 0.9364174, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.4512, y: 26.5}
+        - {x: -245.4512, y: 11.5}
+        - {x: -258.4512, y: 4.5}
+        - {x: -258.4512, y: -0.5}
+        - {x: -254.4512, y: -2.5}
+        - {x: -244.4512, y: -4.5}
+        - {x: -83.4512, y: -26.5}
+        - {x: 17.548798, y: -26.5}
+        - {x: 17.548798, y: 25.5}
+        - {x: 16.548798, y: 26.5}
+    - name: TribesmanGeneral_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 344
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6157266, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.41095, y: 26.5}
+        - {x: -47.41095, y: -3.5}
+        - {x: -47.41095, y: -24.5}
+        - {x: -37.41095, y: -26.5}
+        - {x: 29.58905, y: -26.5}
+        - {x: 29.58905, y: 6.5}
+        - {x: 21.58905, y: 26.5}
+    - name: TribesmanGeneral_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 344
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6952772, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.536346, y: 26.5}
+        - {x: -53.536346, y: 6.5}
+        - {x: -53.536346, y: -2.5}
+        - {x: -40.536346, y: -7.5}
+        - {x: -11.536346, y: -26.5}
+        - {x: 15.463654, y: -26.5}
+        - {x: 23.463654, y: -3.5}
+        - {x: 23.463654, y: 10.5}
+        - {x: 14.463654, y: 26.5}
+    - name: TribesmanGeneral_21
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 344
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.68932474, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.078003, y: 26.5}
+        - {x: -8.078003, y: 24.5}
+        - {x: -40.078003, y: 17.5}
+        - {x: -49.078003, y: 13.5}
+        - {x: -53.078003, y: 11.5}
+        - {x: -53.078003, y: 6.5}
+        - {x: -49.078003, y: 4.5}
+        - {x: -39.078003, y: 1.5}
+        - {x: -11.078003, y: -26.5}
+        - {x: 17.921997, y: -26.5}
+        - {x: 23.921997, y: -0.5}
+        - {x: 23.921997, y: 17.5}
+        - {x: 16.921997, y: 26.5}
+    - name: TribesmanGeneral_22
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 344
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.642804, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.49591, y: 26.5}
+        - {x: -49.49591, y: 20.5}
+        - {x: -42.49591, y: 12.5}
+        - {x: -26.49591, y: 11.5}
+        - {x: -10.495911, y: -26.5}
+        - {x: 15.504089, y: -26.5}
+        - {x: 27.50409, y: -13.5}
+        - {x: 27.50409, y: 18.5}
+        - {x: 23.50409, y: 26.5}
+    - name: TribesmanGeneral_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 288
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6422777, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.455383, y: 26.5}
+        - {x: -49.455383, y: 12.5}
+        - {x: -12.455383, y: -26.5}
+        - {x: 18.544617, y: -26.5}
+        - {x: 27.544617, y: -18.5}
+        - {x: 27.544617, y: 14.5}
+        - {x: 22.544617, y: 26.5}
+    - name: TribesmanGeneral_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 288
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.65388983, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.349518, y: 26.5}
+        - {x: -50.349518, y: 20.5}
+        - {x: -42.349518, y: 11.5}
+        - {x: -26.349518, y: 10.5}
+        - {x: -10.349518, y: -25.5}
+        - {x: -8.349518, y: -26.5}
+        - {x: 17.650482, y: -26.5}
+        - {x: 26.650482, y: -16.5}
+        - {x: 26.650482, y: 15.5}
+        - {x: 22.650482, y: 26.5}
+    - name: TribesmanGeneral_25
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 288
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6550975, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.442505, y: 26.5}
+        - {x: -50.442505, y: 13.5}
+        - {x: -7.442505, y: -26.5}
+        - {x: 14.557495, y: -26.5}
+        - {x: 26.557495, y: -14.5}
+        - {x: 26.557495, y: 20.5}
+        - {x: 23.557495, y: 26.5}
+    - name: TribesmanGeneral_26
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 288
+        width: 75
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6319865, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.398987, y: 26.5}
+        - {x: -47.398987, y: 12.5}
+        - {x: -9.398987, y: -26.5}
+        - {x: 15.601013, y: -26.5}
+        - {x: 27.601013, y: -13.5}
+        - {x: 27.601013, y: 17.5}
+        - {x: 23.601013, y: 26.5}
+    - name: TribesmanGeneral_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 232
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6399774, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.27826, y: 26.5}
+        - {x: -49.27826, y: 20.5}
+        - {x: -42.27826, y: 12.5}
+        - {x: -26.27826, y: 11.5}
+        - {x: -10.278259, y: -26.5}
+        - {x: 15.721741, y: -26.5}
+        - {x: 27.72174, y: -13.5}
+        - {x: 27.72174, y: 18.5}
+        - {x: 23.72174, y: 26.5}
+    - name: TribesmanGeneral_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 231
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6433696, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.46054, y: 26.5}
+        - {x: -49.53946, y: 26.5}
+        - {x: -49.53946, y: 12.5}
+        - {x: -10.539459, y: -26.5}
+        - {x: 20.46054, y: -26.5}
+        - {x: 27.46054, y: -12.5}
+        - {x: 27.46054, y: 9.5}
+        - {x: 26.46054, y: 10.5}
+    - name: TribesmanGeneral_29
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 222
+        width: 51
+        height: 63
+      alignment: 9
+      pivot: {x: 0.65375954, y: 0.42098758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.658264, y: 36.477783}
+        - {x: -17.341736, y: 36.477783}
+        - {x: -33.341736, y: 14.477783}
+        - {x: -33.341736, y: -26.522217}
+        - {x: 17.658264, y: -26.522217}
+        - {x: 17.658264, y: 32.477783}
+    - name: TribesmanGeneral_30
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 222
+        width: 48
+        height: 63
+      alignment: 9
+      pivot: {x: 0.63422775, y: 0.42192924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.442932, y: 36.418457}
+        - {x: -30.442932, y: -9.581543}
+        - {x: -30.442932, y: -26.581543}
+        - {x: 17.557068, y: -26.581543}
+        - {x: 17.557068, y: 30.418457}
+        - {x: 8.557068, y: 36.418457}
+    - name: TribesmanGeneral_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 174
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.60375935, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.489471, y: 26.499985}
+        - {x: -46.48947, y: 1.4999847}
+        - {x: -46.48947, y: -13.500015}
+        - {x: -33.48947, y: -18.500015}
+        - {x: -25.489471, y: -16.500015}
+        - {x: -11.489471, y: -26.500015}
+        - {x: 18.510529, y: -26.500015}
+        - {x: 30.510529, y: -20.500015}
+        - {x: 30.510529, y: 15.499985}
+        - {x: 26.510529, y: 26.499985}
+    - name: TribesmanGeneral_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 174
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.60419613, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.523102, y: 26.5}
+        - {x: -23.523102, y: 9.5}
+        - {x: -20.523102, y: 4.5}
+        - {x: -16.523102, y: -0.5}
+        - {x: -32.5231, y: -2.5}
+        - {x: -42.5231, y: -5.5}
+        - {x: -46.5231, y: -7.5}
+        - {x: -46.5231, y: -13.5}
+        - {x: -33.5231, y: -18.5}
+        - {x: -25.523102, y: -16.5}
+        - {x: -11.523102, y: -26.5}
+        - {x: 17.476898, y: -26.5}
+        - {x: 30.476898, y: -16.5}
+        - {x: 30.476898, y: 24.5}
+        - {x: 28.476898, y: 26.5}
+    - name: TribesmanGeneral_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 155
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.60316366, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.443604, y: 26.5}
+        - {x: -46.443604, y: 0.5}
+        - {x: -46.443604, y: -17.5}
+        - {x: -33.443604, y: -18.5}
+        - {x: -25.443604, y: -16.5}
+        - {x: -11.4436035, y: -26.5}
+        - {x: 17.556396, y: -26.5}
+        - {x: 30.556396, y: -12.5}
+        - {x: 30.556396, y: 20.5}
+        - {x: 20.556396, y: 26.5}
+    - name: TribesmanGeneral_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 108
+        width: 48
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6342278, y: 0.4219292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.442932, y: 36.418457}
+        - {x: -30.442932, y: -4.581543}
+        - {x: -30.442932, y: -26.581543}
+        - {x: 17.557068, y: -26.581543}
+        - {x: 17.557068, y: 23.418457}
+        - {x: -0.44293213, y: 36.418457}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

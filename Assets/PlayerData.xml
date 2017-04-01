@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<PlayerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_iUser>
+    <name>Sin</name>
+    <CurHp>12</CurHp>
+    <CurMana>12</CurMana>
+    <MaxHp>12</MaxHp>
+    <MaxMana>12</MaxMana>
+    <souls>0</souls>
+    <magicDefense>0</magicDefense>
+    <fireDefense>0</fireDefense>
+    <artDefense>0</artDefense>
+    <poise>0</poise>
+    <maskName>No Mask</maskName>
+    <items>
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+    </items>
+    <inventory>
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+    </inventory>
+    <invSize>0</invSize>
+    <passiveInvSize>0</passiveInvSize>
+    <spells>
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+      <SPELLS xsi:nil="true" />
+    </spells>
+    <spellSize>0</spellSize>
+    <MainHands />
+    <SideArms />
+    <MaskNames />
+    <MaskDescs />
+    <maskSize>0</maskSize>
+    <keys>
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+      <ITEMS xsi:nil="true" />
+    </keys>
+    <keySize>0</keySize>
+    <graveSouls>0</graveSouls>
+    <gravePosX>0</gravePosX>
+    <gravePosY>0</gravePosY>
+    <gravePosZ>0</gravePosZ>
+    <On>true</On>
+  </_iUser>
+</PlayerData>

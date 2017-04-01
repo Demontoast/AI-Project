@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 04e501a03179f42a6ba64d8d7f5e2575
+timeCreated: 1435338587
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ebony_Vine_Sprite_Sheet_0
+    21300002: Ebony_Vine_Sprite_Sheet_1
+    21300004: Ebony_Vine_Sprite_Sheet_2
+    21300006: Ebony_Vine_Sprite_Sheet_3
+    21300008: Ebony_Vine_Sprite_Sheet_4
+    21300010: Ebony_Vine_Sprite_Sheet_5
+    21300012: Ebony_Vine_Sprite_Sheet_6
+    21300014: Ebony_Vine_Sprite_Sheet_7
+    21300016: Ebony_Vine_Sprite_Sheet_8
+    21300018: Ebony_Vine_Sprite_Sheet_9
+    21300020: Ebony_Vine_Sprite_Sheet_10
+    21300022: Ebony_Vine_Sprite_Sheet_11
+    21300024: Ebony_Vine_Sprite_Sheet_12
+    21300026: Ebony_Vine_Sprite_Sheet_13
+    21300028: Ebony_Vine_Sprite_Sheet_14
+    21300030: Ebony_Vine_Sprite_Sheet_15
+    21300032: Ebony_Vine_Sprite_Sheet_16
+    21300034: Ebony_Vine_Sprite_Sheet_17
+    21300036: Ebony_Vine_Sprite_Sheet_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ebony_Vine_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 105
+        width: 27
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 105
+        width: 27
+        height: 88
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 105
+        width: 27
+        height: 87
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 105
+        width: 27
+        height: 87
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 105
+        width: 27
+        height: 88
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 105
+        width: 27
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 27
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 9
+        width: 27
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 9
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 9
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 9
+        width: 27
+        height: 54
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 9
+        width: 27
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 8
+        width: 27
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 9
+        width: 27
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 27
+        height: 84
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 8
+        width: 27
+        height: 88
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ebony_Vine_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 104
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: cf6189d627cd94653a180aac45fd373d
+timeCreated: 1435337336
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalV4_0
+    21300002: 2dEternalV4_1
+    21300004: 2dEternalV4_2
+    21300006: 2dEternalV4_3
+    21300008: 2dEternalV4_4
+    21300010: 2dEternalV4_5
+    21300012: 2dEternalV4_6
+    21300014: 2dEternalV4_7
+    21300016: 2dEternalV4_8
+    21300018: 2dEternalV4_9
+    21300020: 2dEternalV4_10
+    21300022: 2dEternalV4_11
+    21300024: 2dEternalV4_12
+    21300026: 2dEternalV4_13
+    21300028: 2dEternalV4_14
+    21300030: 2dEternalV4_15
+    21300032: 2dEternalV4_16
+    21300034: 2dEternalV4_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalV4_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 218
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 218
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 218
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 178
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 178
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 178
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 178
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 178
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 178
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 178
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 178
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 135
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 135
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: .299779743, y: .462816089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 135
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: .191647232, y: .439702213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: .20856002, y: .464826018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: .431999892, y: .467741936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: .433309942, y: .473103195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2dEternalV4_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: .431721807, y: .466114908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

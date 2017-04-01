@@ -1,0 +1,1197 @@
+fileFormatVersion: 2
+guid: 2954e6daa47d24a13a6caf310b1800e8
+timeCreated: 1484192980
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2dEternalNoMask_0
+    21300002: 2dEternalNoMask_1
+    21300004: 2dEternalNoMask_2
+    21300006: 2dEternalNoMask_3
+    21300008: 2dEternalNoMask_4
+    21300010: 2dEternalNoMask_5
+    21300012: 2dEternalNoMask_6
+    21300014: 2dEternalNoMask_7
+    21300016: 2dEternalNoMask_8
+    21300018: 2dEternalNoMask_9
+    21300020: 2dEternalNoMask_10
+    21300022: 2dEternalNoMask_11
+    21300024: 2dEternalNoMask_12
+    21300026: 2dEternalNoMask_13
+    21300028: 2dEternalNoMask_14
+    21300030: 2dEternalNoMask_15
+    21300032: 2dEternalNoMask_16
+    21300034: 2dEternalNoMask_17
+    21300036: 2dEternalNoMask_18
+    21300038: 2dEternalNoMask_19
+    21300040: 2dEternalNoMask_20
+    21300042: 2dEternalNoMask_21
+    21300044: 2dEternalNoMask_22
+    21300046: 2dEternalNoMask_23
+    21300048: 2dEternalNoMask_24
+    21300050: 2dEternalNoMask_25
+    21300052: 2dEternalNoMask_26
+    21300054: 2dEternalNoMask_27
+    21300056: 2dEternalNoMask_28
+    21300058: 2dEternalNoMask_29
+    21300060: 2dEternalNoMask_30
+    21300062: 2dEternalNoMask_31
+    21300064: 2dEternalNoMask_32
+    21300066: 2dEternalNoMask_33
+    21300068: 2dEternalNoMask_34
+    21300070: 2dEternalNoMask_35
+    21300072: 2dEternalNoMask_36
+    21300074: 2dEternalNoMask_37
+    21300076: 2dEternalNoMask_38
+    21300078: 2dEternalNoMask_39
+    21300080: 2dEternalNoMask_40
+    21300082: 2dEternalNoMask_41
+    21300084: 2dEternalNoMask_42
+    21300086: 2dEternalNoMask_43
+    21300088: 2dEternalNoMask_44
+    21300090: 2dEternalNoMask_45
+    21300092: 2dEternalNoMask_46
+    21300094: 2dEternalNoMask_47
+    21300096: 2dEternalNoMask_48
+    21300098: 2dEternalNoMask_49
+    21300100: 2dEternalNoMask_50
+    21300102: 2dEternalNoMask_51
+    21300104: 2dEternalNoMask_52
+    21300106: 2dEternalNoMask_53
+    21300108: 2dEternalNoMask_54
+    21300110: 2dEternalNoMask_55
+    21300112: 2dEternalNoMask_56
+    21300114: 2dEternalNoMask_57
+    21300116: 2dEternalNoMask_58
+    21300118: 2dEternalNoMask_59
+    21300120: 2dEternalNoMask_60
+    21300122: 2dEternalNoMask_61
+    21300124: 2dEternalNoMask_62
+    21300126: 2dEternalNoMask_63
+    21300128: 2dEternalNoMask_64
+    21300130: 2dEternalNoMask_65
+    21300132: 2dEternalNoMask_66
+    21300134: 2dEternalNoMask_67
+    21300136: 2dEternalNoMask_68
+    21300138: 2dEternalNoMask_69
+    21300140: 2dEternalNoMask_70
+    21300142: 2dEternalNoMask_71
+    21300144: 2dEternalNoMask_72
+    21300146: 2dEternalNoMask_73
+    21300148: 2dEternalNoMask_74
+    21300150: 2dEternalNoMask_75
+    21300152: 2dEternalNoMask_76
+    21300154: 2dEternalNoMask_77
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 2dEternalNoMask_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 234
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 234
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 235
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 235
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 236
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5979372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 237
+        width: 35
+        height: 18
+      alignment: 9
+      pivot: {x: 0.39763707, y: 1.000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 194
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 194
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 194
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 194
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 194
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 194
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 194
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 194
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 198
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 198
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 151
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3866869, y: 0.49999952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 151
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.31869966, y: 0.46762478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 151
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.19253558, y: 0.44640577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.10604, y: 12.482986}
+        - {x: 29.106041, y: 20.482986}
+        - {x: -6.893959, y: 20.482986}
+        - {x: -7.893959, y: 14.482986}
+        - {x: -7.893959, y: -15.517014}
+        - {x: -6.893959, y: -16.517014}
+        - {x: 10.106041, y: -16.517014}
+        - {x: 9.106041, y: -8.517014}
+        - {x: 33.10604, y: -2.5170135}
+    - name: 2dEternalNoMask_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 150
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21671811, y: 0.46937478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.98143, y: 16.633133}
+        - {x: 24.98143, y: 19.633133}
+        - {x: 14.98143, y: 19.633133}
+        - {x: 18.98143, y: 8.633133}
+        - {x: 17.98143, y: 11.633133}
+        - {x: 8.98143, y: 19.633133}
+        - {x: -6.01857, y: 19.633133}
+        - {x: -8.01857, y: 14.633133}
+        - {x: -8.01857, y: -17.366867}
+        - {x: 28.98143, y: -17.366867}
+    - name: 2dEternalNoMask_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 150
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3543312, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 150
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.43, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 150
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3543312, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 112
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 113
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.25718653, y: 0.4433428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.801834, y: 19.483002}
+        - {x: -10.801834, y: 9.483002}
+        - {x: -10.801834, y: -15.516998}
+        - {x: 30.198166, y: -15.516998}
+        - {x: 31.198166, y: -14.516998}
+        - {x: 31.198166, y: 11.483002}
+        - {x: 25.198166, y: 19.483002}
+    - name: 2dEternalNoMask_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 109
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.29298636, y: 0.50382787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.573532, y: 18.358368}
+        - {x: 17.573532, y: 7.358368}
+        - {x: 16.573532, y: 10.358368}
+        - {x: 7.573532, y: 18.358368}
+        - {x: -3.426468, y: 18.358368}
+        - {x: -11.426468, y: 7.358368}
+        - {x: -11.426468, y: -17.641632}
+        - {x: -6.426468, y: -18.641632}
+        - {x: 27.573532, y: -18.641632}
+        - {x: 27.573532, y: 14.358368}
+        - {x: 26.573532, y: 18.358368}
+    - name: 2dEternalNoMask_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 109
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3672638, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 109
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3672638, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 71
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 71
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 71
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3113577, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.2088776, y: 16.5}
+        - {x: -11.208878, y: 11.5}
+        - {x: -11.208878, y: -16.5}
+        - {x: 24.791122, y: -16.5}
+        - {x: 24.791122, y: 16.5}
+    - name: 2dEternalNoMask_36
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 71
+        width: 49
+        height: 33
+      alignment: 9
+      pivot: {x: 0.23541042, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.46489, y: -8.5}
+        - {x: 37.46489, y: 15.5}
+        - {x: 34.46489, y: 15.5}
+        - {x: 31.46489, y: 10.5}
+        - {x: 16.46489, y: 16.5}
+        - {x: -4.5351105, y: 16.5}
+        - {x: -11.53511, y: 9.5}
+        - {x: -11.53511, y: -11.5}
+        - {x: -10.53511, y: -14.5}
+        - {x: -7.5351105, y: -16.5}
+        - {x: 15.46489, y: -16.5}
+    - name: 2dEternalNoMask_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 24
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5770165, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 24
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 24
+        width: 45
+        height: 33
+      alignment: 9
+      pivot: {x: 0.18955281, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.470123, y: 16.499992}
+        - {x: -6.5298767, y: 16.499992}
+        - {x: -8.529877, y: 15.499992}
+        - {x: -8.529877, y: -16.500008}
+        - {x: 10.470123, y: -16.500008}
+        - {x: 28.470123, y: -6.5000076}
+        - {x: 36.470123, y: -1.5000076}
+        - {x: 36.470123, y: 3.4999924}
+    - name: 2dEternalNoMask_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 24
+        width: 46
+        height: 33
+      alignment: 9
+      pivot: {x: 0.18253659, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.603317, y: 16.499992}
+        - {x: -5.3966827, y: 16.499992}
+        - {x: -8.396683, y: 13.499992}
+        - {x: -8.396683, y: -16.500008}
+        - {x: 10.603317, y: -16.500008}
+        - {x: 37.603317, y: -5.5000076}
+        - {x: 37.603317, y: 11.499992}
+    - name: 2dEternalNoMask_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 234
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 239
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.30400026, y: 0.47999966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_43
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 238
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.20000017, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.600006, y: 16.5}
+        - {x: -7.600006, y: 13.5}
+        - {x: -7.600006, y: -16.5}
+        - {x: 13.399994, y: -16.5}
+        - {x: 30.399994, y: -8.5}
+        - {x: 30.399994, y: 3.5}
+        - {x: 22.399994, y: 16.5}
+    - name: 2dEternalNoMask_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 195
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.22973056, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5000305, y: 16.5}
+        - {x: -8.5000305, y: -16.5}
+        - {x: 10.4999695, y: -16.5}
+        - {x: 26.49997, y: -5.5}
+        - {x: 28.49997, y: -0.5}
+        - {x: 28.49997, y: 16.5}
+    - name: 2dEternalNoMask_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 155
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.30800048, y: 0.493939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_46
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 115
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.26, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_47
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 65
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3543312, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_48
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 65
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3672638, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_49
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 65
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3672638, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 31
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 31
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_52
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 31
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_53
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 31
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 31
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 30
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_56
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 107
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.38136902, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_57
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 107
+        width: 41
+        height: 35
+      alignment: 9
+      pivot: {x: 0.23235637, y: 0.46328083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.526611, y: -16.214828}
+        - {x: 12.473389, y: -16.214828}
+        - {x: 31.473389, y: -10.2148285}
+        - {x: 31.473389, y: 8.7851715}
+        - {x: 29.473389, y: 15.7851715}
+        - {x: 25.473389, y: 18.785172}
+        - {x: -3.5266113, y: 18.785172}
+        - {x: -9.526611, y: 12.7851715}
+    - name: 2dEternalNoMask_58
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 107
+        width: 38
+        height: 36
+      alignment: 9
+      pivot: {x: 0.25356573, y: 0.4551508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.364502, y: 19.61457}
+        - {x: 19.364502, y: 9.614571}
+        - {x: 18.364502, y: 3.6145706}
+        - {x: 18.364502, y: -1.3854294}
+        - {x: 16.364502, y: 1.6145706}
+        - {x: 13.364502, y: 0.6145706}
+        - {x: 18.364502, y: 7.6145706}
+        - {x: 17.364502, y: 10.614571}
+        - {x: 9.364502, y: 17.61457}
+        - {x: -1.635498, y: 16.61457}
+        - {x: -9.635498, y: 9.614571}
+        - {x: -9.635498, y: -16.38543}
+        - {x: 28.364502, y: -16.38543}
+        - {x: 28.364502, y: 16.61457}
+        - {x: 24.364502, y: 19.61457}
+    - name: 2dEternalNoMask_59
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 107
+        width: 19
+        height: 36
+      alignment: 9
+      pivot: {x: 0.78873324, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_60
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 62
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.43651512, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.404999, y: 16.999992}
+        - {x: -10.404999, y: 15.999992}
+        - {x: -14.404999, y: 7.9999924}
+        - {x: -14.404999, y: -12.000008}
+        - {x: -12.404999, y: -17.000008}
+        - {x: 18.595001, y: -17.000008}
+        - {x: 18.595001, y: 16.999992}
+    - name: 2dEternalNoMask_61
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 62
+        width: 44
+        height: 34
+      alignment: 9
+      pivot: {x: 0.29253942, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.128265, y: 16.999992}
+        - {x: 6.1282654, y: 16.999992}
+        - {x: -2.8717346, y: 15.999992}
+        - {x: -12.871735, y: 7.9999924}
+        - {x: -12.871735, y: -17.000008}
+        - {x: 18.128265, y: -17.000008}
+        - {x: 31.128265, y: -7.0000076}
+        - {x: 31.128265, y: 2.9999924}
+        - {x: 26.128265, y: 11.999992}
+    - name: 2dEternalNoMask_62
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 61
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.27758104, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.896759, y: 18.000008}
+        - {x: 19.896759, y: 8.000008}
+        - {x: 18.896759, y: 2.0000076}
+        - {x: 18.896759, y: -2.9999924}
+        - {x: 16.896759, y: 0.0000076293945}
+        - {x: 13.896759, y: -0.9999924}
+        - {x: 18.896759, y: 6.0000076}
+        - {x: 17.896759, y: 9.000008}
+        - {x: 9.896759, y: 16.000008}
+        - {x: -1.103241, y: 15.000008}
+        - {x: -11.103241, y: 5.0000076}
+        - {x: -11.103241, y: -17.999992}
+        - {x: 25.896759, y: -17.999992}
+        - {x: 28.896759, y: -14.999992}
+        - {x: 28.896759, y: 11.000008}
+        - {x: 22.896759, y: 18.000008}
+    - name: 2dEternalNoMask_63
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 59
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.27758026, y: 0.55163723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.1032104, y: 16.14106}
+        - {x: -11.10321, y: 12.14106}
+        - {x: -11.10321, y: -18.85894}
+        - {x: -8.10321, y: -19.85894}
+        - {x: 18.89679, y: -19.85894}
+        - {x: 18.89679, y: 12.14106}
+        - {x: 16.89679, y: 16.14106}
+    - name: 2dEternalNoMask_64
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 23
+        width: 27
+        height: 35
+      alignment: 9
+      pivot: {x: 0.35915008, y: 0.47357035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 22
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.24810243, y: 0.52619034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_66
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 25
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47368795, y: 0.56835735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_67
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 153
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.381369, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_68
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 153
+        width: 41
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2323564, y: 0.4632808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.526611, y: 18.785172}
+        - {x: -9.526611, y: -15.2148285}
+        - {x: -8.526611, y: -16.214828}
+        - {x: 15.473389, y: -16.214828}
+        - {x: 31.473389, y: -10.2148285}
+        - {x: 31.473389, y: 17.785172}
+        - {x: 27.473389, y: 18.785172}
+    - name: 2dEternalNoMask_69
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 153
+        width: 38
+        height: 36
+      alignment: 9
+      pivot: {x: 0.2535657, y: 0.4551508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.364502, y: 19.614563}
+        - {x: 19.364502, y: 9.614563}
+        - {x: 18.364502, y: 3.614563}
+        - {x: 18.364502, y: -1.385437}
+        - {x: 16.364502, y: 1.614563}
+        - {x: 13.364502, y: 0.614563}
+        - {x: 18.364502, y: 7.614563}
+        - {x: 17.364502, y: 10.614563}
+        - {x: 9.364502, y: 17.614563}
+        - {x: -2.635498, y: 18.614563}
+        - {x: -9.635498, y: 8.614563}
+        - {x: -9.635498, y: -12.385437}
+        - {x: -7.635498, y: -16.385437}
+        - {x: 25.364502, y: -16.385437}
+        - {x: 28.364502, y: -12.385437}
+        - {x: 28.364502, y: 12.614563}
+        - {x: 22.364502, y: 19.614563}
+    - name: 2dEternalNoMask_70
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 196
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4365151, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4049988, y: 17}
+        - {x: -14.404999, y: 9}
+        - {x: -14.404999, y: -17}
+        - {x: 18.595001, y: -17}
+        - {x: 18.595001, y: 15}
+        - {x: 16.595001, y: 17}
+    - name: 2dEternalNoMask_71
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 196
+        width: 44
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2925394, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.1282654, y: 17}
+        - {x: -2.8717346, y: 16}
+        - {x: -12.871735, y: 6}
+        - {x: -12.871735, y: -17}
+        - {x: 21.128265, y: -17}
+        - {x: 31.128265, y: -8}
+        - {x: 31.128265, y: 5}
+        - {x: 22.128265, y: 17}
+    - name: 2dEternalNoMask_72
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 195
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.277581, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.896759, y: 18}
+        - {x: 19.896759, y: 8}
+        - {x: 18.896759, y: 2}
+        - {x: 18.896759, y: -3}
+        - {x: 16.896759, y: 0}
+        - {x: 13.896759, y: -1}
+        - {x: 18.896759, y: 6}
+        - {x: 17.896759, y: 9}
+        - {x: 9.896759, y: 16}
+        - {x: -1.103241, y: 15}
+        - {x: -11.103241, y: 5}
+        - {x: -11.103241, y: -18}
+        - {x: 25.896759, y: -18}
+        - {x: 28.896759, y: -15}
+        - {x: 28.896759, y: 11}
+        - {x: 22.896759, y: 18}
+    - name: 2dEternalNoMask_73
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 105
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7842349, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_74
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 237
+        width: 27
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3591501, y: 0.4735703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_75
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 236
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.2481024, y: 0.5261903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 239
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4736879, y: 0.5683573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2dEternalNoMask_77
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 233
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 0.2775803, y: 0.5516372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.1032104, y: 16.141068}
+        - {x: -11.10321, y: 12.1410675}
+        - {x: -11.10321, y: -18.858932}
+        - {x: -8.10321, y: -19.858932}
+        - {x: 18.89679, y: -19.858932}
+        - {x: 18.89679, y: 12.1410675}
+        - {x: 16.89679, y: 16.141068}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
